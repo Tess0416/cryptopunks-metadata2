@@ -6,34 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4218,
+      "value": 6996,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 150.16,
+      "value": 90.47,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Normal Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Peak Spike"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Shadow Beard"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8441,
+      "value": 5549,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 76.74,
+      "value": 109.75,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Clown Hair Green"
     }
   ]
 }

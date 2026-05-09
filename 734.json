@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7370,
+      "value": 5741,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 95.96,
+      "value": 107.18,
       "display_type": "number"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Goat"
     }
   ]
 }

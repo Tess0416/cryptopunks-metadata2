@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4839,
+      "value": 8661,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 137.67,
+      "value": 64.85,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Pipe"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Cigarette"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Horned Rim Glasses"
     }
   ]
 }

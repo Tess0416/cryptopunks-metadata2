@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3915,
+      "value": 5876,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 157.62,
+      "value": 105.34,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Cowboy Hat"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9292,
+      "value": 7348,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 59.8,
+      "value": 85.55,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Headband"
     }
   ]
 }

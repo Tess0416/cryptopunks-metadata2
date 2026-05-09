@@ -10,26 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1325,
+      "value": 7018,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 259.29,
+      "value": 90.28,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 1,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Nose"
     }
   ]
 }

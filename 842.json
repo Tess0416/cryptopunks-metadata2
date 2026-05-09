@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3323,
+      "value": 4723,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 173.42,
+      "value": 122.48,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Normal Beard"
     }
   ]
 }

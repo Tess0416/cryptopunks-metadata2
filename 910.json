@@ -6,34 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9502,
+      "value": 3443,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 55.19,
+      "value": 148.8,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Chinstrap"
     }
   ]
 }

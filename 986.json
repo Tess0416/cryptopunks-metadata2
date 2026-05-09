@@ -6,42 +6,34 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3701,
+      "value": 1082,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 163.4,
+      "value": 264.75,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Blonde Short"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Luxurious Beard"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "Tiara"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7563,
+      "value": 5091,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 93.24,
+      "value": 115.82,
       "display_type": "number"
     },
     {
@@ -24,12 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 1,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Luxurious Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Small Shades"
     }
   ]
 }

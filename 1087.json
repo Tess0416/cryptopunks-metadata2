@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1323,
+      "value": 8197,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 259.32,
+      "value": 72.94,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Frumpy Hair"
+      "value": "VR"
     }
   ]
 }

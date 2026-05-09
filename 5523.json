@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4999,
+      "value": 5323,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 134.72,
+      "value": 111.91,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Accessory",
       "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Regular Shades"
     }
   ]
 }

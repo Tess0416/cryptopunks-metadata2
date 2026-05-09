@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4801,
+      "value": 4742,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 138.58,
+      "value": 122.07,
       "display_type": "number"
     },
     {
@@ -24,16 +24,8 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 2,
       "display_type": "number"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Wild Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Hot Lipstick"
     },
     {
       "trait_type": "Accessory",
@@ -41,7 +33,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Spots"
     }
   ]
 }

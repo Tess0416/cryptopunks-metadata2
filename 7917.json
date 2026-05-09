@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6720,
+      "value": 5120,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 105.48,
+      "value": 115.3,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Classic Shades"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3267,
+      "value": 2066,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 174.53,
+      "value": 205.51,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Pilot Helmet"
     }
   ]
 }

@@ -10,42 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1930,
+      "value": 221,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 225.23,
+      "value": 366,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 5,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Cowboy Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Luxurious Beard"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Beanie"
     }
   ]
 }

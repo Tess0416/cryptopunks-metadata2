@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8587,
+      "value": 8802,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 73.17,
+      "value": 62.43,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Mohawk"
     }
   ]
 }

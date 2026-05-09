@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2768,
+      "value": 6583,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 189.2,
+      "value": 95.14,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Cowboy Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Classic Shades"
     }
   ]
 }

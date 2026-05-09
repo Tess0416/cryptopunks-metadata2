@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9154,
+      "value": 5060,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 62.38,
+      "value": 116.46,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Blonde Bob"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Headband"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Regular Shades"
     }
   ]
 }

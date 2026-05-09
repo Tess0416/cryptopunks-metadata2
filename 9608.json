@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7068,
+      "value": 3549,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 99.92,
+      "value": 146.06,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Straight Hair Blonde"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Tassle Hat"
     }
   ]
 }

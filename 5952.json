@@ -10,26 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5183,
+      "value": 446,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 131.72,
+      "value": 320.68,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Frumpy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Orange Side"
     },
     {
       "trait_type": "Accessory",

@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2572,
+      "value": 7944,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 197.65,
+      "value": 76.48,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Classic Shades"
     }
   ]
 }

@@ -6,38 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 492,
+      "value": 3159,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 331.21,
+      "value": 156.58,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mustache"
     }
   ]
 }

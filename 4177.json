@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6897,
+      "value": 2387,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 102.46,
+      "value": 186.01,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
+      "value": "Blonde Short"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Green Eye Shadow"
     }
   ]
 }

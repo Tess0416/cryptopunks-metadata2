@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2934,
+      "value": 6622,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 183.89,
+      "value": 94.83,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -33,11 +33,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Fedora"
     }
   ]
 }

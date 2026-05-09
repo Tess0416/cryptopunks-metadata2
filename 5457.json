@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4568,
+      "value": 5065,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 142.39,
+      "value": 116.38,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Top Hat"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3906,
+      "value": 5613,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 157.84,
+      "value": 108.8,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Frumpy Hair"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Front Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Peak Spike"
     }
   ]
 }

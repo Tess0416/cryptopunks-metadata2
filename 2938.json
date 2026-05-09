@@ -6,34 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9118,
+      "value": 2590,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 63.05,
+      "value": 177.48,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Headband"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Top Hat"
     }
   ]
 }

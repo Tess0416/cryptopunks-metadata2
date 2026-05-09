@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3450,
+      "value": 3959,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 169.82,
+      "value": 137.08,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Clown Hair Green"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Silver Chain"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2552,
+      "value": 3946,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 198.66,
+      "value": 137.22,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Purple Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "VR"
     }
   ]
 }

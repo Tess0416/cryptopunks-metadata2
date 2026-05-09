@@ -6,38 +6,46 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8626,
+      "value": 107,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 72.35,
+      "value": 437.77,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Nose"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Gold Chain"
     }
   ]
 }

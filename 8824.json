@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3767,
+      "value": 5016,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 161.79,
+      "value": 117.28,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Stringy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Straight Hair"
     }
   ]
 }

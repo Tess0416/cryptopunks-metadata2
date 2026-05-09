@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2024,
+      "value": 1405,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 221.21,
+      "value": 244.87,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Pilot Helmet"
-    },
-    {
-      "trait_type": "Accessory",
       "value": "Buck Teeth"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Beanie"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3427,
+      "value": 1209,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 170.54,
+      "value": 256.7,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Beanie"
     }
   ]
 }

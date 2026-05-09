@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Zombie"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1672,
+      "value": 1163,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 240.93,
+      "value": 258.68,
       "display_type": "number"
     },
     {
@@ -24,20 +24,28 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Purple Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Wild Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Frumpy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Wild Blonde"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Bandana"
     }
   ]
 }

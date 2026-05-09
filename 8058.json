@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4150,
+      "value": 2250,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 151.54,
+      "value": 193.67,
       "display_type": "number"
     },
     {
@@ -24,16 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Crazy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Dark Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mole"
     }
   ]
 }

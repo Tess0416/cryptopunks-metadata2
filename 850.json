@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8401,
+      "value": 1097,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 77.24,
+      "value": 263.61,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Pipe"
     }
   ]
 }

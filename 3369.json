@@ -10,30 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 722,
+      "value": 2442,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 302.13,
+      "value": 182.69,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Frumpy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Hot Lipstick"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Red Mohawk"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Blonde Bob"
     }
   ]
 }

@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4292,
+      "value": 7250,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 148.31,
+      "value": 87.05,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
+      "value": "Fedora"
+    },
+    {
+      "trait_type": "Accessory",
       "value": "Cap"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Spots"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Luxurious Beard"
     }
   ]
 }

@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2967,
+      "value": 371,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 182.68,
+      "value": 330.95,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Choker"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Red Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Crazy Hair"
     }
   ]
 }

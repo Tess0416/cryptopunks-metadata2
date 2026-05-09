@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6110,
+      "value": 7580,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 113.37,
+      "value": 81.57,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Frown"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Front Beard Dark"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3893,
+      "value": 2105,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 158.46,
+      "value": 202.6,
       "display_type": "number"
     },
     {
@@ -24,16 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Peak Spike"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Frown"
     }
   ]
 }

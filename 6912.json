@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1738,
+      "value": 4718,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 237.32,
+      "value": 122.57,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Black Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Purple Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Hot Lipstick"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Messy Hair"
     }
   ]
 }

@@ -6,42 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2658,
+      "value": 829,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 193.92,
+      "value": 283.21,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Normal Beard"
     }
   ]
 }

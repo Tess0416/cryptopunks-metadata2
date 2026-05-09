@@ -6,46 +6,30 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 110,
+      "value": 9156,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 474.37,
+      "value": 56.79,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 5,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Purple Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Buck Teeth"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Crazy Hair"
     }
   ]
 }

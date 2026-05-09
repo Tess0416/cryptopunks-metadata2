@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 639,
+      "value": 4592,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 313.25,
+      "value": 125.03,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Cigarette"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Front Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Normal Beard"
     }
   ]
 }

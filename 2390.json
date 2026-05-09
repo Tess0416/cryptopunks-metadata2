@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8094,
+      "value": 9836,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 82.77,
+      "value": 41.38,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Hot Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Stringy Hair"
     }
   ]
 }

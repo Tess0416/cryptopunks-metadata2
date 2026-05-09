@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4962,
+      "value": 3381,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 135.41,
+      "value": 150.4,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
-    },
-    {
-      "trait_type": "Accessory",
       "value": "Wild Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Purple Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mole"
     }
   ]
 }

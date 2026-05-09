@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 695,
+      "value": 1473,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 304.87,
+      "value": 239.83,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Half Shaved"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Orange Side"
     }
   ]
 }

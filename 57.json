@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 541,
+      "value": 3924,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 324.62,
+      "value": 137.54,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Stringy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Crazy Hair"
     }
   ]
 }

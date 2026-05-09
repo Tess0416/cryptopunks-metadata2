@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 137,
+      "value": 2509,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 439.34,
+      "value": 180.14,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Clown Hair Green"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Bandana"
     }
   ]
 }

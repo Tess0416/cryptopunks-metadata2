@@ -6,38 +6,34 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5178,
+      "value": 4133,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 131.76,
+      "value": 133.15,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",

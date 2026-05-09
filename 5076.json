@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3780,
+      "value": 3671,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 161.54,
+      "value": 142.72,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Purple Hair"
     }
   ]
 }

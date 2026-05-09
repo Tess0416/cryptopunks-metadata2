@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5806,
+      "value": 8180,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 118.74,
+      "value": 73.13,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Blue Eye Shadow"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7465,
+      "value": 8486,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 94.87,
+      "value": 67.59,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Crazy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Big Shades"
     }
   ]
 }

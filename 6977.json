@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 952,
+      "value": 2413,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 284.63,
+      "value": 184.88,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Straight Hair Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Blonde Short"
     }
   ]
 }

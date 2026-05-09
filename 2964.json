@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1217,
+      "value": 6785,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 266.98,
+      "value": 92.7,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Cowboy Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Nerd Glasses"
     }
   ]
 }

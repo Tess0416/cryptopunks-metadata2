@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9253,
+      "value": 7551,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 60.76,
+      "value": 82.25,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Headband"
     }
   ]
 }

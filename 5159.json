@@ -6,34 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7201,
+      "value": 1274,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 98.21,
+      "value": 252.6,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Pilot Helmet"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cap"
     }
   ]
 }

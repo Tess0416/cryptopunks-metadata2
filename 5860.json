@@ -6,38 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1376,
+      "value": 4234,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 256.77,
+      "value": 131.07,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "VR"
     }
   ]
 }

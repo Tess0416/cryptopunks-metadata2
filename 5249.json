@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1197,
+      "value": 1771,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 267.88,
+      "value": 221.53,
       "display_type": "number"
     },
     {
@@ -24,12 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Blonde Bob"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Red Mohawk"
     },
     {
       "trait_type": "Accessory",

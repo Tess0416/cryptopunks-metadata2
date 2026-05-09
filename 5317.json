@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5801,
+      "value": 4985,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 118.85,
+      "value": 117.8,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Black Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Blue Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Gold Chain"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6338,
+      "value": 7263,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 110.3,
+      "value": 86.84,
       "display_type": "number"
     },
     {
@@ -24,20 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Buck Teeth"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
       "value": "Horned Rim Glasses"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Purple Hair"
     }
   ]
 }

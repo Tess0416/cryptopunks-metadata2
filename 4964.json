@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7901,
+      "value": 1520,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 86.73,
+      "value": 237.15,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Clown Nose"
     }
   ]
 }

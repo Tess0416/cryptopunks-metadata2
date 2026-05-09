@@ -10,30 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1453,
+      "value": 2459,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 253.12,
+      "value": 182.02,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Medical Mask"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Tassle Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Green Eye Shadow"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Stringy Hair"
     }
   ]
 }

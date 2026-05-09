@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5145,
+      "value": 5693,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 132.15,
+      "value": 107.71,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cowboy Hat"
     }
   ]
 }

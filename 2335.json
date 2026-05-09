@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8909,
+      "value": 1481,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 66.5,
+      "value": 239.34,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Hot Lipstick"
     }
   ]
 }

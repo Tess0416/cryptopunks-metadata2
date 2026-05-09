@@ -6,34 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7555,
+      "value": 629,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 93.36,
+      "value": 299.65,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Silver Chain"
     }
   ]
 }

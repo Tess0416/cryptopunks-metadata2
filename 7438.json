@@ -10,42 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1034,
+      "value": 8296,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 279.32,
+      "value": 70.68,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 5,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Classic Shades"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "3D Glasses"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Knitted Cap"
     }
   ]
 }

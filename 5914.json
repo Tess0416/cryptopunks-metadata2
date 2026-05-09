@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5190,
+      "value": 7402,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 131.55,
+      "value": 84.51,
       "display_type": "number"
     },
     {
@@ -24,12 +24,8 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Front Beard"
     },
     {
       "trait_type": "Accessory",
@@ -37,7 +33,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Classic Shades"
     }
   ]
 }

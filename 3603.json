@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1481,
+      "value": 4932,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 251.35,
+      "value": 118.8,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Wild Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "VR"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1739,
+      "value": 8383,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 237.28,
+      "value": 69.52,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Normal Beard Black"
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "VR"
     }
   ]
 }

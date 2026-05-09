@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6244,
+      "value": 5707,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 111.43,
+      "value": 107.56,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Blonde Short"
     }
   ]
 }

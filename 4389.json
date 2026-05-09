@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1486,
+      "value": 1695,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 251.25,
+      "value": 226.75,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
+      "value": "Wild Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Hot Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Pilot Helmet"
     }
   ]
 }

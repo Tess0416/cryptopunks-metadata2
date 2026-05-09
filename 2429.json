@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6571,
+      "value": 5769,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 107.52,
+      "value": 106.88,
       "display_type": "number"
     },
     {
@@ -24,20 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Blue Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Messy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Black Lipstick"
     }
   ]
 }

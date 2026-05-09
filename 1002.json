@@ -10,42 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 240,
+      "value": 1491,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 383.22,
+      "value": 238.46,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 5,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Handlebars"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Eye Patch"
     }
   ]
 }

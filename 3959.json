@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6013,
+      "value": 8202,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 114.94,
+      "value": 72.85,
       "display_type": "number"
     },
     {
@@ -24,24 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Cap"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Do-rag"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8545,
+      "value": 8087,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 74.22,
+      "value": 74.37,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Cigarette"
     }
   ]
 }

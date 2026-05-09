@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 429,
+      "value": 2182,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 339.43,
+      "value": 197.64,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Wild Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Medical Mask"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Straight Hair"
     }
   ]
 }

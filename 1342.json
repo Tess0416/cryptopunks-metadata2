@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7541,
+      "value": 908,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 93.61,
+      "value": 276.86,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Big Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Pilot Helmet"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Regular Shades"
     }
   ]
 }

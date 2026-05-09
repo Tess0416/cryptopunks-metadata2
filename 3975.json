@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1105,
+      "value": 6028,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 273.73,
+      "value": 103.14,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Normal Beard"
     }
   ]
 }

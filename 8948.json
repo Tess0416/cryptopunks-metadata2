@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4514,
+      "value": 3719,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 143.55,
+      "value": 141.63,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Blue Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Blonde Short"
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Eye Patch"
     }
   ]
 }

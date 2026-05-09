@@ -10,30 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3482,
+      "value": 5658,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 168.86,
+      "value": 108.12,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Big Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Eye Shadow"
     }
   ]
 }

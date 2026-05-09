@@ -6,34 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7594,
+      "value": 2216,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 92.68,
+      "value": 195.71,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Normal Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Front Beard Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Spots"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Do-rag"
     }
   ]
 }

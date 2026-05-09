@@ -10,34 +10,26 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3669,
+      "value": 6192,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 164.21,
+      "value": 100.51,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Small Shades"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Big Beard"
     }
   ]
 }

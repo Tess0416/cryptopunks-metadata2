@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8058,
+      "value": 4672,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 83.57,
+      "value": 123.46,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Handlebars"
     }
   ]
 }

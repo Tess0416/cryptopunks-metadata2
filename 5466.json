@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 379,
+      "value": 5961,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 348.75,
+      "value": 104.07,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Stringy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Hot Lipstick"
     }
   ]
 }

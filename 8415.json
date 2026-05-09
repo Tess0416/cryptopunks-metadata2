@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1290,
+      "value": 1142,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 261.37,
+      "value": 259.51,
       "display_type": "number"
     },
     {
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Bandana"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Frumpy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Tiara"
     }
   ]
 }

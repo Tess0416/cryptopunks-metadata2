@@ -10,30 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3310,
+      "value": 1920,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 173.68,
+      "value": 212.75,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Purple Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Dark Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Tassle Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Frumpy Hair"
     }
   ]
 }

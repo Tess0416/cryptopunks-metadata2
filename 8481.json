@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3584,
+      "value": 1169,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 166.27,
+      "value": 258.63,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Frumpy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Orange Side"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Hair"
     }
   ]
 }

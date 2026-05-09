@@ -6,42 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5488,
+      "value": 3947,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 125.33,
+      "value": 137.21,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
       "value": "Cap"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Goat"
     }
   ]
 }

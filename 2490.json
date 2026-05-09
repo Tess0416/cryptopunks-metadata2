@@ -6,42 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 698,
+      "value": 5428,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 304.66,
+      "value": 110.78,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Hoodie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Luxurious Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Muttonchops"
     }
   ]
 }

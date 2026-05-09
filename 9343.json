@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 997,
+      "value": 5600,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 281.94,
+      "value": 109.1,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Buck Teeth"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Luxurious Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Do-rag"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5205,
+      "value": 7815,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 131.25,
+      "value": 77.91,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Shadow Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Eye Patch"
     }
   ]
 }

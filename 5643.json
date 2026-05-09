@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8133,
+      "value": 5459,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 82.14,
+      "value": 110.62,
       "display_type": "number"
     },
     {
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
@@ -33,11 +33,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Cigarette"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "Goat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Regular Shades"
     }
   ]
 }

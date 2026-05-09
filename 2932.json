@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2046,
+      "value": 173,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 220.22,
+      "value": 387.78,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Messy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Orange Side"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Crazy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "Pilot Helmet"
     }
   ]
 }

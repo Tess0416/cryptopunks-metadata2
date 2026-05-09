@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8092,
+      "value": 8561,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 82.77,
+      "value": 66.21,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Small Shades"
     }
   ]
 }

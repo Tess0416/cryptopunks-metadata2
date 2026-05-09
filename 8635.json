@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9896,
+      "value": 6464,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 40.9,
+      "value": 96.86,
       "display_type": "number"
     },
     {
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
@@ -33,7 +33,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "Straight Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
     }
   ]
 }

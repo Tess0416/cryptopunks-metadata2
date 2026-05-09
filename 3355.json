@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 206,
+      "value": 826,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 397.91,
+      "value": 283.45,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Straight Hair"
     },
     {
       "trait_type": "Accessory",

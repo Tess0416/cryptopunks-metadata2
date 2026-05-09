@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8581,
+      "value": 8132,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 73.38,
+      "value": 73.84,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "VR"
     }
   ]
 }

@@ -6,42 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1380,
+      "value": 3269,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 256.35,
+      "value": 153.32,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Spots"
     }
   ]
 }

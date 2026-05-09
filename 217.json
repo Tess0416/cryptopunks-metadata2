@@ -6,38 +6,34 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1612,
+      "value": 7418,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 245.06,
+      "value": 84.25,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Medical Mask"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Eye Patch"
     }
   ]
 }

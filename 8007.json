@@ -10,38 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2680,
+      "value": 9846,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 192.93,
+      "value": 41.25,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
       "value": "Regular Shades"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
     }
   ]
 }

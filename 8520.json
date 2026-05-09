@@ -6,34 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8390,
+      "value": 267,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 77.5,
+      "value": 352.39,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Spots"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mole"
     }
   ]
 }

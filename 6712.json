@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Zombie"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 358,
+      "value": 113,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 352.63,
+      "value": 427.99,
       "display_type": "number"
     },
     {
@@ -24,12 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
@@ -37,11 +41,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Handlebars"
     }
   ]
 }

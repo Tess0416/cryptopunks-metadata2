@@ -10,30 +10,26 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3138,
+      "value": 8641,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 177.45,
+      "value": 65.02,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Peak Spike"
     }
   ]
 }

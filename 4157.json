@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9416,
+      "value": 6613,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 57.42,
+      "value": 94.99,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Front Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "Big Shades"
     }
   ]
 }

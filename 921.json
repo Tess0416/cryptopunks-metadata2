@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8623,
+      "value": 8684,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 72.37,
+      "value": 64.39,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Headband"
     }
   ]
 }

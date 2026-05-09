@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9511,
+      "value": 8005,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 54.83,
+      "value": 75.52,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Normal Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Peak Spike"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
     }
   ]
 }

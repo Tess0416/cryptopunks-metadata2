@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8230,
+      "value": 5237,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 80.05,
+      "value": 113.29,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
+      "value": "Fedora"
+    },
+    {
+      "trait_type": "Accessory",
       "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Front Beard"
     }
   ]
 }

@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9312,
+      "value": 3474,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 59.39,
+      "value": 148.02,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Classic Shades"
     }
   ]
 }

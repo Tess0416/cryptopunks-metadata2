@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9878,
+      "value": 8618,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 42.18,
+      "value": 65.35,
       "display_type": "number"
     },
     {
@@ -24,16 +24,12 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Do-rag"
     }
   ]
 }

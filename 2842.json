@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7821,
+      "value": 7990,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 87.99,
+      "value": 75.82,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Peak Spike"
     }
   ]
 }

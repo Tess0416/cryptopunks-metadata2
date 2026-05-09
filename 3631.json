@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9591,
+      "value": 6092,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 52.8,
+      "value": 102.16,
       "display_type": "number"
     },
     {
@@ -24,12 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 1,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Top Hat"
     }
   ]
 }

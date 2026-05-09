@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 312,
+      "value": 7042,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 362.62,
+      "value": 89.99,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Luxurious Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Nerd Glasses"
     }
   ]
 }

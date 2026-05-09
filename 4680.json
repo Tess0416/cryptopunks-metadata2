@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 820,
+      "value": 3078,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 292.94,
+      "value": 159.09,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Bandana"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Blonde Short"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Hot Lipstick"
     }
   ]
 }

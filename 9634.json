@@ -6,30 +6,46 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Zombie"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2026,
+      "value": 1136,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 221.19,
+      "value": 260.4,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 1,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Peak Spike"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Headband"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Fedora"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7414,
+      "value": 5637,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 95.5,
+      "value": 108.41,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Blonde Bob"
     }
   ]
 }

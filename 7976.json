@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7218,
+      "value": 1109,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 97.89,
+      "value": 262.25,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Normal Beard"
     }
   ]
 }

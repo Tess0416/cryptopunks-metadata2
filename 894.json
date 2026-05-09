@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1705,
+      "value": 8344,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 238.83,
+      "value": 70.05,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Vape"
     }
   ]
 }

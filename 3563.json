@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2538,
+      "value": 9965,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 199.42,
+      "value": 32.68,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Cigarette"
     }
   ]
 }

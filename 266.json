@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6735,
+      "value": 6493,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 105.29,
+      "value": 96.47,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Medical Mask"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mole"
     }
   ]
 }

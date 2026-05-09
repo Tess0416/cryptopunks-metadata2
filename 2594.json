@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5195,
+      "value": 5392,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 131.45,
+      "value": 111.04,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Frumpy Hair"
+      "value": "Headband"
     }
   ]
 }

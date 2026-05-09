@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7158,
+      "value": 6862,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 98.69,
+      "value": 91.96,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Straight Hair Dark"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Regular Shades"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6111,
+      "value": 8403,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 113.37,
+      "value": 69.16,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Normal Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frumpy Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "VR"
     }
   ]
 }

@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6452,
+      "value": 3023,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 108.73,
+      "value": 160.53,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Straight Hair Dark"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Wild Blonde"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Big Shades"
     }
   ]
 }

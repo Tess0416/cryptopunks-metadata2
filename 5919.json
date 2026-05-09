@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4681,
+      "value": 2248,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 140.89,
+      "value": 193.7,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Wild White Hair"
     }
   ]
 }

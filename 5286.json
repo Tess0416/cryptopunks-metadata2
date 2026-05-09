@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5870,
+      "value": 8600,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 117.36,
+      "value": 65.6,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Frown"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Shadow Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Earring"
     }
   ]
 }

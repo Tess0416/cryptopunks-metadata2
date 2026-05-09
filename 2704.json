@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8174,
+      "value": 7714,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 81.32,
+      "value": 79.63,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Green Eye Shadow"
     }
   ]
 }

@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1074,
+      "value": 3397,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 276.26,
+      "value": 149.94,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "Shadow Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Fedora"
     }
   ]
 }

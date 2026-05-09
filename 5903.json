@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4774,
+      "value": 2424,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 139.17,
+      "value": 184.21,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Dark Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Blonde Short"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Purple Eye Shadow"
     }
   ]
 }

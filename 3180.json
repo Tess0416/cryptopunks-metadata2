@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8208,
+      "value": 6503,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 80.6,
+      "value": 96.28,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Normal Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
     }
   ]
 }

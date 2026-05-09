@@ -10,30 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1881,
+      "value": 3342,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 228.11,
+      "value": 151.53,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Half Shaved"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Frumpy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Nose"
     }
   ]
 }

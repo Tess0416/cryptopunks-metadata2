@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8496,
+      "value": 5743,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 75.34,
+      "value": 107.18,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "Big Beard"
     }
   ]
 }

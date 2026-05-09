@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6220,
+      "value": 1299,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 111.7,
+      "value": 251.51,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Orange Side"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Regular Shades"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9853,
+      "value": 8029,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 43.04,
+      "value": 75.07,
       "display_type": "number"
     },
     {
@@ -24,12 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 1,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Black Lipstick"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Big Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Small Shades"
     }
   ]
 }

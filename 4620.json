@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2601,
+      "value": 9505,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 196.42,
+      "value": 49.92,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Cigarette"
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Mustache"
     }
   ]
 }

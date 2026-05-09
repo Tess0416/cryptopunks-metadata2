@@ -6,34 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Zombie"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9097,
+      "value": 2150,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 63.55,
+      "value": 199.44,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Normal Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Luxurious Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Hot Lipstick"
     }
   ]
 }

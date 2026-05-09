@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4937,
+      "value": 1443,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 135.98,
+      "value": 241.97,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Blue Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Hot Lipstick"
     }
   ]
 }

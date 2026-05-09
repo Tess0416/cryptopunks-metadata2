@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3807,
+      "value": 4380,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 160.7,
+      "value": 128.9,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Messy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Spots"
     }
   ]
 }

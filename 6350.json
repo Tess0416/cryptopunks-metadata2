@@ -6,38 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3914,
+      "value": 5706,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 157.63,
+      "value": 107.57,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Normal Beard Black"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mole"
     }
   ]
 }

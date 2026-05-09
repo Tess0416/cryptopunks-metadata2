@@ -6,34 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 253,
+      "value": 3683,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 379.74,
+      "value": 142.38,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Hoodie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Chinstrap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Silver Chain"
     }
   ]
 }

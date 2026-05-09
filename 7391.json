@@ -10,34 +10,26 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2597,
+      "value": 8435,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 196.46,
+      "value": 68.64,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Front Beard"
     }
   ]
 }

@@ -10,42 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1077,
+      "value": 6909,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 275.76,
+      "value": 91.48,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 5,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Eye Mask"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Bandana"
     }
   ]
 }

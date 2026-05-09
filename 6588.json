@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3281,
+      "value": 8086,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 174.31,
+      "value": 74.4,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Cigarette"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Small Shades"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8492,
+      "value": 8335,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 75.39,
+      "value": 70.09,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Purple Hair"
     }
   ]
 }

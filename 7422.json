@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8330,
+      "value": 5345,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 78.28,
+      "value": 111.67,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Classic Shades"
     }
   ]
 }

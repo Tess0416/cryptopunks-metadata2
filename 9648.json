@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5672,
+      "value": 289,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 121.32,
+      "value": 347.09,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Spots"
     }
   ]
 }

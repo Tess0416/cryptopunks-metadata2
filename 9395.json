@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3888,
+      "value": 4527,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 158.53,
+      "value": 126.36,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
-    },
-    {
-      "trait_type": "Accessory",
       "value": "Big Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Luxurious Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Horned Rim Glasses"
     }
   ]
 }

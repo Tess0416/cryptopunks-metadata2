@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5715,
+      "value": 2892,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 120.5,
+      "value": 164.84,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Frumpy Hair"
+      "value": "Blonde Bob"
     },
     {
       "trait_type": "Accessory",
       "value": "Mole"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Hair Green"
     }
   ]
 }

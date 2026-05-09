@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6507,
+      "value": 7137,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 108.07,
+      "value": 88.73,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Clown Nose"
     }
   ]
 }

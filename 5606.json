@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6869,
+      "value": 825,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 102.97,
+      "value": 283.46,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Rosy Cheeks"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Tiara"
     }
   ]
 }

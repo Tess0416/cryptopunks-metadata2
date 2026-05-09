@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9111,
+      "value": 7343,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 63.17,
+      "value": 85.64,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Crazy Hair"
     }
   ]
 }

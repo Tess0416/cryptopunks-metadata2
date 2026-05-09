@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2216,
+      "value": 6319,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 213.03,
+      "value": 98.69,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Mustache"
     }
   ]
 }

@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5122,
+      "value": 430,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 132.5,
+      "value": 322.65,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Big Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Beanie"
     }
   ]
 }

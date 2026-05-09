@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2669,
+      "value": 6359,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 193.38,
+      "value": 98.21,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Normal Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Gold Chain"
     }
   ]
 }

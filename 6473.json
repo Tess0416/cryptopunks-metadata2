@@ -6,38 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8278,
+      "value": 1899,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 79.27,
+      "value": 213.75,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Cowboy Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "Luxurious Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Spots"
     }
   ]
 }

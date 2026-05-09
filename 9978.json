@@ -6,42 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 354,
+      "value": 4132,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 353.5,
+      "value": 133.16,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Cowboy Hat"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5356,
+      "value": 6232,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 128.34,
+      "value": 99.9,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Half Shaved"
     }
   ]
 }

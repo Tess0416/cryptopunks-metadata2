@@ -10,30 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9525,
+      "value": 1464,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 54.55,
+      "value": 240.56,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Blue Eye Shadow"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Blonde Bob"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Rosy Cheeks"
     }
   ]
 }

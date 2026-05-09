@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7856,
+      "value": 3043,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 87.45,
+      "value": 160.01,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Normal Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Normal Beard Black"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Top Hat"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 478,
+      "value": 4548,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 332.64,
+      "value": 125.94,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Luxurious Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Muttonchops"
     }
   ]
 }

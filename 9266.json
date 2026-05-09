@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6551,
+      "value": 1224,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 107.65,
+      "value": 255.47,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
     }
   ]
 }

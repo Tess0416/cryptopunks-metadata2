@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1655,
+      "value": 1528,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 242.23,
+      "value": 236.33,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Headband"
     }
   ]
 }

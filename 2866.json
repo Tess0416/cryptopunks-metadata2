@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4666,
+      "value": 2528,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 141.01,
+      "value": 179.73,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Red Mohawk"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Top Hat"
     }
   ]
 }

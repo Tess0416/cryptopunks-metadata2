@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6131,
+      "value": 6099,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 113.03,
+      "value": 102.09,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Peak Spike"
     }
   ]
 }

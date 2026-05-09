@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6616,
+      "value": 6643,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 107.07,
+      "value": 94.61,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Goat"
-    },
-    {
-      "trait_type": "Accessory",
       "value": "Mustache"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mohawk"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6421,
+      "value": 7456,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 109.04,
+      "value": 83.71,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Shadow Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Front Beard"
     }
   ]
 }

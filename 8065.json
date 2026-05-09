@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 880,
+      "value": 6962,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 289.29,
+      "value": 90.83,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Normal Beard Black"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Do-rag"
     }
   ]
 }

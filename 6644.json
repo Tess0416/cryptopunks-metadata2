@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7262,
+      "value": 438,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 97.4,
+      "value": 321.99,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Frumpy Hair"
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Big Beard"
     }
   ]
 }

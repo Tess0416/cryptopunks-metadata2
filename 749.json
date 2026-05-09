@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4484,
+      "value": 3027,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 144.14,
+      "value": 160.45,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Fedora"
     }
   ]
 }

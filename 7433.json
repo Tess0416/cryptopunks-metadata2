@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4369,
+      "value": 9415,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 146.6,
+      "value": 51.5,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Buck Teeth"
     }
   ]
 }

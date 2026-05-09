@@ -6,34 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3013,
+      "value": 8609,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 180.86,
+      "value": 65.47,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Knitted Cap"
     }
   ]
 }

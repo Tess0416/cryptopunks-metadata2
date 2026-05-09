@@ -10,42 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 84,
+      "value": 7129,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 504.63,
+      "value": 88.81,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Legendary"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 5,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Blonde Bob"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Eye Patch"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Big Beard"
     }
   ]
 }

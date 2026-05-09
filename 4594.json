@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9291,
+      "value": 9086,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 59.82,
+      "value": 57.74,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Chinstrap"
     }
   ]
 }

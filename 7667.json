@@ -6,34 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7973,
+      "value": 2249,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 85.27,
+      "value": 193.69,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Blonde Bob"
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "Medical Mask"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Dark Hair"
     }
   ]
 }

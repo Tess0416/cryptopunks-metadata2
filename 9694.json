@@ -10,42 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 91,
+      "value": 719,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 498.12,
+      "value": 291.83,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Legendary"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 5,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Headband"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Small Shades"
     }
   ]
 }

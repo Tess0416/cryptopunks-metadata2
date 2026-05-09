@@ -6,38 +6,30 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4627,
+      "value": 7055,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 141.52,
+      "value": 89.78,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
-    },
-    {
-      "trait_type": "Accessory",
       "value": "Medical Mask"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Muttonchops"
     }
   ]
 }

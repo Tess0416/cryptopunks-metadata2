@@ -6,38 +6,34 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1016,
+      "value": 6200,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 280.85,
+      "value": 100.42,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Blonde Short"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Nerd Glasses"
     }
   ]
 }

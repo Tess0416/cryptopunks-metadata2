@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8860,
+      "value": 4328,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 67.16,
+      "value": 129.72,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Blue Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Frumpy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Eye Shadow"
     }
   ]
 }

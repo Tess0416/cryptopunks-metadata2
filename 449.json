@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9298,
+      "value": 9681,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 59.68,
+      "value": 45.5,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Shadow Beard"
     }
   ]
 }

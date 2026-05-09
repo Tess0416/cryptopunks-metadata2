@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4189,
+      "value": 6233,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 150.76,
+      "value": 99.85,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Cowboy Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Headband"
     }
   ]
 }

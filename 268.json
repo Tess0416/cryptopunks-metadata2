@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9323,
+      "value": 7557,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 59.09,
+      "value": 82.13,
       "display_type": "number"
     },
     {
@@ -24,8 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 1,
+      "value": 3,
       "display_type": "number"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",

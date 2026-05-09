@@ -6,38 +6,34 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 834,
+      "value": 8568,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 292.22,
+      "value": 66.21,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Purple Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Frumpy Hair"
     }
   ]
 }

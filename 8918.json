@@ -6,38 +6,34 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8394,
+      "value": 1982,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 77.43,
+      "value": 209.86,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Frumpy Hair"
     }
   ]
 }

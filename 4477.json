@@ -6,38 +6,34 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5335,
+      "value": 2636,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 128.6,
+      "value": 175.1,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Frumpy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Orange Side"
     }
   ]
 }

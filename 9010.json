@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4306,
+      "value": 3786,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 147.94,
+      "value": 140.52,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Frown"
     }
   ]
 }

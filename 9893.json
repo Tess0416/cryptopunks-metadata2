@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4516,
+      "value": 886,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 143.52,
+      "value": 278.84,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Straight Hair Dark"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Headband"
     }
   ]
 }

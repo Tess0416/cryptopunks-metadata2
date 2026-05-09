@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7580,
+      "value": 4767,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 93,
+      "value": 121.23,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Big Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Mole"
     }
   ]
 }

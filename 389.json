@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5722,
+      "value": 1653,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 120.4,
+      "value": 228.29,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Frown"
     }
   ]
 }

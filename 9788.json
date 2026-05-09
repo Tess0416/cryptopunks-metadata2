@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6083,
+      "value": 2675,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 113.81,
+      "value": 173.58,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Spots"
     }
   ]
 }

@@ -10,34 +10,26 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4621,
+      "value": 7743,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 141.77,
+      "value": 79.18,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Top Hat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Clown Nose"
     }
   ]
 }

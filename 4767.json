@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6707,
+      "value": 7141,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 105.69,
+      "value": 88.68,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Fedora"
     }
   ]
 }

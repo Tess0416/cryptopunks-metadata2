@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8478,
+      "value": 1264,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 76.01,
+      "value": 253.43,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Straight Hair Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Clown Hair Green"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Top Hat"
     }
   ]
 }

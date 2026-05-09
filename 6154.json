@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7398,
+      "value": 7953,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 95.66,
+      "value": 76.41,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Hoodie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Muttonchops"
     }
   ]
 }

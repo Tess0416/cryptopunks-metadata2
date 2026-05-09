@@ -10,30 +10,42 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1752,
+      "value": 48,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 236.46,
+      "value": 516.59,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Legendary"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Stringy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Hot Lipstick"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Top Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pilot Helmet"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Normal Beard Black"
     }
   ]
 }

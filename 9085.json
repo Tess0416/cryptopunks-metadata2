@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 280,
+      "value": 925,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 372.48,
+      "value": 275.9,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Clown Hair Green"
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Eye Patch"
     }
   ]
 }

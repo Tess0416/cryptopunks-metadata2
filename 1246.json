@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5579,
+      "value": 9513,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 123.61,
+      "value": 49.64,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Big Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5887,
+      "value": 6889,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 117.03,
+      "value": 91.7,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Front Beard Dark"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Pipe"
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Nerd Glasses"
     }
   ]
 }

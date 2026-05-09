@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 471,
+      "value": 2466,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 334.11,
+      "value": 181.66,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Luxurious Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Cowboy Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Normal Beard"
     }
   ]
 }

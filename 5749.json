@@ -6,38 +6,34 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3742,
+      "value": 6531,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 162.38,
+      "value": 95.81,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Half Shaved"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Wild Hair"
     }
   ]
 }

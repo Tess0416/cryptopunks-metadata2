@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3878,
+      "value": 4450,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 158.78,
+      "value": 127.99,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Normal Beard Black"
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Smile"
     }
   ]
 }

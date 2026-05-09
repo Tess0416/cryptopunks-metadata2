@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3001,
+      "value": 3283,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 181.41,
+      "value": 152.9,
       "display_type": "number"
     },
     {
@@ -24,20 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Normal Beard Black"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Peak Spike"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Normal Beard"
     }
   ]
 }

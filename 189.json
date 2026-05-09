@@ -10,30 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7923,
+      "value": 3945,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 86.28,
+      "value": 137.23,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Straight Hair Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Messy Hair"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6814,
+      "value": 5022,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 103.86,
+      "value": 117.23,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Cowboy Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Smile"
     }
   ]
 }

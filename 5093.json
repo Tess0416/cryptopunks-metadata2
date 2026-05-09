@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4609,
+      "value": 2166,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 141.93,
+      "value": 198.24,
       "display_type": "number"
     },
     {
@@ -24,16 +24,28 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "VR"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Vape"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
     }
   ]
 }

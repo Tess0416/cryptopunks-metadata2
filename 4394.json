@@ -6,38 +6,34 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3452,
+      "value": 7223,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 169.72,
+      "value": 87.55,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "3D Glasses"
     }
   ]
 }

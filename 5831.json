@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3559,
+      "value": 4245,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 166.9,
+      "value": 130.85,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Straight Hair Dark"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Eye Patch"
     }
   ]
 }

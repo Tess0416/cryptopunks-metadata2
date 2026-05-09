@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8194,
+      "value": 5326,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 80.95,
+      "value": 111.9,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Big Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Hoodie"
     }
   ]
 }

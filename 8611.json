@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1291,
+      "value": 3566,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 261.31,
+      "value": 145.51,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "Top Hat"
     }
   ]
 }

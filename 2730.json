@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7727,
+      "value": 5201,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 90.03,
+      "value": 113.93,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Cap"
     }
   ]
 }

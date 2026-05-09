@@ -6,34 +6,46 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Zombie"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3122,
+      "value": 844,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 177.87,
+      "value": 281.53,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Normal Beard"
     }
   ]
 }

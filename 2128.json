@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4882,
+      "value": 6328,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 136.8,
+      "value": 98.6,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Vape"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8468,
+      "value": 9165,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 76.15,
+      "value": 56.77,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Regular Shades"
     }
   ]
 }

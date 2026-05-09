@@ -6,42 +6,34 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2722,
+      "value": 7011,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 190.72,
+      "value": 90.39,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Wild Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Normal Beard Black"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Mole"
     }
   ]
 }

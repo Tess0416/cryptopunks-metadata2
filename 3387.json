@@ -6,42 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1303,
+      "value": 6044,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 260.44,
+      "value": 102.82,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Hoodie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Frown"
     }
   ]
 }

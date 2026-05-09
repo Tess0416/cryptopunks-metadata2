@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9131,
+      "value": 1757,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 62.85,
+      "value": 222.98,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Pilot Helmet"
     }
   ]
 }

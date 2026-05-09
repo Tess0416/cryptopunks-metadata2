@@ -10,42 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 163,
+      "value": 4035,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 417.89,
+      "value": 135.36,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 5,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "Purple Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Frumpy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Bandana"
     }
   ]
 }

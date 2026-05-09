@@ -6,46 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 90,
+      "value": 3901,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 499.46,
+      "value": 138.11,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Legendary"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 5,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Pink With Hat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Do-rag"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5629,
+      "value": 6935,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 122.13,
+      "value": 91.15,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Luxurious Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Muttonchops"
     }
   ]
 }

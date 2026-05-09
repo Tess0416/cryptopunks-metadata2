@@ -6,34 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9897,
+      "value": 179,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 40.89,
+      "value": 385.86,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Front Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Fedora"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Beanie"
     }
   ]
 }

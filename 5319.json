@@ -10,38 +10,26 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1681,
+      "value": 7335,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 240.45,
+      "value": 85.78,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Pigtails"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Frumpy Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Fedora"
     }
   ]
 }

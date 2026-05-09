@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4682,
+      "value": 9259,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 140.86,
+      "value": 54.98,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Eye Patch"
     }
   ]
 }

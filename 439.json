@@ -6,38 +6,34 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5994,
+      "value": 4006,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 115.27,
+      "value": 136.03,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Wild White Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Small Shades"
     }
   ]
 }

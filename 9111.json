@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4789,
+      "value": 3291,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 138.96,
+      "value": 152.79,
       "display_type": "number"
     },
     {
@@ -24,16 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Frown"
     }
   ]
 }

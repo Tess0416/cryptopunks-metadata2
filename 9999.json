@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9140,
+      "value": 636,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 62.74,
+      "value": 299.08,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Normal Beard Black"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Beanie"
     }
   ]
 }

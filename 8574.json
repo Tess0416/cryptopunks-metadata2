@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2459,
+      "value": 3259,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 202.23,
+      "value": 153.63,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Straight Hair Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Spots"
     }
   ]
 }

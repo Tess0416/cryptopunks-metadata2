@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 712,
+      "value": 8033,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 303.24,
+      "value": 74.98,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Chinstrap"
     }
   ]
 }

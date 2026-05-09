@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3086,
+      "value": 378,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 178.74,
+      "value": 330.18,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Normal Beard Black"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Silver Chain"
     }
   ]
 }

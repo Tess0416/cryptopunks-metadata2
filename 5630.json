@@ -10,38 +10,26 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2465,
+      "value": 8517,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 202.01,
+      "value": 66.98,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Red Mohawk"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Purple Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Luxurious Beard"
     }
   ]
 }

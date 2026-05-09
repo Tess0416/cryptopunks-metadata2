@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2876,
+      "value": 4983,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 185.92,
+      "value": 117.85,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Black Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Rosy Cheeks"
     }
   ]
 }

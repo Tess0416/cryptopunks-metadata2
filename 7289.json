@@ -10,38 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4983,
+      "value": 8374,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 134.96,
+      "value": 69.64,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Vape"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Mustache"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3714,
+      "value": 9135,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 163.09,
+      "value": 57.09,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "Mole"
     }
   ]
 }

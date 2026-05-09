@@ -6,34 +6,46 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Zombie"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3217,
+      "value": 1096,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 175.75,
+      "value": 263.7,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Small Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Spots"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Knitted Cap"
     }
   ]
 }

@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 212,
+      "value": 2369,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 394.91,
+      "value": 187.44,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Frown"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Small Shades"
     }
   ]
 }

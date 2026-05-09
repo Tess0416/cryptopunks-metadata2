@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1647,
+      "value": 4838,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 242.88,
+      "value": 120.24,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "3D Glasses"
     }
   ]
 }

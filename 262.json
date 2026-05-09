@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8344,
+      "value": 5729,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 78.1,
+      "value": 107.29,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Hoodie"
     }
   ]
 }

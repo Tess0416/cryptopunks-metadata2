@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1364,
+      "value": 325,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 257.66,
+      "value": 338.45,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Choker"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Rosy Cheeks"
     }
   ]
 }

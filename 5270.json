@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6271,
+      "value": 5025,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 111.12,
+      "value": 117.14,
       "display_type": "number"
     },
     {
@@ -24,16 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Horned Rim Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Buck Teeth"
     },
     {
       "trait_type": "Accessory",
       "value": "Smile"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Normal Beard Black"
     }
   ]
 }

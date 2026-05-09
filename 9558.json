@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6256,
+      "value": 2588,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 111.29,
+      "value": 177.56,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Blue Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Straight Hair Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Straight Hair Blonde"
     }
   ]
 }

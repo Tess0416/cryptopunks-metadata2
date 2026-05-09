@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7067,
+      "value": 538,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 99.92,
+      "value": 308.48,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Blonde Short"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Black Lipstick"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Classic Shades"
     }
   ]
 }

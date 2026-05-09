@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9844,
+      "value": 9438,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 43.69,
+      "value": 50.99,
       "display_type": "number"
     },
     {
@@ -24,16 +24,12 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Regular Shades"
     }
   ]
 }

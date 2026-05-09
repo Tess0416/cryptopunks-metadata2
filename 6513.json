@@ -6,38 +6,46 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Zombie"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2120,
+      "value": 131,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 217.05,
+      "value": 413.42,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Straight Hair Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Wild White Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Straight Hair Blonde"
     }
   ]
 }

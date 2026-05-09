@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2666,
+      "value": 489,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 193.61,
+      "value": 315.69,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Choker"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Straight Hair Blonde"
     }
   ]
 }

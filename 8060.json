@@ -6,38 +6,46 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Zombie"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3060,
+      "value": 1235,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 179.24,
+      "value": 254.93,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Purple Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Blonde Bob"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Hot Lipstick"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Small Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Frumpy Hair"
     }
   ]
 }

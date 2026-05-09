@@ -10,30 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4778,
+      "value": 1050,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 139.11,
+      "value": 266.32,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Wild White Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Blonde Bob"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Dark Hair"
     }
   ]
 }

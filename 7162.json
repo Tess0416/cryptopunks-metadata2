@@ -6,42 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6652,
+      "value": 1385,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 106.62,
+      "value": 246.62,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Orange Side"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Blue Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Medical Mask"
     }
   ]
 }

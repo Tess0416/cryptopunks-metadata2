@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6656,
+      "value": 3037,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 106.51,
+      "value": 160.34,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Straight Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Gold Chain"
     }
   ]
 }

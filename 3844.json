@@ -6,42 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1842,
+      "value": 4999,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 230.74,
+      "value": 117.59,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Wild Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Horned Rim Glasses"
     }
   ]
 }

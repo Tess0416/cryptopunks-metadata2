@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9344,
+      "value": 7381,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 58.92,
+      "value": 84.98,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Buck Teeth"
     }
   ]
 }

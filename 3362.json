@@ -6,46 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 189,
+      "value": 1001,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 404.73,
+      "value": 269.9,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 5,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Pilot Helmet"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9819,
+      "value": 9473,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 45.08,
+      "value": 50.56,
       "display_type": "number"
     },
     {
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",

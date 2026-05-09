@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5604,
+      "value": 9182,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 123.03,
+      "value": 56.49,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
+      "value": "Peak Spike"
     }
   ]
 }

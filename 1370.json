@@ -10,38 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4352,
+      "value": 9914,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 146.83,
+      "value": 37.35,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Big Shades"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Cap"
     }
   ]
 }

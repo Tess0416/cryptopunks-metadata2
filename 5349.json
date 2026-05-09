@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5151,
+      "value": 4147,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 132.05,
+      "value": 132.78,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Eye Patch"
     }
   ]
 }

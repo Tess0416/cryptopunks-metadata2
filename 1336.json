@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7054,
+      "value": 1147,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 100.04,
+      "value": 259.29,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Beanie"
     }
   ]
 }

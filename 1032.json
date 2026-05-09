@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8593,
+      "value": 8022,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 73.09,
+      "value": 75.22,
       "display_type": "number"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Chinstrap"
     }
   ]
 }

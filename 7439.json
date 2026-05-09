@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7724,
+      "value": 5260,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 90.04,
+      "value": 113.1,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Wild Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Frumpy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Black Lipstick"
     }
   ]
 }

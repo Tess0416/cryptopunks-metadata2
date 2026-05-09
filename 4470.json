@@ -6,34 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8229,
+      "value": 368,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 80.11,
+      "value": 331.44,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Pilot Helmet"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Frown"
     }
   ]
 }

@@ -6,38 +6,34 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7668,
+      "value": 1713,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 91.38,
+      "value": 225.4,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Purple Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Tiara"
     }
   ]
 }

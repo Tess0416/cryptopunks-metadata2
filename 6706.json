@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7882,
+      "value": 7422,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 87.09,
+      "value": 84.21,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Shadow Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Regular Shades"
     }
   ]
 }

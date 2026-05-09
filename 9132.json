@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4545,
+      "value": 7039,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 143.06,
+      "value": 90.04,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Green Eye Shadow"
     }
   ]
 }

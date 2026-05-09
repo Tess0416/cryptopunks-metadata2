@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4988,
+      "value": 2184,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 134.89,
+      "value": 197.56,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Cigarette"
-    },
-    {
-      "trait_type": "Accessory",
       "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Red Mohawk"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3881,
+      "value": 3112,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 158.67,
+      "value": 158.17,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Pipe"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
+      "value": "Top Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Chinstrap"
     }
   ]
 }

@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5094,
+      "value": 1533,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 132.98,
+      "value": 235.92,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Medical Mask"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Clown Hair Green"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pigtails"
     }
   ]
 }

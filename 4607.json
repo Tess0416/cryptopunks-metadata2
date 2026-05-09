@@ -6,30 +6,26 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1017,
+      "value": 337,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 280.82,
+      "value": 336.57,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Cigarette"
     },
     {
       "trait_type": "Accessory",
@@ -37,7 +33,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Buck Teeth"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Big Beard"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7314,
+      "value": 6011,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 96.61,
+      "value": 103.41,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Big Beard"
     }
   ]
 }

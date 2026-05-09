@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5560,
+      "value": 9535,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 123.95,
+      "value": 49.14,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Pipe"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Buck Teeth"
     }
   ]
 }

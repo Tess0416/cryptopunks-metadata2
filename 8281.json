@@ -6,34 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6941,
+      "value": 4874,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 101.76,
+      "value": 119.75,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Big Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Normal Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Buck Teeth"
     }
   ]
 }

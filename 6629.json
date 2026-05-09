@@ -6,34 +6,46 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Ape"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 61,
+      "value": 855,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 557.45,
+      "value": 280.94,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Legendary"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Front Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "VR"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Spots"
     }
   ]
 }

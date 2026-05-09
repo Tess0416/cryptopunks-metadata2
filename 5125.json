@@ -6,38 +6,34 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3356,
+      "value": 6603,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 172.48,
+      "value": 95.04,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Red Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Stringy Hair"
     }
   ]
 }

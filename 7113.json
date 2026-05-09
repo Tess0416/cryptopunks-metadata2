@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1817,
+      "value": 4567,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 232.36,
+      "value": 125.63,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Front Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Hoodie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Mohawk"
     }
   ]
 }

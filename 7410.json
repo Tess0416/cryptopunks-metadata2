@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9340,
+      "value": 4519,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 58.96,
+      "value": 126.47,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Frumpy Hair"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Top Hat"
     }
   ]
 }

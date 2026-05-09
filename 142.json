@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6891,
+      "value": 9188,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 102.62,
+      "value": 56.32,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Bandana"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "VR"
     }
   ]
 }

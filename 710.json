@@ -6,42 +6,46 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Zombie"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 922,
+      "value": 106,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 286.15,
+      "value": 442.63,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Normal Beard Black"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Clown Nose"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Beanie"
     }
   ]
 }

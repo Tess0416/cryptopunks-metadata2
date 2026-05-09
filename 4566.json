@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7671,
+      "value": 8847,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 91.37,
+      "value": 61.95,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Eye Patch"
     }
   ]
 }

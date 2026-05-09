@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8696,
+      "value": 3893,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 70.81,
+      "value": 138.37,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Nerd Glasses"
-    },
-    {
-      "trait_type": "Accessory",
       "value": "Hot Lipstick"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Blonde Bob"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "VR"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Black Lipstick"
     }
   ]
 }

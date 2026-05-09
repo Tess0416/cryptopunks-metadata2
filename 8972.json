@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1521,
+      "value": 1117,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 249.27,
+      "value": 261.48,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Front Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Pilot Helmet"
     }
   ]
 }

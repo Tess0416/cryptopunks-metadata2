@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6603,
+      "value": 7742,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 107.11,
+      "value": 79.18,
       "display_type": "number"
     },
     {
@@ -24,20 +24,12 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Handlebars"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Clown Nose"
     }
   ]
 }

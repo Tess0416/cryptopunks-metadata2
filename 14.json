@@ -6,38 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1187,
+      "value": 2464,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 268.42,
+      "value": 181.84,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Cowboy Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "Normal Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "VR"
     }
   ]
 }

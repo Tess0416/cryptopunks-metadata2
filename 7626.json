@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 384,
+      "value": 3262,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 347.98,
+      "value": 153.56,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Straight Hair Dark"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Green Eye Shadow"
     }
   ]
 }

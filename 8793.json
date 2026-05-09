@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3394,
+      "value": 2684,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 171.48,
+      "value": 173.34,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Spots"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mustache"
     }
   ]
 }

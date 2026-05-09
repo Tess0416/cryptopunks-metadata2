@@ -6,42 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3282,
+      "value": 812,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 174.28,
+      "value": 284.39,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Shadow Beard"
     }
   ]
 }

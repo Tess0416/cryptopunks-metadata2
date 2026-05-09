@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2684,
+      "value": 1015,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 192.52,
+      "value": 268.83,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Vape"
     }
   ]
 }

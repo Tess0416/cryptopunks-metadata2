@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8389,
+      "value": 6187,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 77.5,
+      "value": 100.58,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Hoodie"
     }
   ]
 }

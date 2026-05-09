@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6997,
+      "value": 3288,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 100.77,
+      "value": 152.79,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Normal Beard Black"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Do-rag"
     }
   ]
 }

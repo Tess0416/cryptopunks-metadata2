@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1972,
+      "value": 8605,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 223.63,
+      "value": 65.55,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Normal Beard Black"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Earring"
     }
   ]
 }

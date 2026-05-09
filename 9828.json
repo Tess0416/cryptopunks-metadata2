@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8814,
+      "value": 1536,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 68.16,
+      "value": 235.66,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Orange Side"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Clown Hair Green"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Black Lipstick"
     }
   ]
 }

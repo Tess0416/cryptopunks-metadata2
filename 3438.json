@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6613,
+      "value": 4631,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 107.07,
+      "value": 124.11,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Straight Hair Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Stringy Hair"
     }
   ]
 }

@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6876,
+      "value": 4127,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 102.86,
+      "value": 133.32,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Fedora"
     }
   ]
 }

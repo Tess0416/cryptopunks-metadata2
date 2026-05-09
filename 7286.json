@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2815,
+      "value": 3101,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 187.74,
+      "value": 158.49,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Big Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Eye Patch"
     }
   ]
 }

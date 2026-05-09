@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 125,
+      "value": 7195,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 447.9,
+      "value": 87.81,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Front Beard Dark"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Horned Rim Glasses"
     }
   ]
 }

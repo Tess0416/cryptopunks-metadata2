@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Zombie"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3900,
+      "value": 2017,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 158.1,
+      "value": 208.41,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Luxurious Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Frumpy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "3D Glasses"
     }
   ]
 }

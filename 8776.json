@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9745,
+      "value": 6321,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 48.13,
+      "value": 98.69,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Gold Chain"
     }
   ]
 }

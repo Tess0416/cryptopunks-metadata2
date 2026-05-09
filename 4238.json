@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3917,
+      "value": 9377,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 157.49,
+      "value": 51.98,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Cap"
     }
   ]
 }

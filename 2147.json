@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 366,
+      "value": 7190,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 350.7,
+      "value": 87.81,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Front Beard Dark"
     }
   ]
 }

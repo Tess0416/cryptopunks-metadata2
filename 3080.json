@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5484,
+      "value": 9328,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 125.42,
+      "value": 53.41,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Hot Lipstick"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7309,
+      "value": 6631,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 96.74,
+      "value": 94.73,
       "display_type": "number"
     },
     {
@@ -24,12 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 1,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Green Eye Shadow"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "3D Glasses"
     }
   ]
 }

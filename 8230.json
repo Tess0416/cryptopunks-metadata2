@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3585,
+      "value": 6557,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 166.24,
+      "value": 95.38,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Normal Beard Black"
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Goat"
     }
   ]
 }

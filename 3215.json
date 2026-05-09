@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Zombie"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 490,
+      "value": 467,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 331.4,
+      "value": 318.62,
       "display_type": "number"
     },
     {
@@ -29,23 +29,23 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Hot Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "Straight Hair Dark"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Purple Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Straight Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Wild Blonde"
     }
   ]
 }

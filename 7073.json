@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1357,
+      "value": 1666,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 257.9,
+      "value": 228,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Pilot Helmet"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6426,
+      "value": 5665,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 109.01,
+      "value": 108.04,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Black Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Half Shaved"
     }
   ]
 }

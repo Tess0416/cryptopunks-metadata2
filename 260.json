@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1114,
+      "value": 6276,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 273.45,
+      "value": 99.29,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Red Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Wild Hair"
     }
   ]
 }

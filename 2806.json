@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4831,
+      "value": 6602,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 137.93,
+      "value": 95.04,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Stringy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Blonde Bob"
     }
   ]
 }

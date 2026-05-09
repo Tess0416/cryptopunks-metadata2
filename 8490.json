@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9151,
+      "value": 9222,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 62.52,
+      "value": 55.61,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Nerd Glasses"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7543,
+      "value": 5524,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 93.61,
+      "value": 109.94,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Cowboy Hat"
     }
   ]
 }

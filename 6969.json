@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8203,
+      "value": 4652,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 80.65,
+      "value": 123.82,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Purple Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Blue Eye Shadow"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Bandana"
     }
   ]
 }

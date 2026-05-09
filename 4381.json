@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1783,
+      "value": 6948,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 234.3,
+      "value": 91.01,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Vape"
     }
   ]
 }

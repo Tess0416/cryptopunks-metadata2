@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4970,
+      "value": 5092,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 135.32,
+      "value": 115.82,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Green Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Hot Lipstick"
     }
   ]
 }

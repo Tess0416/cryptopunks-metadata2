@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4518,
+      "value": 4993,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 143.42,
+      "value": 117.73,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Gold Chain"
     }
   ]
 }

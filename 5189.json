@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3946,
+      "value": 4137,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 156.66,
+      "value": 133.08,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Frown"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Small Shades"
     }
   ]
 }

@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 928,
+      "value": 2188,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 285.91,
+      "value": 197.35,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Straight Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Pigtails"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Classic Shades"
     }
   ]
 }

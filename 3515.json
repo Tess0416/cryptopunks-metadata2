@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7617,
+      "value": 3224,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 92.25,
+      "value": 154.36,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "Horned Rim Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Wild Blonde"
     }
   ]
 }

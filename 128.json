@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1351,
+      "value": 1226,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 258.11,
+      "value": 255.26,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Blonde Bob"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Tiara"
     }
   ]
 }

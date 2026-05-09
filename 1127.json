@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4463,
+      "value": 9594,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 144.61,
+      "value": 47.64,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Knitted Cap"
     }
   ]
 }

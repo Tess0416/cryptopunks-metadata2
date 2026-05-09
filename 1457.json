@@ -10,46 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 22,
+      "value": 9653,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 1218.49,
+      "value": 46.16,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Legendary"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 6,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Blonde Short"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Messy Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Horned Rim Glasses"
     }
   ]
 }

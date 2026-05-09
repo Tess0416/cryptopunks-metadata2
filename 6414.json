@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5440,
+      "value": 9968,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 126.47,
+      "value": 32.1,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Frumpy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Earring"
     }
   ]
 }

@@ -10,30 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6500,
+      "value": 3067,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 108.15,
+      "value": 159.41,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Small Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Straight Hair Dark"
     }
   ]
 }

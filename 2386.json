@@ -6,42 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Ape"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7770,
+      "value": 72,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 89.06,
+      "value": 483.96,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Legendary"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "Horned Rim Glasses"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4540,
+      "value": 4896,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 143.13,
+      "value": 119.34,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Goat"
     }
   ]
 }

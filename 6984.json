@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2713,
+      "value": 2730,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 190.96,
+      "value": 171.02,
       "display_type": "number"
     },
     {
@@ -29,11 +29,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
@@ -41,7 +37,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Front Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Knitted Cap"
     }
   ]
 }

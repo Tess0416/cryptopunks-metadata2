@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4622,
+      "value": 2793,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 141.76,
+      "value": 168.47,
       "display_type": "number"
     },
     {
@@ -24,20 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Stringy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Wild White Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Hot Lipstick"
     }
   ]
 }

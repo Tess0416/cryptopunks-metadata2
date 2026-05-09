@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3899,
+      "value": 2051,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 158.11,
+      "value": 206.4,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Wild Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Red Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Silver Chain"
     }
   ]
 }

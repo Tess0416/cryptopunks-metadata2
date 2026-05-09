@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1579,
+      "value": 6080,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 246.51,
+      "value": 102.27,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Hot Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Silver Chain"
     }
   ]
 }

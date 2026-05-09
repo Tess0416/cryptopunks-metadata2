@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7174,
+      "value": 436,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 98.53,
+      "value": 322.11,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Orange Side"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Purple Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Crazy Hair"
     }
   ]
 }

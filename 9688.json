@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8322,
+      "value": 9848,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 78.36,
+      "value": 41.25,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Nerd Glasses"
     }
   ]
 }

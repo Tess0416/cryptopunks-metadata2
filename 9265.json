@@ -6,38 +6,34 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Ape"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2530,
+      "value": 34,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 199.74,
+      "value": 631.12,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Legendary"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Pilot Helmet"
     }
   ]
 }

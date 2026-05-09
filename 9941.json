@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3797,
+      "value": 1230,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 161.04,
+      "value": 255.25,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Pilot Helmet"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9384,
+      "value": 8901,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 58.08,
+      "value": 60.97,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Pipe"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Headband"
     }
   ]
 }

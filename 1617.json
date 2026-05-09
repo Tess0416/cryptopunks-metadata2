@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6562,
+      "value": 7727,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 107.54,
+      "value": 79.38,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Frown"
     }
   ]
 }

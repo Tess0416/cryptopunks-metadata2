@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3632,
+      "value": 6201,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 165.3,
+      "value": 100.41,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Cigarette"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Silver Chain"
     }
   ]
 }

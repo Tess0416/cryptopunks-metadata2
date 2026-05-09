@@ -6,34 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9354,
+      "value": 3909,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 58.65,
+      "value": 137.89,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Chinstrap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Front Beard Dark"
     }
   ]
 }

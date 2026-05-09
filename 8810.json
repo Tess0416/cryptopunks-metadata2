@@ -10,42 +10,26 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 673,
+      "value": 8582,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 307.06,
+      "value": 65.91,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 5,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Straight Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Regular Shades"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Frumpy Hair"
+      "value": "Goat"
     }
   ]
 }

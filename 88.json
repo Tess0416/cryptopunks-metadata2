@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Zombie"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 476,
+      "value": 268,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 333.15,
+      "value": 352,
       "display_type": "number"
     },
     {
@@ -24,28 +24,12 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 5,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Big Beard"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Clown Hair Green"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Spots"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Choker"
     }
   ]
 }

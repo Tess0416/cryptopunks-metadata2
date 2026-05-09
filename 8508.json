@@ -6,42 +6,34 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2351,
+      "value": 6896,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 207.91,
+      "value": 91.67,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frumpy Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Wild White Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Clown Hair Green"
     }
   ]
 }

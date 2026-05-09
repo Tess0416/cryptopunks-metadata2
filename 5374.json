@@ -6,38 +6,46 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Zombie"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 124,
+      "value": 739,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 449.36,
+      "value": 289.85,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Small Shades"
     }
   ]
 }

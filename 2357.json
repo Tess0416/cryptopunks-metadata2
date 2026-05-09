@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5352,
+      "value": 5129,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 128.43,
+      "value": 115.11,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Black Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "Wild Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Headband"
     }
   ]
 }

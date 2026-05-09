@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 856,
+      "value": 5001,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 291.16,
+      "value": 117.53,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Horned Rim Glasses"
     }
   ]
 }

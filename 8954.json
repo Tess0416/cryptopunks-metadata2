@@ -6,38 +6,34 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6657,
+      "value": 1354,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 106.51,
+      "value": 248.71,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Choker"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "3D Glasses"
     }
   ]
 }

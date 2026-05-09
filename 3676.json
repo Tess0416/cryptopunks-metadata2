@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6140,
+      "value": 3576,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 113.01,
+      "value": 145.28,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
-    },
-    {
-      "trait_type": "Accessory",
       "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Top Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Front Beard"
     }
   ]
 }

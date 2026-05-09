@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2513,
+      "value": 2910,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 200.33,
+      "value": 163.74,
       "display_type": "number"
     },
     {
@@ -24,28 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 5,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Hot Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Pigtails"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Stringy Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "Purple Eye Shadow"
     }
   ]
 }

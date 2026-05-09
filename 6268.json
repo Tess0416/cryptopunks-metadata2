@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8161,
+      "value": 6017,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 81.58,
+      "value": 103.37,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Half Shaved"
     }
   ]
 }

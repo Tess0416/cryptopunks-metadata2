@@ -10,30 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9123,
+      "value": 426,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 63,
+      "value": 323.39,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Clown Hair Green"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frumpy Hair"
+      "value": "Orange Side"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Blonde Short"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Stringy Hair"
     }
   ]
 }

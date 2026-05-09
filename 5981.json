@@ -6,34 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7655,
+      "value": 51,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 91.67,
+      "value": 506.97,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Legendary"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Nose"
     }
   ]
 }

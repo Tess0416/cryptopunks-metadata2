@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7383,
+      "value": 5162,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 95.76,
+      "value": 114.4,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Pipe"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Front Beard"
     }
   ]
 }

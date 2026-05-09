@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2211,
+      "value": 4889,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 213.27,
+      "value": 119.4,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Buck Teeth"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Goat"
     }
   ]
 }

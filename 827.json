@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6301,
+      "value": 1582,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 110.69,
+      "value": 232.41,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Orange Side"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Purple Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Classic Shades"
     }
   ]
 }

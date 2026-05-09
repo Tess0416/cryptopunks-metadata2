@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4259,
+      "value": 9556,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 149.2,
+      "value": 48.53,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Cigarette"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Do-rag"
     }
   ]
 }

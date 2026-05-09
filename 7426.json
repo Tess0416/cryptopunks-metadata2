@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4043,
+      "value": 174,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 154.24,
+      "value": 387.6,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Choker"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pigtails"
     }
   ]
 }

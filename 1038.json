@@ -6,30 +6,34 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Zombie"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9005,
+      "value": 1681,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 65.02,
+      "value": 227.31,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 1,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Dark Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Nose"
     }
   ]
 }

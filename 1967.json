@@ -6,38 +6,34 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6925,
+      "value": 1762,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 102.03,
+      "value": 221.92,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Wild Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Orange Side"
     }
   ]
 }

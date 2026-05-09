@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5535,
+      "value": 6597,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 124.45,
+      "value": 95.11,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Normal Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Luxurious Beard"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7470,
+      "value": 7607,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 94.73,
+      "value": 81.28,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Front Beard Dark"
     }
   ]
 }

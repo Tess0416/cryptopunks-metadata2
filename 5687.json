@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4670,
+      "value": 4008,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 141.01,
+      "value": 135.99,
       "display_type": "number"
     },
     {
@@ -24,16 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Pipe"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Handlebars"
     }
   ]
 }

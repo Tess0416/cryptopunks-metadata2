@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7839,
+      "value": 5597,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 87.7,
+      "value": 109.11,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Cowboy Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Goat"
     }
   ]
 }

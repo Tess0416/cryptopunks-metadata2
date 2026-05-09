@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8379,
+      "value": 2474,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 77.51,
+      "value": 181.41,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Blonde Short"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Silver Chain"
     }
   ]
 }

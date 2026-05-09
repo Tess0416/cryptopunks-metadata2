@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5548,
+      "value": 6490,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 124.13,
+      "value": 96.51,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Front Beard Dark"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Frown"
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Mole"
     }
   ]
 }

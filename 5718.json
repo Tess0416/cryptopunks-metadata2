@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1406,
+      "value": 1758,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 255.06,
+      "value": 222.59,
       "display_type": "number"
     },
     {
@@ -24,16 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Top Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Normal Beard"
     }
   ]
 }

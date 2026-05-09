@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 798,
+      "value": 1116,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 294.69,
+      "value": 261.55,
       "display_type": "number"
     },
     {
@@ -24,28 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 5,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Half Shaved"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Purple Hair"
     }
   ]
 }

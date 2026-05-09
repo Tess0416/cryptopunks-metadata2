@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3940,
+      "value": 3555,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 156.79,
+      "value": 145.9,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Wild Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Straight Hair Dark"
     }
   ]
 }

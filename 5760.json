@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1212,
+      "value": 2577,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 267.26,
+      "value": 177.87,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
+      "value": "Green Eye Shadow"
+    },
+    {
+      "trait_type": "Accessory",
       "value": "Red Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Straight Hair Blonde"
     }
   ]
 }

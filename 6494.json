@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2526,
+      "value": 239,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 199.82,
+      "value": 360.82,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Medical Mask"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Stringy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Choker"
     }
   ]
 }

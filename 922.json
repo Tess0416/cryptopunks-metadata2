@@ -10,38 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3571,
+      "value": 8270,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 166.62,
+      "value": 71.36,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "3D Glasses"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Buck Teeth"
     }
   ]
 }

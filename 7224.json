@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4899,
+      "value": 7563,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 136.51,
+      "value": 81.99,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Hoodie"
     }
   ]
 }

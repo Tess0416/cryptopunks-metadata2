@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8004,
+      "value": 7388,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 84.61,
+      "value": 84.88,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Shadow Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "VR"
     }
   ]
 }

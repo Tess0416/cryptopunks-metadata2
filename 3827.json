@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9865,
+      "value": 7439,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 42.46,
+      "value": 83.93,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Clown Nose"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cap"
     }
   ]
 }

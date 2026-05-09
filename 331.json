@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 768,
+      "value": 9557,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 298.23,
+      "value": 48.44,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Shadow Beard"
     }
   ]
 }

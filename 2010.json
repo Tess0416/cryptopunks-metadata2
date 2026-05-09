@@ -6,34 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Zombie"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9925,
+      "value": 152,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 38.14,
+      "value": 395.6,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Pilot Helmet"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Crazy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Chinstrap"
     }
   ]
 }

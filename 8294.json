@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8110,
+      "value": 9417,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 82.48,
+      "value": 51.42,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Messy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Bandana"
     }
   ]
 }

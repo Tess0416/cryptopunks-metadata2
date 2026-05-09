@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4884,
+      "value": 4688,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 136.8,
+      "value": 123.16,
       "display_type": "number"
     },
     {
@@ -24,12 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 1,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Spots"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Normal Beard"
     }
   ]
 }

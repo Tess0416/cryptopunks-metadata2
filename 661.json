@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 748,
+      "value": 8152,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 299.7,
+      "value": 73.59,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Buck Teeth"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "VR"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3228,
+      "value": 439,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 175.44,
+      "value": 321.96,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Pigtails"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Dark Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Orange Side"
     }
   ]
 }

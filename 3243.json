@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5757,
+      "value": 5216,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 119.66,
+      "value": 113.68,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Blonde Bob"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Hot Lipstick"
     }
   ]
 }

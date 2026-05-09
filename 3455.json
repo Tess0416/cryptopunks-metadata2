@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7954,
+      "value": 6929,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 85.76,
+      "value": 91.19,
       "display_type": "number"
     },
     {
@@ -24,20 +24,12 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Crazy Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Gold Chain"
     }
   ]
 }

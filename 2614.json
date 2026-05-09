@@ -6,34 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1865,
+      "value": 4790,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 229.27,
+      "value": 120.96,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Buck Teeth"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Normal Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pipe"
     }
   ]
 }

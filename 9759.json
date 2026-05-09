@@ -6,38 +6,34 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2355,
+      "value": 9542,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 207.71,
+      "value": 48.84,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Messy Hair"
     }
   ]
 }

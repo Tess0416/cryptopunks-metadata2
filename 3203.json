@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3239,
+      "value": 5940,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 175.19,
+      "value": 104.36,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Chinstrap"
     }
   ]
 }

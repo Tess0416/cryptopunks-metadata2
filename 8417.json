@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9768,
+      "value": 2291,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 47.17,
+      "value": 191.3,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -33,7 +33,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Tiara"
     }
   ]
 }

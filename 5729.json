@@ -10,34 +10,26 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1701,
+      "value": 7745,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 239.19,
+      "value": 79.18,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Orange Side"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Clown Nose"
     }
   ]
 }

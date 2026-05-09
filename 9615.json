@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6568,
+      "value": 8427,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 107.54,
+      "value": 68.78,
       "display_type": "number"
     },
     {
@@ -24,16 +24,12 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Vape"
     }
   ]
 }

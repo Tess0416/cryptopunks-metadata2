@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5630,
+      "value": 6696,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 122.09,
+      "value": 93.89,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Vape"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5105,
+      "value": 5008,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 132.69,
+      "value": 117.44,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Shadow Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Silver Chain"
     }
   ]
 }

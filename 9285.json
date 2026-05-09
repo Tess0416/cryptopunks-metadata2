@@ -6,38 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7825,
+      "value": 4785,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 87.9,
+      "value": 121.02,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Hoodie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Peak Spike"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Big Shades"
     }
   ]
 }

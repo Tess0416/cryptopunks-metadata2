@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8522,
+      "value": 4508,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 74.56,
+      "value": 126.72,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Luxurious Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Top Hat"
     }
   ]
 }

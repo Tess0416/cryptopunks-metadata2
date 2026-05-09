@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2990,
+      "value": 641,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 181.67,
+      "value": 298.67,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Half Shaved"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Choker"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Nerd Glasses"
     }
   ]
 }

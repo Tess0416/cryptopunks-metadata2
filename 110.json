@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8535,
+      "value": 6854,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 74.38,
+      "value": 92,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Front Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cap"
     }
   ]
 }

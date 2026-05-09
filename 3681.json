@@ -6,34 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6375,
+      "value": 1968,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 109.72,
+      "value": 210.23,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Peak Spike"
     }
   ]
 }

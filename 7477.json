@@ -6,34 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1883,
+      "value": 7288,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 228.08,
+      "value": 86.53,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "VR"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nerd Glasses"
     }
   ]
 }

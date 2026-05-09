@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3782,
+      "value": 9198,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 161.49,
+      "value": 56.06,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Front Beard Dark"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Buck Teeth"
     }
   ]
 }

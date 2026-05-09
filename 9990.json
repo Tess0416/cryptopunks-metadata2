@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6797,
+      "value": 2912,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 104.08,
+      "value": 163.69,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Green Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Wild Hair"
     }
   ]
 }

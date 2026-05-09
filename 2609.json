@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4786,
+      "value": 6115,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 138.99,
+      "value": 101.9,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Silver Chain"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3827,
+      "value": 3844,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 160.32,
+      "value": 139.27,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Black Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Blue Eye Shadow"
     }
   ]
 }

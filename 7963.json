@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5374,
+      "value": 6489,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 127.96,
+      "value": 96.52,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Small Shades"
     }
   ]
 }

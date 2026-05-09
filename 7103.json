@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5422,
+      "value": 3595,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 126.85,
+      "value": 144.61,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
+      "value": "Spots"
     }
   ]
 }

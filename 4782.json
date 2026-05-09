@@ -10,30 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5203,
+      "value": 2547,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 131.27,
+      "value": 178.94,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Pigtails"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Frumpy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Stringy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Horned Rim Glasses"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1482,
+      "value": 1110,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 251.33,
+      "value": 262.14,
       "display_type": "number"
     },
     {
@@ -24,16 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Orange Side"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Half Shaved"
     }
   ]
 }

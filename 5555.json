@@ -10,30 +10,26 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 976,
+      "value": 7969,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 283.5,
+      "value": 76.15,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",

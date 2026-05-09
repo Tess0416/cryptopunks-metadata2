@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7535,
+      "value": 4798,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 93.76,
+      "value": 120.85,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Big Beard"
     }
   ]
 }

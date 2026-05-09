@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4494,
+      "value": 5444,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 143.87,
+      "value": 110.73,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Regular Shades"
     }
   ]
 }

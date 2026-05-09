@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3146,
+      "value": 9693,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 177.29,
+      "value": 45.18,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Eye Patch"
     }
   ]
 }

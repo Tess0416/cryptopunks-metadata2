@@ -10,26 +10,42 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4883,
+      "value": 391,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 136.8,
+      "value": 327.14,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 1,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
+      "value": "Frumpy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Eye Shadow"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Horned Rim Glasses"
+    },
+    {
+      "trait_type": "Accessory",
       "value": "Wild White Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Spots"
     }
   ]
 }

@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 910,
+      "value": 5320,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 287.39,
+      "value": 111.98,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Cowboy Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Vape"
     }
   ]
 }

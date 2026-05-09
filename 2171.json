@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5027,
+      "value": 4302,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 134.28,
+      "value": 130.05,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Purple Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Purple Eye Shadow"
     }
   ]
 }

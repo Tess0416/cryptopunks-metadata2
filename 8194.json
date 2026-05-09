@@ -10,38 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6431,
+      "value": 1070,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 108.95,
+      "value": 265.4,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Shadow Beard"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Do-rag"
     }
   ]
 }

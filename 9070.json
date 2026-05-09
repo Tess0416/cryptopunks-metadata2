@@ -6,34 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1223,
+      "value": 3919,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 266.58,
+      "value": 137.67,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Frown"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Front Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mustache"
     }
   ]
 }

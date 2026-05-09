@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 553,
+      "value": 7048,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 322.93,
+      "value": 89.93,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Front Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Regular Shades"
     }
   ]
 }

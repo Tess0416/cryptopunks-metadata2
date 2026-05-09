@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7188,
+      "value": 3870,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 98.39,
+      "value": 138.92,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Top Hat"
     }
   ]
 }

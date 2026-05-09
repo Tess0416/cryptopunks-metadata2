@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9309,
+      "value": 857,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 59.44,
+      "value": 280.91,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mole"
     }
   ]
 }

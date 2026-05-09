@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6577,
+      "value": 7068,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 107.42,
+      "value": 89.55,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Big Shades"
     }
   ]
 }

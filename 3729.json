@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6691,
+      "value": 740,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 105.98,
+      "value": 289.73,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Stringy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Rosy Cheeks"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pilot Helmet"
     }
   ]
 }

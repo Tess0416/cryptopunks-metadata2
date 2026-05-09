@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1833,
+      "value": 191,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 231.39,
+      "value": 377.61,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Accessory",
       "value": "Top Hat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Luxurious Beard"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Pink With Hat"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6270,
+      "value": 9967,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 111.13,
+      "value": 32.68,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Cigarette"
     }
   ]
 }

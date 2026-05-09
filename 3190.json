@@ -10,30 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7682,
+      "value": 403,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 91.11,
+      "value": 325.92,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Straight Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Red Mohawk"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Orange Side"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "3D Glasses"
     }
   ]
 }

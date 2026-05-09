@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2267,
+      "value": 2342,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 210.92,
+      "value": 188.76,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Wild White Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Frumpy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Medical Mask"
     }
   ]
 }

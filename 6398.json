@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1712,
+      "value": 3388,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 238.45,
+      "value": 150.14,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Straight Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Classic Shades"
     }
   ]
 }

@@ -6,38 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 482,
+      "value": 4769,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 332.4,
+      "value": 121.22,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Front Beard"
     }
   ]
 }

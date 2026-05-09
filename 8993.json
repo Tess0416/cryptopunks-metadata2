@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5344,
+      "value": 5875,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 128.53,
+      "value": 105.35,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frumpy Hair"
+      "value": "Normal Beard"
     }
   ]
 }

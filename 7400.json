@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2360,
+      "value": 3596,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 207.52,
+      "value": 144.61,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Gold Chain"
     }
   ]
 }

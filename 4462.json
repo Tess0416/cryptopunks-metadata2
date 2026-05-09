@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5866,
+      "value": 8333,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 117.51,
+      "value": 70.16,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Earring"
     }
   ]
 }

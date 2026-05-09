@@ -6,38 +6,34 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Zombie"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 451,
+      "value": 2366,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 336.64,
+      "value": 187.69,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
+      "value": "Fedora"
     }
   ]
 }

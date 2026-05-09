@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 930,
+      "value": 7671,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 285.87,
+      "value": 80.25,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Eye Patch"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5804,
+      "value": 863,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 118.82,
+      "value": 280.72,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Wild Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Headband"
     }
   ]
 }

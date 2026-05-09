@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3042,
+      "value": 2934,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 180,
+      "value": 163.17,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Hot Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Blue Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Pigtails"
     }
   ]
 }

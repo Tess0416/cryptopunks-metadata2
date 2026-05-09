@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3309,
+      "value": 1775,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 173.7,
+      "value": 221.52,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Pipe"
     }
   ]
 }

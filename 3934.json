@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3730,
+      "value": 8137,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 162.81,
+      "value": 73.71,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Nerd Glasses"
     }
   ]
 }

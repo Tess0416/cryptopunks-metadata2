@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5040,
+      "value": 1975,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 134.02,
+      "value": 209.94,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Rosy Cheeks"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Spots"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Stringy Hair"
     }
   ]
 }

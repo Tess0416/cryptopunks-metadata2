@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2112,
+      "value": 3673,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 217.35,
+      "value": 142.68,
       "display_type": "number"
     },
     {
@@ -24,16 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Dark Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
       "value": "VR"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Messy Hair"
     }
   ]
 }

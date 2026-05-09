@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8078,
+      "value": 365,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 83.19,
+      "value": 332.8,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Blonde Bob"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Rosy Cheeks"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9806,
+      "value": 8072,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 45.57,
+      "value": 74.54,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mustache"
     }
   ]
 }

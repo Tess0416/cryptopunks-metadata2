@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2373,
+      "value": 5192,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 206.93,
+      "value": 113.99,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
+      "value": "Straight Hair Dark"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Frumpy Hair"
     }
   ]
 }

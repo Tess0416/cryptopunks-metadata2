@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4286,
+      "value": 4867,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 148.48,
+      "value": 119.92,
       "display_type": "number"
     },
     {
@@ -24,20 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Normal Beard Black"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Smile"
     }
   ]
 }

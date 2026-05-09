@@ -10,30 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6674,
+      "value": 1000,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 106.31,
+      "value": 269.92,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Purple Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Horned Rim Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Stringy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Tiara"
     }
   ]
 }

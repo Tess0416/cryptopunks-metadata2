@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3208,
+      "value": 2411,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 176.18,
+      "value": 184.89,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Big Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Pipe"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Spots"
     }
   ]
 }

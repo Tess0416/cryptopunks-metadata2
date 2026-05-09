@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 899,
+      "value": 7395,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 288.48,
+      "value": 84.72,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Cap"
     }
   ]
 }

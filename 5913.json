@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3766,
+      "value": 4801,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 161.81,
+      "value": 120.77,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Buck Teeth"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6150,
+      "value": 5353,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 112.81,
+      "value": 111.61,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Purple Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Blonde Bob"
     }
   ]
 }

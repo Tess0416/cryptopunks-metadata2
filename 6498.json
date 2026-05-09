@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5229,
+      "value": 5884,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 130.57,
+      "value": 105.28,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Fedora"
     }
   ]
 }

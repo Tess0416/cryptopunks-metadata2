@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3236,
+      "value": 4894,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 175.22,
+      "value": 119.38,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Red Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Wild Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Crazy Hair"
     }
   ]
 }

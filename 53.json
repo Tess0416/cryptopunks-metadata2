@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 935,
+      "value": 4990,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 285.59,
+      "value": 117.73,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Gold Chain"
     }
   ]
 }

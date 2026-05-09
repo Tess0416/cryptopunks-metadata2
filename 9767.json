@@ -10,30 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5683,
+      "value": 190,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 121.1,
+      "value": 378.53,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Dark Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Spots"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Choker"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Black Lipstick"
     }
   ]
 }

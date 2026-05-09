@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4409,
+      "value": 3169,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 145.85,
+      "value": 156.17,
       "display_type": "number"
     },
     {
@@ -24,16 +24,12 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
@@ -41,7 +37,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Peak Spike"
     }
   ]
 }

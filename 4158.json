@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9759,
+      "value": 7268,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 47.54,
+      "value": 86.81,
       "display_type": "number"
     },
     {
@@ -24,12 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 1,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Hair"
     }
   ]
 }

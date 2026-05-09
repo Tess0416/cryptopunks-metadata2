@@ -10,30 +10,42 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9197,
+      "value": 1585,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 61.66,
+      "value": 232.3,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Green Eye Shadow"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Rosy Cheeks"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Black Lipstick"
     }
   ]
 }

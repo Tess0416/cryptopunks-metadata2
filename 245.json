@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7769,
+      "value": 359,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 89.1,
+      "value": 333.87,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Big Beard"
     }
   ]
 }

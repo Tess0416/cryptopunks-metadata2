@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3469,
+      "value": 4879,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 169.36,
+      "value": 119.65,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Frumpy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Clown Hair Green"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Headband"
     }
   ]
 }

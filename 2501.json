@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6048,
+      "value": 6195,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 114.26,
+      "value": 100.44,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Pipe"
     }
   ]
 }

@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2302,
+      "value": 6599,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 209.43,
+      "value": 95.09,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Cigarette"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Front Beard Dark"
     }
   ]
 }

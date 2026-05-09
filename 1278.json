@@ -10,38 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3616,
+      "value": 8264,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 165.57,
+      "value": 71.44,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Pipe"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Headband"
     }
   ]
 }

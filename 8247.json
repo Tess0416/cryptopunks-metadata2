@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1994,
+      "value": 4445,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 222.77,
+      "value": 128.05,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Crazy Hair"
     }
   ]
 }

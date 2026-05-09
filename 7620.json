@@ -6,38 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8786,
+      "value": 313,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 68.93,
+      "value": 340.57,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Gold Chain"
     }
   ]
 }

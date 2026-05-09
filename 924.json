@@ -10,34 +10,26 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1293,
+      "value": 8731,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 261.12,
+      "value": 63.56,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Tiara"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Pipe"
     }
   ]
 }

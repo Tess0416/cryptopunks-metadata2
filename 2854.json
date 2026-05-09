@@ -6,42 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 483,
+      "value": 7273,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 332.17,
+      "value": 86.7,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Buck Teeth"
     },
     {
       "trait_type": "Accessory",
       "value": "Luxurious Beard"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
     }
   ]
 }

@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1012,
+      "value": 2623,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 280.96,
+      "value": 175.88,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Wild White Hair"
     }
   ]
 }

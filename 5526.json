@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9555,
+      "value": 5117,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 53.7,
+      "value": 115.36,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
+      "value": "Blonde Short"
+    },
+    {
+      "trait_type": "Accessory",
       "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Nerd Glasses"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9428,
+      "value": 7404,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 57.11,
+      "value": 84.46,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigarette"
     }
   ]
 }

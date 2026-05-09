@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3563,
+      "value": 7363,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 166.79,
+      "value": 85.27,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Front Beard Dark"
     }
   ]
 }

@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9315,
+      "value": 3793,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 59.35,
+      "value": 140.41,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Green Eye Shadow"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nerd Glasses"
     }
   ]
 }

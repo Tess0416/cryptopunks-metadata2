@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4963,
+      "value": 3942,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 135.4,
+      "value": 137.3,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Accessory",
       "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Spots"
     }
   ]
 }

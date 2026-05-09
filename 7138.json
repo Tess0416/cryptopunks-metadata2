@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8369,
+      "value": 8041,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 77.66,
+      "value": 74.92,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Frumpy Hair"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Earring"
     }
   ]
 }

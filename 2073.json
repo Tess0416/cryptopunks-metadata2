@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5987,
+      "value": 4697,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 115.36,
+      "value": 123,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
       "value": "Muttonchops"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Regular Shades"
     }
   ]
 }

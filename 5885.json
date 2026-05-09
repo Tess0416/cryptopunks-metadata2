@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3630,
+      "value": 6148,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 165.34,
+      "value": 101.38,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Cigarette"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Fedora"
     }
   ]
 }

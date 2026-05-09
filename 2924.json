@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Ape"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7195,
+      "value": 74,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 98.24,
+      "value": 481.3,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Legendary"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Normal Beard Black"
     }
   ]
 }

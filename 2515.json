@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5783,
+      "value": 6564,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 119.24,
+      "value": 95.32,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Vape"
     }
   ]
 }

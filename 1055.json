@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3116,
+      "value": 2981,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 177.99,
+      "value": 162.05,
       "display_type": "number"
     },
     {
@@ -24,20 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Half Shaved"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Crazy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Frumpy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Blue Eye Shadow"
     }
   ]
 }

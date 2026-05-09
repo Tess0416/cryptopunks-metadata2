@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9474,
+      "value": 6910,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 56.17,
+      "value": 91.48,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Wild Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "Dark Hair"
     }
   ]
 }

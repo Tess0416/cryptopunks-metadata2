@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7511,
+      "value": 615,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 94.19,
+      "value": 300.56,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Big Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Beanie"
     }
   ]
 }

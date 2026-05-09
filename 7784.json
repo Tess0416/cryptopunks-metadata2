@@ -6,42 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2628,
+      "value": 6341,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 195.38,
+      "value": 98.47,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Front Beard"
     }
   ]
 }

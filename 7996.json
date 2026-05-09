@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4560,
+      "value": 5041,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 142.78,
+      "value": 116.79,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "Gold Chain"
     }
   ]
 }

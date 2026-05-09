@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9022,
+      "value": 7848,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 64.89,
+      "value": 77.65,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Normal Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Hoodie"
     }
   ]
 }

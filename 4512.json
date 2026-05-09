@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9157,
+      "value": 7211,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 62.33,
+      "value": 87.62,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Stringy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Purple Hair"
     }
   ]
 }

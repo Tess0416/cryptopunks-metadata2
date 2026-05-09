@@ -6,34 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1940,
+      "value": 3804,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 224.93,
+      "value": 140.03,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Dark Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Hot Lipstick"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Medical Mask"
     }
   ]
 }

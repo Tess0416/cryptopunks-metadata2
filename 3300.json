@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7418,
+      "value": 4949,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 95.49,
+      "value": 118.52,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Blonde Short"
     }
   ]
 }

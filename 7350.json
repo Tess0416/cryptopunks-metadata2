@@ -6,34 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8579,
+      "value": 503,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 73.44,
+      "value": 313.61,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Clown Nose"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Beanie"
     }
   ]
 }

@@ -6,34 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9739,
+      "value": 725,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 48.26,
+      "value": 291.22,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Do-rag"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Big Beard"
     }
   ]
 }

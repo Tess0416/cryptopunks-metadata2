@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3620,
+      "value": 9337,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 165.52,
+      "value": 53.06,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Buck Teeth"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Chinstrap"
     }
   ]
 }

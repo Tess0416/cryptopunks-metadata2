@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5240,
+      "value": 8237,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 130.43,
+      "value": 71.96,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Buck Teeth"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Small Shades"
     }
   ]
 }

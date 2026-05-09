@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5497,
+      "value": 7535,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 125.15,
+      "value": 82.44,
       "display_type": "number"
     },
     {
@@ -24,12 +24,8 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Red Mohawk"
     },
     {
       "trait_type": "Accessory",
@@ -37,7 +33,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Wild Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Black Lipstick"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Big Shades"
     }
   ]
 }

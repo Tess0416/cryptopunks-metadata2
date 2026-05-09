@@ -10,38 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 732,
+      "value": 4613,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 301.14,
+      "value": 124.75,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Handlebars"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Top Hat"
     }
   ]
 }

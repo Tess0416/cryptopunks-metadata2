@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4775,
+      "value": 763,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 139.17,
+      "value": 288.13,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Hot Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Choker"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Hair"
     }
   ]
 }

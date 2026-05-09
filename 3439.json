@@ -10,34 +10,26 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2600,
+      "value": 5284,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 196.45,
+      "value": 112.66,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Spots"
     }
   ]
 }

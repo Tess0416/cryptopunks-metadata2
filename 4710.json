@@ -6,42 +6,46 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Zombie"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 234,
+      "value": 92,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 384.87,
+      "value": 456.6,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Legendary"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Straight Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Clown Hair Green"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Regular Shades"
     }
   ]
 }

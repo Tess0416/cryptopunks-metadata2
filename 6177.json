@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2259,
+      "value": 8400,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 211.24,
+      "value": 69.27,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Horned Rim Glasses"
     }
   ]
 }

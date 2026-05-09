@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1175,
+      "value": 4671,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 269.01,
+      "value": 123.46,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Spots"
     }
   ]
 }

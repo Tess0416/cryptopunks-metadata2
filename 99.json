@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8653,
+      "value": 5251,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 71.7,
+      "value": 113.18,
       "display_type": "number"
     },
     {
@@ -24,8 +24,12 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Frown"
     },
     {
       "trait_type": "Accessory",
@@ -33,7 +37,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Vape"
     }
   ]
 }

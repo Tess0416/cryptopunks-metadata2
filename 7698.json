@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1229,
+      "value": 856,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 266.05,
+      "value": 280.92,
       "display_type": "number"
     },
     {
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Rosy Cheeks"
     },
     {
       "trait_type": "Accessory",
@@ -37,11 +37,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Purple Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Top Hat"
     }
   ]
 }

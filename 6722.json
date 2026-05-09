@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2260,
+      "value": 7543,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 211.24,
+      "value": 82.38,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Tassle Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Bandana"
     }
   ]
 }

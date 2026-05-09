@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3969,
+      "value": 6807,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 156.08,
+      "value": 92.43,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Normal Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Shadow Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "3D Glasses"
     }
   ]
 }

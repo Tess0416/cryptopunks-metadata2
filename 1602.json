@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Zombie"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9339,
+      "value": 1895,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 58.96,
+      "value": 213.93,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Frown"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Gold Chain"
     }
   ]
 }

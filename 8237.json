@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5941,
+      "value": 2735,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 116.1,
+      "value": 170.83,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "Big Beard"
     }
   ]
 }

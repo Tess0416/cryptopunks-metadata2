@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4646,
+      "value": 3570,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 141.29,
+      "value": 145.41,
       "display_type": "number"
     },
     {
@@ -24,20 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Mole"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Fedora"
     }
   ]
 }

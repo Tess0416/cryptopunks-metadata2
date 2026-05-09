@@ -10,30 +10,26 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1478,
+      "value": 8519,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 251.59,
+      "value": 66.98,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "3D Glasses"
     }
   ]
 }

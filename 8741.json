@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5504,
+      "value": 8837,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 125.01,
+      "value": 62.08,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Frown"
     }
   ]
 }

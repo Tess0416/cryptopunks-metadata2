@@ -6,38 +6,30 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4526,
+      "value": 9003,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 143.34,
+      "value": 59.09,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Wild Blonde"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Small Shades"
     }
   ]
 }

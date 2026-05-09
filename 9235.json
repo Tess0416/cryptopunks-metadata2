@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6819,
+      "value": 9917,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 103.85,
+      "value": 37.35,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Cap"
     }
   ]
 }

@@ -6,50 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 39,
+      "value": 7629,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 1081.66,
+      "value": 80.99,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Legendary"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 6,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Front Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Clown Hair Green"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Earring"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Mohawk"
     }
   ]
 }

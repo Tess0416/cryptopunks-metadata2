@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6072,
+      "value": 5243,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 113.98,
+      "value": 113.24,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Cowboy Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Big Shades"
     }
   ]
 }

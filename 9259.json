@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2144,
+      "value": 3805,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 215.95,
+      "value": 139.98,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Top Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Messy Hair"
     }
   ]
 }

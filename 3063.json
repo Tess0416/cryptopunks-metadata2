@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8301,
+      "value": 3581,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 78.85,
+      "value": 145.15,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frumpy Hair"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Big Beard"
     }
   ]
 }

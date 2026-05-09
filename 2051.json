@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8553,
+      "value": 6526,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 74.01,
+      "value": 95.84,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Normal Beard Black"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Handlebars"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Shadow Beard"
     }
   ]
 }

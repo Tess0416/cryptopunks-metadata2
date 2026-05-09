@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3500,
+      "value": 2621,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 168.38,
+      "value": 175.9,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Pigtails"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Silver Chain"
     }
   ]
 }

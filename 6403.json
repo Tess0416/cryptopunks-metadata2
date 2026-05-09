@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4190,
+      "value": 2619,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 150.75,
+      "value": 176.02,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Black Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Red Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Top Hat"
     }
   ]
 }

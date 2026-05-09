@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8837,
+      "value": 6654,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 67.56,
+      "value": 94.41,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Do-rag"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Muttonchops"
     }
   ]
 }

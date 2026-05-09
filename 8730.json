@@ -6,34 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3865,
+      "value": 959,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 159.29,
+      "value": 272.77,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Buck Teeth"
     }
   ]
 }

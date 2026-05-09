@@ -10,26 +10,26 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 631,
+      "value": 2715,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 314.7,
+      "value": 171.74,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
@@ -37,11 +37,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Bandana"
     }
   ]
 }

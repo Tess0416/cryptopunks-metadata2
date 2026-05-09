@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5780,
+      "value": 3441,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 119.28,
+      "value": 148.86,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Frown"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Clown Nose"
     }
   ]
 }

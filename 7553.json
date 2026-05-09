@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7816,
+      "value": 6885,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 88.09,
+      "value": 91.75,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Normal Beard Black"
     }
   ]
 }

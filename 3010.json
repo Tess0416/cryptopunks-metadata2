@@ -10,34 +10,26 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2848,
+      "value": 5912,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 186.74,
+      "value": 104.83,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Front Beard Dark"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Pipe"
     },
     {
       "trait_type": "Accessory",

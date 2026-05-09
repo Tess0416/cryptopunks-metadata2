@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3401,
+      "value": 2769,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 171.31,
+      "value": 169.58,
       "display_type": "number"
     },
     {
@@ -33,11 +33,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Big Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Small Shades"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5317,
+      "value": 7320,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 128.86,
+      "value": 85.95,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Do-rag"
     }
   ]
 }

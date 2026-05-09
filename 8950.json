@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5944,
+      "value": 7928,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 116.07,
+      "value": 76.74,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Hoodie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Do-rag"
     }
   ]
 }

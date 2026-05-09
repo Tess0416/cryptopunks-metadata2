@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7509,
+      "value": 8788,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 94.22,
+      "value": 62.74,
       "display_type": "number"
     },
     {
@@ -24,12 +24,8 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
@@ -37,7 +33,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Handlebars"
     }
   ]
 }

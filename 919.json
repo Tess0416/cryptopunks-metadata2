@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1698,
+      "value": 708,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 239.41,
+      "value": 292.47,
       "display_type": "number"
     },
     {
@@ -24,28 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 5,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Blonde Short"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Regular Shades"
     }
   ]
 }

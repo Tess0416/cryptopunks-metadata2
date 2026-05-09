@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6084,
+      "value": 632,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 113.8,
+      "value": 299.3,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Crazy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Black Lipstick"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",

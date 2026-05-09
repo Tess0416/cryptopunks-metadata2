@@ -6,34 +6,46 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Zombie"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3067,
+      "value": 75,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 179.14,
+      "value": 480.89,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Legendary"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Peak Spike"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cowboy Hat"
     }
   ]
 }

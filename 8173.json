@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 630,
+      "value": 4893,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 314.97,
+      "value": 119.39,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
+      "value": "Blue Eye Shadow"
+    },
+    {
+      "trait_type": "Accessory",
       "value": "Bandana"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Tassle Hat"
     }
   ]
 }

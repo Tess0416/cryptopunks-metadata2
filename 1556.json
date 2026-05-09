@@ -6,34 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6432,
+      "value": 2707,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 108.9,
+      "value": 172.04,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Horned Rim Glasses"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 597,
+      "value": 1490,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 318.32,
+      "value": 238.5,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
+      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Messy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "VR"
     }
   ]
 }

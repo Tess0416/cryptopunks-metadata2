@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9435,
+      "value": 9850,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 56.89,
+      "value": 40.97,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "Nerd Glasses"
     }
   ]
 }

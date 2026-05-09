@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3922,
+      "value": 2398,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 157.33,
+      "value": 185.79,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Straight Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Clown Hair Green"
     }
   ]
 }

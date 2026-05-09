@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7320,
+      "value": 5381,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 96.56,
+      "value": 111.19,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Messy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Green Eye Shadow"
     }
   ]
 }

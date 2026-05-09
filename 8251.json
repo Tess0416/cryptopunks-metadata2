@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3812,
+      "value": 4307,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 160.67,
+      "value": 130.04,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "Pipe"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Cowboy Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Knitted Cap"
     }
   ]
 }

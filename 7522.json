@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8136,
+      "value": 2937,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 82.05,
+      "value": 163.12,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Straight Hair Blonde"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Hair"
     }
   ]
 }

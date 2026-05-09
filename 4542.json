@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5598,
+      "value": 1791,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 123.15,
+      "value": 220.45,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Black Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Blonde Short"
     }
   ]
 }

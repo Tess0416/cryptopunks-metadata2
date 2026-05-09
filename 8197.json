@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6251,
+      "value": 9600,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 111.33,
+      "value": 47.54,
       "display_type": "number"
     },
     {
@@ -24,20 +24,12 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Dark Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Mole"
     }
   ]
 }

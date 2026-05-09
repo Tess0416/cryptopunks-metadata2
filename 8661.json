@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6903,
+      "value": 8528,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 102.37,
+      "value": 66.84,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Horned Rim Glasses"
     }
   ]
 }

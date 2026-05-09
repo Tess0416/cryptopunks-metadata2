@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6573,
+      "value": 5517,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 107.42,
+      "value": 109.99,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "Rosy Cheeks"
     }
   ]
 }

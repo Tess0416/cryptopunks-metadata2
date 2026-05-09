@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2230,
+      "value": 496,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 212.38,
+      "value": 314.82,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
+      "value": "Tiara"
+    },
+    {
+      "trait_type": "Accessory",
       "value": "Straight Hair Dark"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Purple Hair"
     }
   ]
 }

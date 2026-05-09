@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7921,
+      "value": 9010,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 86.38,
+      "value": 58.95,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Horned Rim Glasses"
     }
   ]
 }

@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4062,
+      "value": 6629,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 153.83,
+      "value": 94.75,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
@@ -37,7 +37,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Normal Beard Black"
     }
   ]
 }

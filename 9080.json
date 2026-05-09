@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5223,
+      "value": 408,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 130.81,
+      "value": 324.67,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Medical Mask"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Blonde Short"
     }
   ]
 }

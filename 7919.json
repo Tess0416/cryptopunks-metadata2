@@ -10,42 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 681,
+      "value": 6990,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 306.03,
+      "value": 90.59,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 5,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Wild White Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Frown"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Silver Chain"
     }
   ]
 }

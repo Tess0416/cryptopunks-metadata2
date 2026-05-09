@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4577,
+      "value": 8886,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 142.29,
+      "value": 61.21,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Eye Patch"
     }
   ]
 }

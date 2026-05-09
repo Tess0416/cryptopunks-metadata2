@@ -10,42 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1578,
+      "value": 5957,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 246.64,
+      "value": 104.13,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 5,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Goat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Messy Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Horned Rim Glasses"
     }
   ]
 }

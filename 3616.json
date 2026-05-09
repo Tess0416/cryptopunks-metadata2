@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7076,
+      "value": 2800,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 99.65,
+      "value": 168.16,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Half Shaved"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Medical Mask"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Purple Eye Shadow"
     }
   ]
 }

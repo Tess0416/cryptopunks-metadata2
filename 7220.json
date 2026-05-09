@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3547,
+      "value": 9841,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 167.19,
+      "value": 41.29,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Shadow Beard"
     }
   ]
 }

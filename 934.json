@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1467,
+      "value": 1916,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 252.36,
+      "value": 213.08,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Orange Side"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Purple Hair"
     }
   ]
 }

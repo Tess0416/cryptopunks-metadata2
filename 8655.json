@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8597,
+      "value": 4840,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 73.08,
+      "value": 120.24,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Top Hat"
     }
   ]
 }

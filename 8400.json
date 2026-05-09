@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6778,
+      "value": 6472,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 104.53,
+      "value": 96.71,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nerd Glasses"
     }
   ]
 }

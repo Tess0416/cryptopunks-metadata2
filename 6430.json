@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2317,
+      "value": 5198,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 209,
+      "value": 113.97,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Stringy Hair"
     }
   ]
 }

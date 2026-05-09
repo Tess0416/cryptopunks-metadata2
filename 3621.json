@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5932,
+      "value": 4736,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 116.25,
+      "value": 122.2,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Spots"
     }
   ]
 }

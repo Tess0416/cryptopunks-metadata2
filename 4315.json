@@ -6,38 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6824,
+      "value": 4146,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 103.74,
+      "value": 132.81,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Headband"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4136,
+      "value": 2305,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 152.01,
+      "value": 190.54,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Wild White Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Wild Hair"
     }
   ]
 }

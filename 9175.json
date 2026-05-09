@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9221,
+      "value": 6417,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 61.37,
+      "value": 97.41,
       "display_type": "number"
     },
     {
@@ -33,11 +33,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Silver Chain"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6596,
+      "value": 6925,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 107.2,
+      "value": 91.24,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Mustache"
     }
   ]
 }

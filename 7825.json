@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6376,
+      "value": 2341,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 109.72,
+      "value": 188.8,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Front Beard Dark"
     }
   ]
 }

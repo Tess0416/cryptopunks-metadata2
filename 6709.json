@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3223,
+      "value": 5739,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 175.55,
+      "value": 107.21,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Frown"
     }
   ]
 }

@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3294,
+      "value": 545,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 174.07,
+      "value": 307.64,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Red Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Small Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Choker"
     }
   ]
 }

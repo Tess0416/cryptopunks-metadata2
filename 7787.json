@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3470,
+      "value": 3918,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 169.33,
+      "value": 137.7,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Top Hat"
     }
   ]
 }

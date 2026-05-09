@@ -6,46 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 282,
+      "value": 3785,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 371.81,
+      "value": 140.53,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 5,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Messy Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Mohawk"
     }
   ]
 }

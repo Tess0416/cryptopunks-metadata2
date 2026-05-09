@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5550,
+      "value": 1038,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 124.11,
+      "value": 267.3,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Pilot Helmet"
     }
   ]
 }

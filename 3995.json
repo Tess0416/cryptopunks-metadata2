@@ -6,42 +6,34 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4767,
+      "value": 9508,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 139.26,
+      "value": 49.73,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Frumpy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Normal Beard"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Eye Patch"
     }
   ]
 }

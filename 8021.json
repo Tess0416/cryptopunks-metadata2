@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8084,
+      "value": 8235,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 82.97,
+      "value": 72.03,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Goat"
     }
   ]
 }

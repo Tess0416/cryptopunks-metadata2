@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5704,
+      "value": 8174,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 120.63,
+      "value": 73.26,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Muttonchops"
     }
   ]
 }

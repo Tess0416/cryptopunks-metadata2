@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6221,
+      "value": 9520,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 111.67,
+      "value": 49.5,
       "display_type": "number"
     },
     {
@@ -24,16 +24,12 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Nerd Glasses"
     }
   ]
 }

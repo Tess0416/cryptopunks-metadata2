@@ -6,42 +6,46 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Zombie"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1832,
+      "value": 287,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 231.45,
+      "value": 347.53,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "Orange Side"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Purple Eye Shadow"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Vape"
     }
   ]
 }

@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5294,
+      "value": 4670,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 129.4,
+      "value": 123.46,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Classic Shades"
-    },
-    {
-      "trait_type": "Accessory",
       "value": "Spots"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Handlebars"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9388,
+      "value": 6900,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 58.05,
+      "value": 91.6,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "3D Glasses"
     }
   ]
 }

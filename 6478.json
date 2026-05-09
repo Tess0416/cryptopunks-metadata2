@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Ape"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 48,
+      "value": 100,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 619.62,
+      "value": 452.04,
       "display_type": "number"
     },
     {
@@ -24,20 +24,28 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Top Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Nose"
     }
   ]
 }

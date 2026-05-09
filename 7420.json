@@ -6,46 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 171,
+      "value": 2774,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 414.94,
+      "value": 169.41,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 5,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Purple Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Pilot Helmet"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Blonde Short"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Zombie"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1149,
+      "value": 755,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 270.46,
+      "value": 288.61,
       "display_type": "number"
     },
     {
@@ -24,16 +24,12 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
@@ -41,7 +37,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Goat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Headband"
     }
   ]
 }

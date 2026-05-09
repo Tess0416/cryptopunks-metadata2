@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6225,
+      "value": 7556,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 111.57,
+      "value": 82.17,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Purple Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Eye Patch"
     }
   ]
 }

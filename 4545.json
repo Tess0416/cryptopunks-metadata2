@@ -6,42 +6,34 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 520,
+      "value": 3518,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 327.98,
+      "value": 146.66,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Tiara"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Purple Hair"
     }
   ]
 }

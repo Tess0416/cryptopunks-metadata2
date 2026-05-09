@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9464,
+      "value": 6450,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 56.26,
+      "value": 96.98,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Do-rag"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mohawk"
     }
   ]
 }

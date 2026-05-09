@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6309,
+      "value": 4097,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 110.67,
+      "value": 133.9,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Nerd Glasses"
     }
   ]
 }

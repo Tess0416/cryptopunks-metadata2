@@ -6,30 +6,34 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2194,
+      "value": 7715,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 213.83,
+      "value": 79.63,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 1,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Vape"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Green Eye Shadow"
     }
   ]
 }

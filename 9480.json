@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3833,
+      "value": 3985,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 160.19,
+      "value": 136.65,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Big Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Cap"
     }
   ]
 }

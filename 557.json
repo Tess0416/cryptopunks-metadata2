@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9763,
+      "value": 351,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 47.5,
+      "value": 334.86,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Straight Hair Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Spots"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Tiara"
     }
   ]
 }

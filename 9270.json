@@ -6,38 +6,34 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3699,
+      "value": 6000,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 163.5,
+      "value": 103.56,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Red Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "VR"
     }
   ]
 }

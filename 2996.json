@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8802,
+      "value": 6116,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 68.43,
+      "value": 101.9,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Silver Chain"
     }
   ]
 }

@@ -6,34 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Zombie"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6741,
+      "value": 84,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 105.14,
+      "value": 467.34,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Legendary"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Pigtails"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Choker"
     }
   ]
 }

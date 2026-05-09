@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6855,
+      "value": 145,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 103.27,
+      "value": 400.28,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Clown Hair Green"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Choker"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Straight Hair Dark"
     }
   ]
 }

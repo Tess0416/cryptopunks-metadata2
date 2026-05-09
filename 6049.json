@@ -10,21 +10,21 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5684,
+      "value": 3660,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 121.08,
+      "value": 143.13,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
@@ -33,7 +33,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Wild Blonde"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Eye Patch"
     }
   ]
 }

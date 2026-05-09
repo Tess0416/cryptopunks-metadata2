@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7853,
+      "value": 7148,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 87.46,
+      "value": 88.49,
       "display_type": "number"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Silver Chain"
     }
   ]
 }

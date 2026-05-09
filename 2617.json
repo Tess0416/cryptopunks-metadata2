@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4004,
+      "value": 6291,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 155.14,
+      "value": 98.93,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Frown"
     }
   ]
 }

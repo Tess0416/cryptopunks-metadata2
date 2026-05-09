@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5851,
+      "value": 3965,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 117.88,
+      "value": 137.05,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Straight Hair"
     }
   ]
 }

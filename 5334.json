@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 818,
+      "value": 3396,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 292.99,
+      "value": 149.96,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Purple Eye Shadow"
     },
     {
       "trait_type": "Accessory",

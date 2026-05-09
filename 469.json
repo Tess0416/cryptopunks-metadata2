@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6768,
+      "value": 1548,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 104.63,
+      "value": 235.07,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Wild White Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Rosy Cheeks"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Crazy Hair"
     },
     {
       "trait_type": "Accessory",

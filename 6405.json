@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6583,
+      "value": 8914,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 107.34,
+      "value": 60.6,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Shadow Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Horned Rim Glasses"
     }
   ]
 }

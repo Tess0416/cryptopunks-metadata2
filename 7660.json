@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3010,
+      "value": 8382,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 180.97,
+      "value": 69.53,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",

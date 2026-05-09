@@ -6,38 +6,30 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3157,
+      "value": 6181,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 177.14,
+      "value": 100.66,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Chinstrap"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Red Mohawk"
     }
   ]
 }

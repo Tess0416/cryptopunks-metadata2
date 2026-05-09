@@ -6,46 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 406,
+      "value": 7480,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 344.16,
+      "value": 83.47,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 5,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Cigarette"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Orange Side"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Eye Patch"
     }
   ]
 }

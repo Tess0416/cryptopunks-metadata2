@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 802,
+      "value": 1970,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 294.15,
+      "value": 210.16,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Spots"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Blonde Short"
     }
   ]
 }

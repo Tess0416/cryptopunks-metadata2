@@ -10,30 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6867,
+      "value": 1605,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 103.01,
+      "value": 230.93,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Straight Hair Dark"
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Straight Hair Blonde"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Straight Hair"
     }
   ]
 }

@@ -6,34 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9439,
+      "value": 1673,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 56.82,
+      "value": 227.51,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Orange Side"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Green Eye Shadow"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Eye Shadow"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2132,
+      "value": 4566,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 216.38,
+      "value": 125.63,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Shadow Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Frown"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8716,
+      "value": 5464,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 70.24,
+      "value": 110.57,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Blue Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Straight Hair Blonde"
     }
   ]
 }

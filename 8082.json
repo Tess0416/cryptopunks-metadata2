@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2735,
+      "value": 3552,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 190.28,
+      "value": 145.93,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Hot Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Clown Hair Green"
     }
   ]
 }

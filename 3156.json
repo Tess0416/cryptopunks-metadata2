@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 950,
+      "value": 9572,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 284.7,
+      "value": 48.12,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Headband"
     }
   ]
 }

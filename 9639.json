@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5361,
+      "value": 5834,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 128.27,
+      "value": 105.94,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Pipe"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Chinstrap"
     }
   ]
 }

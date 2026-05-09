@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6369,
+      "value": 9930,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 109.82,
+      "value": 36.29,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Buck Teeth"
     }
   ]
 }

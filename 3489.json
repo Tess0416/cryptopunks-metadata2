@@ -6,34 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1957,
+      "value": 68,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 224.15,
+      "value": 486.55,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Legendary"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Small Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pilot Helmet"
     }
   ]
 }

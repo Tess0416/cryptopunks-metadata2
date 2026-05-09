@@ -10,42 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 201,
+      "value": 1609,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 399.66,
+      "value": 230.63,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 5,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Medical Mask"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "Stringy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Beanie"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Orange Side"
     }
   ]
 }

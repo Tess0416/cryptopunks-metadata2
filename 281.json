@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5150,
+      "value": 3920,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 132.06,
+      "value": 137.64,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Pipe"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Hoodie"
     }
   ]
 }

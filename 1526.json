@@ -6,38 +6,46 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Zombie"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 193,
+      "value": 1662,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 403.03,
+      "value": 228.18,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Headband"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Front Beard Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mustache"
     }
   ]
 }

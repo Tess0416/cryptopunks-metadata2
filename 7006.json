@@ -10,38 +10,26 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4602,
+      "value": 9315,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 141.98,
+      "value": 53.71,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Shaved Head"
-    },
-    {
-      "trait_type": "Accessory",
       "value": "Eye Patch"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Medical Mask"
     }
   ]
 }

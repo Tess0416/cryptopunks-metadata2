@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8103,
+      "value": 5645,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 82.67,
+      "value": 108.26,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pipe"
     }
   ]
 }

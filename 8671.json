@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1965,
+      "value": 1767,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 223.93,
+      "value": 221.77,
       "display_type": "number"
     },
     {
@@ -24,16 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Messy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Orange Side"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Big Shades"
     }
   ]
 }

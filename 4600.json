@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2457,
+      "value": 726,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 202.38,
+      "value": 291.2,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Straight Hair"
     }
   ]
 }

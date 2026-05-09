@@ -10,30 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6241,
+      "value": 3236,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 111.44,
+      "value": 154.08,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Wild Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Rosy Cheeks"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nerd Glasses"
     }
   ]
 }

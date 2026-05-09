@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8806,
+      "value": 8907,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 68.25,
+      "value": 60.74,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Front Beard Dark"
     }
   ]
 }

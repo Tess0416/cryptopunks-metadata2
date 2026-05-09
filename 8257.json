@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2305,
+      "value": 9191,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 209.37,
+      "value": 56.3,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Cigarette"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Shadow Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Mohawk"
     }
   ]
 }

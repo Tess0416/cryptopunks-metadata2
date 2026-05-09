@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9948,
+      "value": 5932,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 36.08,
+      "value": 104.49,
       "display_type": "number"
     },
     {
@@ -24,12 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 1,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Clown Nose"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Wild Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "VR"
     }
   ]
 }

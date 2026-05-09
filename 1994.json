@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 274,
+      "value": 212,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 374.82,
+      "value": 368.75,
       "display_type": "number"
     },
     {
@@ -24,20 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "3D Glasses"
     }
   ]
 }

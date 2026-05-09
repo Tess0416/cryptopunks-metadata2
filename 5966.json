@@ -6,38 +6,30 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2697,
+      "value": 6467,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 191.86,
+      "value": 96.74,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Big Shades"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Silver Chain"
     }
   ]
 }

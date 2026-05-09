@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1540,
+      "value": 1977,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 248.42,
+      "value": 209.87,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Red Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Wild Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Clown Hair Green"
     }
   ]
 }

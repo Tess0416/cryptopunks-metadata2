@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3681,
+      "value": 4402,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 163.72,
+      "value": 128.5,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Front Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Goat"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4291,
+      "value": 7705,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 148.37,
+      "value": 79.81,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Muttonchops"
     }
   ]
 }

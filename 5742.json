@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5469,
+      "value": 2790,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 125.67,
+      "value": 168.65,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Spots"
     }
   ]
 }

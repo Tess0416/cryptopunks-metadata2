@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1152,
+      "value": 685,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 270.38,
+      "value": 294.51,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Front Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pilot Helmet"
     }
   ]
 }

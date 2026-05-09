@@ -10,22 +10,26 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8526,
+      "value": 2475,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 74.51,
+      "value": 181.41,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Green Eye Shadow"
     },
     {
       "trait_type": "Accessory",
@@ -33,7 +37,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Wild White Hair"
     }
   ]
 }

@@ -10,38 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 536,
+      "value": 9339,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 326.07,
+      "value": 53.06,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Buck Teeth"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Chinstrap"
     }
   ]
 }

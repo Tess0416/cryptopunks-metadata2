@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3225,
+      "value": 2597,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 175.53,
+      "value": 177.19,
       "display_type": "number"
     },
     {
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Normal Beard Black"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Big Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
+      "value": "Hoodie"
     }
   ]
 }

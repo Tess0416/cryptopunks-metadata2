@@ -6,42 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2122,
+      "value": 8127,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 216.93,
+      "value": 73.98,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Small Shades"
     }
   ]
 }

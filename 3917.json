@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3800,
+      "value": 1250,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 160.88,
+      "value": 254.48,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "VR"
     }
   ]
 }

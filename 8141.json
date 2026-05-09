@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4374,
+      "value": 1800,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 146.49,
+      "value": 220.1,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Pilot Helmet"
     }
   ]
 }

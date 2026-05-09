@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8020,
+      "value": 8660,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 84.37,
+      "value": 64.87,
       "display_type": "number"
     },
     {
@@ -24,8 +24,12 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mohawk"
     },
     {
       "trait_type": "Accessory",
@@ -33,7 +37,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Shadow Beard"
     }
   ]
 }

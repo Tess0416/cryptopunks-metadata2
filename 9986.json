@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1108,
+      "value": 7054,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 273.65,
+      "value": 89.8,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Normal Beard Black"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Mole"
     }
   ]
 }

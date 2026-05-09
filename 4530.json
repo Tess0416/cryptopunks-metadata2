@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 290,
+      "value": 3943,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 369.87,
+      "value": 137.28,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Normal Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Mustache"
     }
   ]
 }

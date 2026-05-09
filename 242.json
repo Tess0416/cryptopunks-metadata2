@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6182,
+      "value": 8696,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 112.26,
+      "value": 64.25,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Small Shades"
     }
   ]
 }

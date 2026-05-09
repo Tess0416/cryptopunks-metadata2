@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7264,
+      "value": 7333,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 97.39,
+      "value": 85.78,
       "display_type": "number"
     },
     {
@@ -24,20 +24,12 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Goat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
+      "value": "Fedora"
     }
   ]
 }

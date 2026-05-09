@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9456,
+      "value": 7606,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 56.58,
+      "value": 81.31,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Stringy Hair"
     }
   ]
 }

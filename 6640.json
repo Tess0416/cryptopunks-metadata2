@@ -6,42 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2642,
+      "value": 7637,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 194.75,
+      "value": 80.77,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Eye Patch"
     }
   ]
 }

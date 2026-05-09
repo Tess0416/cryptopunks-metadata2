@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5886,
+      "value": 1016,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 117.04,
+      "value": 268.83,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Beanie"
     }
   ]
 }

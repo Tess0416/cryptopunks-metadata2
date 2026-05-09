@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7124,
+      "value": 2905,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 99.14,
+      "value": 164.18,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Rosy Cheeks"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Spots"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9986,
+      "value": 5233,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 31.17,
+      "value": 113.43,
       "display_type": "number"
     },
     {
@@ -24,16 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Stringy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Vape"
     }
   ]
 }

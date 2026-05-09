@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4968,
+      "value": 7455,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 135.33,
+      "value": 83.72,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Headband"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Luxurious Beard"
     }
   ]
 }

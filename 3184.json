@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4135,
+      "value": 3019,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 152.02,
+      "value": 160.81,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Gold Chain"
     }
   ]
 }

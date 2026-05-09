@@ -10,22 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 13,
+      "value": 9863,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 1251.98,
+      "value": 40.27,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Legendary"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 0,
+      "value": 2,
       "display_type": "number"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Buck Teeth"
     }
   ]
 }

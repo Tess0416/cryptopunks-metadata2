@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2756,
+      "value": 1789,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 189.57,
+      "value": 220.5,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Orange Side"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Half Shaved"
     }
   ]
 }

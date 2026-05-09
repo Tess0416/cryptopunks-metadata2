@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2566,
+      "value": 6784,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 197.99,
+      "value": 92.71,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Peak Spike"
     }
   ]
 }

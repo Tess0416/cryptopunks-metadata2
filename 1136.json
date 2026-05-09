@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2984,
+      "value": 2422,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 181.89,
+      "value": 184.35,
       "display_type": "number"
     },
     {
@@ -24,20 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Top Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Shadow Beard"
     }
   ]
 }

@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7070,
+      "value": 2069,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 99.89,
+      "value": 205.34,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Messy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frumpy Hair"
+      "value": "Green Eye Shadow"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pigtails"
     }
   ]
 }

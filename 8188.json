@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8307,
+      "value": 9900,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 78.77,
+      "value": 38.98,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "Earring"
     }
   ]
 }

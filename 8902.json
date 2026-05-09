@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 443,
+      "value": 5851,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 338.28,
+      "value": 105.68,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Cap"
     }
   ]
 }

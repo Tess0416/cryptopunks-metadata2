@@ -10,30 +10,22 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3061,
+      "value": 9,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 179.2,
+      "value": 1251.98,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Legendary"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 0,
       "display_type": "number"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Half Shaved"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Pigtails"
     }
   ]
 }

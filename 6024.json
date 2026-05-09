@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5021,
+      "value": 7694,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 134.39,
+      "value": 79.99,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Bandana"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Black Lipstick"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Eye Shadow"
     }
   ]
 }

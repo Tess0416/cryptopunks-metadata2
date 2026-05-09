@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3148,
+      "value": 9180,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 177.25,
+      "value": 56.49,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Peak Spike"
     }
   ]
 }

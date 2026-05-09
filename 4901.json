@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5003,
+      "value": 6875,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 134.66,
+      "value": 91.84,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Shadow Beard"
     }
   ]
 }

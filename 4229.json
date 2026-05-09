@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6915,
+      "value": 5463,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 102.23,
+      "value": 110.57,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Blue Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Clown Hair Green"
     }
   ]
 }

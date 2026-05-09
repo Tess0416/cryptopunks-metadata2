@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4635,
+      "value": 2107,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 141.47,
+      "value": 202.41,
       "display_type": "number"
     },
     {
@@ -24,16 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Straight Hair Blonde"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Wild Blonde"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Bandana"
     }
   ]
 }

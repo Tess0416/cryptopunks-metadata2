@@ -10,26 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1463,
+      "value": 238,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 252.61,
+      "value": 360.87,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Rosy Cheeks"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Wild Blonde"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Crazy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pigtails"
     },
     {
       "trait_type": "Accessory",

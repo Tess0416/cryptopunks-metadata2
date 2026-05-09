@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8256,
+      "value": 2165,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 79.73,
+      "value": 198.41,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "Wild Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Orange Side"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Crazy Hair"
     }
   ]
 }

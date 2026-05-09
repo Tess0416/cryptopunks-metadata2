@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8781,
+      "value": 4829,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 69.1,
+      "value": 120.32,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Shadow Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frumpy Hair"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Silver Chain"
     }
   ]
 }

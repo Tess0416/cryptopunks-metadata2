@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7191,
+      "value": 760,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 98.35,
+      "value": 288.16,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Blonde Bob"
     }
   ]
 }

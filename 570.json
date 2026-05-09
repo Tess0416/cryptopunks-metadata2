@@ -6,38 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7438,
+      "value": 1615,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 95.17,
+      "value": 230.26,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Front Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Spots"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Big Beard"
     }
   ]
 }

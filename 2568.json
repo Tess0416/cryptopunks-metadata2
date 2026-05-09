@@ -10,30 +10,26 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1629,
+      "value": 5282,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 243.75,
+      "value": 112.66,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Spots"
     }
   ]
 }

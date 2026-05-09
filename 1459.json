@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6844,
+      "value": 7245,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 103.43,
+      "value": 87.17,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Straight Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Mole"
     }
   ]
 }

@@ -10,38 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3432,
+      "value": 9726,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 170.42,
+      "value": 43.83,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Shaved Head"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Luxurious Beard"
     }
   ]
 }

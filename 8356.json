@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7184,
+      "value": 8923,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 98.41,
+      "value": 60.5,
       "display_type": "number"
     },
     {
@@ -24,20 +24,12 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Goat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Cap"
     }
   ]
 }

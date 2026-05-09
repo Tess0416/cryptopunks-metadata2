@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3094,
+      "value": 1202,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 178.54,
+      "value": 256.91,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Green Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Orange Side"
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Straight Hair Blonde"
     }
   ]
 }

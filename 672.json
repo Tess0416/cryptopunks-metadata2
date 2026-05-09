@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9891,
+      "value": 7506,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 41.47,
+      "value": 82.96,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Luxurious Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Knitted Cap"
     }
   ]
 }

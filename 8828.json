@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4863,
+      "value": 8094,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 137.15,
+      "value": 74.36,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Normal Beard Black"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Luxurious Beard"
     }
   ]
 }

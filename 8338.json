@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8846,
+      "value": 7303,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 67.47,
+      "value": 86.28,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Eye Patch"
     }
   ]
 }

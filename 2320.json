@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8657,
+      "value": 9646,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 71.62,
+      "value": 46.41,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Classic Shades"
     }
   ]
 }

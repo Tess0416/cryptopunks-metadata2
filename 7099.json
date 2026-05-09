@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3749,
+      "value": 5312,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 162.16,
+      "value": 112.08,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Clown Hair Green"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Crazy Hair"
     }
   ]
 }

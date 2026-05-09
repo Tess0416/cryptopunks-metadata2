@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8109,
+      "value": 7088,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 82.48,
+      "value": 89.29,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Normal Beard Black"
     }
   ]
 }

@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 779,
+      "value": 8806,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 296.56,
+      "value": 62.41,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Hoodie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Shadow Beard"
     }
   ]
 }

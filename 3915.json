@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6392,
+      "value": 612,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 109.54,
+      "value": 300.69,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Luxurious Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Normal Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Beanie"
     }
   ]
 }

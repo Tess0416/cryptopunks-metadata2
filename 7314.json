@@ -10,30 +10,26 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7806,
+      "value": 1846,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 88.35,
+      "value": 217.2,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Pilot Helmet"
     }
   ]
 }

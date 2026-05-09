@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6651,
+      "value": 2099,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 106.63,
+      "value": 202.78,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Buck Teeth"
     }
   ]
 }

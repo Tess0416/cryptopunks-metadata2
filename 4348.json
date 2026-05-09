@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8168,
+      "value": 9271,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 81.45,
+      "value": 54.69,
       "display_type": "number"
     },
     {
@@ -24,16 +24,12 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Mohawk"
     }
   ]
 }

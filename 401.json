@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 641,
+      "value": 196,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 312.93,
+      "value": 375.24,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Orange Side"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Purple Eye Shadow"
     }
   ]
 }

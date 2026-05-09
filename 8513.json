@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6988,
+      "value": 8647,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 100.97,
+      "value": 65.02,
       "display_type": "number"
     },
     {
@@ -24,16 +24,12 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Muttonchops"
     }
   ]
 }

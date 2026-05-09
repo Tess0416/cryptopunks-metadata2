@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 763,
+      "value": 5203,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 298.5,
+      "value": 113.89,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Cowboy Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Buck Teeth"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Small Shades"
     }
   ]
 }

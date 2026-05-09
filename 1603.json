@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4782,
+      "value": 1422,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 139.03,
+      "value": 243.51,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Cigarette"
     }
   ]
 }

@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3931,
+      "value": 1461,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 157.11,
+      "value": 240.77,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Orange Side"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Messy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Crazy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Eye Shadow"
     }
   ]
 }

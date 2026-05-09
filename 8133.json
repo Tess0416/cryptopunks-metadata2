@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Zombie"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1668,
+      "value": 1200,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 241.34,
+      "value": 257.05,
       "display_type": "number"
     },
     {
@@ -24,20 +24,28 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Normal Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Front Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Chinstrap"
     }
   ]
 }

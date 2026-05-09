@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9931,
+      "value": 8553,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 37.88,
+      "value": 66.29,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Muttonchops"
     }
   ]
 }

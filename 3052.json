@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5320,
+      "value": 6133,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 128.81,
+      "value": 101.67,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Cowboy Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Small Shades"
     }
   ]
 }

@@ -10,30 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8465,
+      "value": 140,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 76.29,
+      "value": 404.12,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Straight Hair Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Clown Hair Green"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Tiara"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Blonde Short"
     }
   ]
 }

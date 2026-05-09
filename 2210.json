@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3435,
+      "value": 8899,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 170.25,
+      "value": 60.99,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
+      "value": "Small Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "Accessory",
       "value": "Cigarette"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Big Shades"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Silver Chain"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Red Mohawk"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7135,
+      "value": 5758,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 99,
+      "value": 107.06,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Nose"
     }
   ]
 }

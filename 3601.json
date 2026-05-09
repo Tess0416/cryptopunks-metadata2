@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Zombie"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 168,
+      "value": 1626,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 415.31,
+      "value": 229.95,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,23 +29,23 @@
     },
     {
       "trait_type": "Accessory",
+      "value": "Front Beard Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Shadow Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Handlebars"
+    },
+    {
+      "trait_type": "Accessory",
       "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Spots"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Big Shades"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Vape"
     }
   ]
 }

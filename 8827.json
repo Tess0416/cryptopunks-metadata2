@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9035,
+      "value": 7997,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 64.72,
+      "value": 75.78,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "VR"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Vape"
     }
   ]
 }

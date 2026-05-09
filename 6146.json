@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9026,
+      "value": 8210,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 64.84,
+      "value": 72.76,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Luxurious Beard"
     }
   ]
 }

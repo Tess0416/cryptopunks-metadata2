@@ -6,34 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2527,
+      "value": 1233,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 199.82,
+      "value": 254.99,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Handlebars"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pilot Helmet"
     }
   ]
 }

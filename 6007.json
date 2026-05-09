@@ -6,46 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 74,
+      "value": 5529,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 520.48,
+      "value": 109.85,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Legendary"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 5,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Black Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Half Shaved"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Bandana"
     }
   ]
 }

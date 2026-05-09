@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8032,
+      "value": 6446,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 84.09,
+      "value": 97.06,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Normal Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "VR"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cap"
     }
   ]
 }

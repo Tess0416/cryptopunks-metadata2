@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3035,
+      "value": 3693,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 180.19,
+      "value": 142.18,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Dark Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Tassle Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Nerd Glasses"
     }
   ]
 }

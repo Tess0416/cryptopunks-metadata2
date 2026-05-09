@@ -10,38 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1404,
+      "value": 5747,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 255.22,
+      "value": 107.13,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Vape"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Eye Patch"
     }
   ]
 }

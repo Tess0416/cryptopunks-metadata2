@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 706,
+      "value": 7847,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 303.81,
+      "value": 77.65,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Big Shades"
     }
   ]
 }

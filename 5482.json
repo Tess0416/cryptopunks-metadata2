@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6776,
+      "value": 4910,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 104.54,
+      "value": 119.11,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Medical Mask"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Purple Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Regular Shades"
     }
   ]
 }

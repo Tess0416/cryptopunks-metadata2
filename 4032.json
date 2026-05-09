@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9903,
+      "value": 7033,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 40.84,
+      "value": 90.13,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frumpy Hair"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Big Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Do-rag"
     }
   ]
 }

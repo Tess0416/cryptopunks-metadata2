@@ -6,38 +6,30 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1564,
+      "value": 9421,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 247.22,
+      "value": 51.33,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Gold Chain"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Big Shades"
     }
   ]
 }

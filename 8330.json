@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 617,
+      "value": 4555,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 315.98,
+      "value": 125.83,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Frumpy Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Blonde Bob"
     },
     {
       "trait_type": "Accessory",
       "value": "Vape"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Black Lipstick"
     }
   ]
 }

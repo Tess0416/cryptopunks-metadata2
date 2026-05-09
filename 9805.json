@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9213,
+      "value": 5062,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 61.42,
+      "value": 116.44,
       "display_type": "number"
     },
     {
@@ -24,16 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Bandana"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Hot Lipstick"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Hair Green"
     }
   ]
 }

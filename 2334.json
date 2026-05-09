@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5883,
+      "value": 4942,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 117.12,
+      "value": 118.67,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Big Beard"
     }
   ]
 }

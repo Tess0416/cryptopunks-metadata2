@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1294,
+      "value": 4128,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 261.09,
+      "value": 133.3,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Green Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Earring"
     }
   ]
 }

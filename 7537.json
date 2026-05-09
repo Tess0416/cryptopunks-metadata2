@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6381,
+      "value": 3628,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 109.63,
+      "value": 144.04,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Top Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Goat"
     }
   ]
 }

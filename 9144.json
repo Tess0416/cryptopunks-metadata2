@@ -6,34 +6,46 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Ape"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 53,
+      "value": 1586,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 603.32,
+      "value": 232.29,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Legendary"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Front Beard Dark"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Small Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nerd Glasses"
     }
   ]
 }

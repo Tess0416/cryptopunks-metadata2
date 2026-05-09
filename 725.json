@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2654,
+      "value": 2215,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 194.15,
+      "value": 195.76,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Purple Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Straight Hair"
     }
   ]
 }

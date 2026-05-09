@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6586,
+      "value": 8940,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 107.33,
+      "value": 60.3,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Do-rag"
     }
   ]
 }

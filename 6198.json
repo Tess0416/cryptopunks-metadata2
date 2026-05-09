@@ -6,34 +6,46 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Zombie"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2080,
+      "value": 1633,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 218.72,
+      "value": 229.3,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Goat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Do-rag"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Front Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mustache"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5475,
+      "value": 7834,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 125.52,
+      "value": 77.72,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Buck Teeth"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Horned Rim Glasses"
     }
   ]
 }

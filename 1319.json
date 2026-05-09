@@ -10,26 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3224,
+      "value": 591,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 175.54,
+      "value": 302.22,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Dark Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Wild White Hair"
     },
     {
       "trait_type": "Accessory",
@@ -37,7 +41,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Purple Hair"
     }
   ]
 }

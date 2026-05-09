@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7297,
+      "value": 4734,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 96.9,
+      "value": 122.2,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Vape"
     }
   ]
 }

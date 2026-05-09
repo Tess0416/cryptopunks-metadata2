@@ -10,26 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8671,
+      "value": 317,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 71.24,
+      "value": 339.82,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 1,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Clown Nose"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Straight Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Tiara"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "3D Glasses"
     }
   ]
 }

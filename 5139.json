@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5180,
+      "value": 1935,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 131.73,
+      "value": 211.77,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Pigtails"
     }
   ]
 }

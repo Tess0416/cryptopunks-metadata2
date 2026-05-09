@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4674,
+      "value": 3024,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 141.01,
+      "value": 160.53,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Wild Blonde"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Straight Hair Dark"
     }
   ]
 }

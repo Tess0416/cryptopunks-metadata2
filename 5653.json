@@ -10,30 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7648,
+      "value": 1752,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 91.78,
+      "value": 222.99,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Stringy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Top Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Red Mohawk"
     }
   ]
 }

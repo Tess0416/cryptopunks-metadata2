@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4814,
+      "value": 3668,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 138.3,
+      "value": 142.86,
       "display_type": "number"
     },
     {
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Stringy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Nerd Glasses"
     }
   ]
 }

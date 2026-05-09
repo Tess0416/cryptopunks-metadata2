@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9704,
+      "value": 3907,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 49.72,
+      "value": 137.96,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Wild Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Spots"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "VR"
     }
   ]
 }

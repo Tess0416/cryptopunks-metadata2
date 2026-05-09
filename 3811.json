@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1671,
+      "value": 228,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 240.96,
+      "value": 364.22,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Choker"
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Top Hat"
     }
   ]
 }

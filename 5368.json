@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2053,
+      "value": 7260,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 219.92,
+      "value": 86.92,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Goat"
     }
   ]
 }

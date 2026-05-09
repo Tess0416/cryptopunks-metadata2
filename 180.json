@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6887,
+      "value": 5970,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 102.7,
+      "value": 103.86,
       "display_type": "number"
     },
     {
@@ -24,24 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Hot Lipstick"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Luxurious Beard"
     }
   ]
 }

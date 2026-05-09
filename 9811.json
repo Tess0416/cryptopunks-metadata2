@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6515,
+      "value": 5661,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 107.98,
+      "value": 108.11,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Messy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Wild Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Gold Chain"
     }
   ]
 }

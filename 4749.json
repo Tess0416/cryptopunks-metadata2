@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2442,
+      "value": 788,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 203.22,
+      "value": 286.15,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Orange Side"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Half Shaved"
     }
   ]
 }

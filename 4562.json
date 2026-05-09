@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1756,
+      "value": 1669,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 236.15,
+      "value": 227.96,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Frumpy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Big Shades"
     }
   ]
 }

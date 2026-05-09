@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2913,
+      "value": 484,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 184.66,
+      "value": 316.79,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Pipe"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Beanie"
     }
   ]
 }

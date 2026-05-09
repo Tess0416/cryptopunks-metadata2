@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3650,
+      "value": 2293,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 164.89,
+      "value": 191.19,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Clown Nose"
     }
   ]
 }

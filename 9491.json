@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7894,
+      "value": 7693,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 86.88,
+      "value": 80,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
-    },
-    {
-      "trait_type": "Accessory",
       "value": "Mohawk"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Headband"
     }
   ]
 }

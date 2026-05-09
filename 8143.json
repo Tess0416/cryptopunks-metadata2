@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2849,
+      "value": 2618,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 186.74,
+      "value": 176.21,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Blue Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "Straight Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Straight Hair Dark"
     }
   ]
 }

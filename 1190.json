@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8066,
+      "value": 6800,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 83.37,
+      "value": 92.46,
       "display_type": "number"
     },
     {
@@ -24,12 +24,8 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
@@ -37,7 +33,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Gold Chain"
     }
   ]
 }

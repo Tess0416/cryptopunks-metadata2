@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 810,
+      "value": 5821,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 293.28,
+      "value": 106.07,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Luxurious Beard"
     }
   ]
 }

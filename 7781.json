@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9446,
+      "value": 9945,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 56.76,
+      "value": 35.12,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "Cigarette"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3834,
+      "value": 5210,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 160.14,
+      "value": 113.76,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Clown Nose"
     }
   ]
 }

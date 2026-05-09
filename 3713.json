@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3231,
+      "value": 5760,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 175.33,
+      "value": 107.02,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "Front Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Shadow Beard"
     }
   ]
 }

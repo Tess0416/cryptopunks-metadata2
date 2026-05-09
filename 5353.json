@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9783,
+      "value": 6399,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 46.41,
+      "value": 97.59,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Crazy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Half Shaved"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5500,
+      "value": 6242,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 125.08,
+      "value": 99.75,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Rosy Cheeks"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Black Lipstick"
     }
   ]
 }

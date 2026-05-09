@@ -10,26 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6352,
+      "value": 4476,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 110.14,
+      "value": 127.46,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 1,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Spots"
     }
   ]
 }

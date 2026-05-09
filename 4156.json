@@ -6,38 +6,34 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Ape"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7805,
+      "value": 54,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 88.35,
+      "value": 504.67,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Legendary"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Handlebars"
     }
   ]
 }

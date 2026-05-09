@@ -6,34 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9773,
+      "value": 2857,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 46.78,
+      "value": 166.12,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Normal Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Big Beard"
     }
   ]
 }

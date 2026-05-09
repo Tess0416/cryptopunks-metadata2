@@ -10,38 +10,26 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1125,
+      "value": 9437,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 272.14,
+      "value": 51.03,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Pink With Hat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Shadow Beard"
     }
   ]
 }

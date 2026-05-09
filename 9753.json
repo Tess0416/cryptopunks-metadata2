@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 797,
+      "value": 3062,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 294.8,
+      "value": 159.57,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
+      "value": "Horned Rim Glasses"
+    },
+    {
+      "trait_type": "Accessory",
       "value": "Blonde Bob"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Red Mohawk"
     }
   ]
 }

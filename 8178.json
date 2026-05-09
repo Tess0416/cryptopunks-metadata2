@@ -10,30 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7250,
+      "value": 2359,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 97.52,
+      "value": 187.99,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Wild Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Half Shaved"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Red Mohawk"
     }
   ]
 }

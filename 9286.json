@@ -10,26 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7009,
+      "value": 4615,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 100.66,
+      "value": 124.62,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 1,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Purple Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Green Eye Shadow"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Messy Hair"
     }
   ]
 }

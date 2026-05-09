@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Zombie"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3020,
+      "value": 1429,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 180.64,
+      "value": 242.83,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "Front Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Cowboy Hat"
     }
   ]
 }

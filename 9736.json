@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2950,
+      "value": 939,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 183.35,
+      "value": 274.32,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Small Shades"
     }
   ]
 }

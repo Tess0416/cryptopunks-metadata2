@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4226,
+      "value": 4141,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 150.05,
+      "value": 133.06,
       "display_type": "number"
     },
     {
@@ -24,16 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Straight Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Messy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mole"
     }
   ]
 }

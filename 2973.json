@@ -10,21 +10,21 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 978,
+      "value": 269,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 283.15,
+      "value": 351.92,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
@@ -33,11 +33,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Wild White Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Blonde Bob"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pigtails"
     }
   ]
 }

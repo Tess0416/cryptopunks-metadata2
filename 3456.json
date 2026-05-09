@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7633,
+      "value": 5420,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 91.98,
+      "value": 110.84,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Gold Chain"
     }
   ]
 }

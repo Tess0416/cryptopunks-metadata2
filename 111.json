@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Zombie"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 298,
+      "value": 272,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 367.64,
+      "value": 351.59,
       "display_type": "number"
     },
     {
@@ -24,20 +24,28 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Headband"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pilot Helmet"
     }
   ]
 }

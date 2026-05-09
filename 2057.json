@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6734,
+      "value": 5815,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 105.3,
+      "value": 106.13,
       "display_type": "number"
     },
     {
@@ -24,16 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Horned Rim Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Vape"
     }
   ]
 }

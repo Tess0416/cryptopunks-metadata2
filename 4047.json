@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6449,
+      "value": 8928,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 108.77,
+      "value": 60.47,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Mohawk"
     }
   ]
 }

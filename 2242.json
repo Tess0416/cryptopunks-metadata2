@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3822,
+      "value": 533,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 160.42,
+      "value": 309.05,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "Straight Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Tassle Hat"
     }
   ]
 }

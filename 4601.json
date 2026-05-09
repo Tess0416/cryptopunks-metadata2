@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 489,
+      "value": 8017,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 331.71,
+      "value": 75.24,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Shadow Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Do-rag"
     }
   ]
 }

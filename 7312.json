@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8316,
+      "value": 7843,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 78.53,
+      "value": 77.68,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Mole"
     }
   ]
 }

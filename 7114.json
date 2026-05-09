@@ -6,42 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3818,
+      "value": 799,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 160.54,
+      "value": 285.47,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Front Beard Dark"
     }
   ]
 }

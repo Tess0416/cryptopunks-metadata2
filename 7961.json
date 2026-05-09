@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6932,
+      "value": 1527,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 101.9,
+      "value": 236.37,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Choker"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Frumpy Hair"
     }
   ]
 }

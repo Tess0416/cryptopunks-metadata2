@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3338,
+      "value": 9402,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 173,
+      "value": 51.68,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Cigarette"
     }
   ]
 }

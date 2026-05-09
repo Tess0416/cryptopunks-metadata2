@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Zombie"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2207,
+      "value": 2073,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 213.46,
+      "value": 204.99,
       "display_type": "number"
     },
     {
@@ -24,20 +24,28 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Big Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Buck Teeth"
     }
   ]
 }

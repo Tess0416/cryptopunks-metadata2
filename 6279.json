@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7730,
+      "value": 5574,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 89.99,
+      "value": 109.39,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Blonde Short"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Small Shades"
     }
   ]
 }

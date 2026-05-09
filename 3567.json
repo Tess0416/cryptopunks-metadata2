@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8934,
+      "value": 9613,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 66.03,
+      "value": 47.07,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Frumpy Hair"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Blue Eye Shadow"
     }
   ]
 }

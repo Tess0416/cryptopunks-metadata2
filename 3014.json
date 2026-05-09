@@ -10,26 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9066,
+      "value": 2849,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 64.18,
+      "value": 166.42,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 1,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Headband"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pigtails"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
     }
   ]
 }

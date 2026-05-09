@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8114,
+      "value": 8823,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 82.42,
+      "value": 62.19,
       "display_type": "number"
     },
     {
@@ -24,24 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Buck Teeth"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Mustache"
     }
   ]
 }

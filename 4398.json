@@ -6,42 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3537,
+      "value": 5763,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 167.37,
+      "value": 106.98,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Regular Shades"
     }
   ]
 }

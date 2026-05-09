@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9300,
+      "value": 9512,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 59.68,
+      "value": 49.73,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Frumpy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Eye Patch"
     }
   ]
 }

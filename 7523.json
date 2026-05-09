@@ -6,38 +6,29 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Alien"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6066,
+      "value": 23,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 114.03,
+      "value": 1241.14,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Legendary"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 1,
       "display_type": "number"
     },
     {
-      "trait_type": "Accessory",
-      "value": "Vape"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "trait_type": "Accessory"
     }
   ]
 }

@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9233,
+      "value": 1032,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 61.14,
+      "value": 267.55,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Messy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Tiara"
     }
   ]
 }

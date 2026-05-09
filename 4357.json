@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9222,
+      "value": 5344,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 61.34,
+      "value": 111.67,
       "display_type": "number"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Top Hat"
     }
   ]
 }

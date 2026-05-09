@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 659,
+      "value": 6763,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 309.39,
+      "value": 93,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Do-rag"
     }
   ]
 }

@@ -6,42 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2043,
+      "value": 6792,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 220.28,
+      "value": 92.65,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Normal Beard Black"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Frown"
     }
   ]
 }

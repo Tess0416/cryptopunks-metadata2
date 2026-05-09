@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Zombie"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5779,
+      "value": 1943,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 119.28,
+      "value": 211.61,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Medical Mask"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Horned Rim Glasses"
     }
   ]
 }

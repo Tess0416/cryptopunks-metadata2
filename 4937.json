@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3724,
+      "value": 8987,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 162.94,
+      "value": 59.49,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Peak Spike"
     }
   ]
 }

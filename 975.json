@@ -6,42 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 165,
+      "value": 4614,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 417.77,
+      "value": 124.67,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Blonde Bob"
     }
   ]
 }

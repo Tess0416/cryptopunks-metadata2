@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7372,
+      "value": 6361,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 95.95,
+      "value": 98.14,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Medical Mask"
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Nerd Glasses"
     }
   ]
 }

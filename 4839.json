@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 616,
+      "value": 1124,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 316.21,
+      "value": 260.73,
       "display_type": "number"
     },
     {
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Purple Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Orange Side"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Clown Nose"
     }
   ]
 }

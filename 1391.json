@@ -6,42 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2904,
+      "value": 6413,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 185.02,
+      "value": 97.46,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Headband"
     }
   ]
 }

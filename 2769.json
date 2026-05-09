@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5614,
+      "value": 9675,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 122.75,
+      "value": 45.62,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Vape"
     }
   ]
 }

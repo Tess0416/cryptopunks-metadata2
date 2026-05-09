@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7243,
+      "value": 3963,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 97.56,
+      "value": 137.07,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Clown Hair Green"
     },
     {
       "trait_type": "Accessory",
       "value": "Purple Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
     }
   ]
 }

@@ -10,38 +10,26 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 419,
+      "value": 6515,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 341.12,
+      "value": 96.12,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Gold Chain"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Wild White Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Silver Chain"
     }
   ]
 }

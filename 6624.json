@@ -6,38 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 521,
+      "value": 3352,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 327.85,
+      "value": 151.21,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Peak Spike"
     }
   ]
 }

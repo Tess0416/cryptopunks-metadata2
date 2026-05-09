@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7325,
+      "value": 7379,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 96.52,
+      "value": 84.99,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "Tassle Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Classic Shades"
     }
   ]
 }

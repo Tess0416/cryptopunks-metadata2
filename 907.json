@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7373,
+      "value": 7868,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 95.94,
+      "value": 77.42,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Normal Beard Black"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Handlebars"
     }
   ]
 }

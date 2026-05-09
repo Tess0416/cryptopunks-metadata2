@@ -6,34 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9716,
+      "value": 2862,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 49.38,
+      "value": 165.87,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Frown"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Headband"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Gold Chain"
     }
   ]
 }

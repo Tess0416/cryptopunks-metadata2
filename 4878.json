@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 512,
+      "value": 1891,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 328.68,
+      "value": 214.2,
       "display_type": "number"
     },
     {
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Rosy Cheeks"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Crazy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Purple Eye Shadow"
     }
   ]
 }

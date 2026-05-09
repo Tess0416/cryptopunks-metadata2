@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3055,
+      "value": 7384,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 179.38,
+      "value": 84.97,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Clown Nose"
     }
   ]
 }

@@ -6,34 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9869,
+      "value": 4598,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 42.46,
+      "value": 124.9,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigarette"
     }
   ]
 }

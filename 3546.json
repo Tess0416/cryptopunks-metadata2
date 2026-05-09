@@ -10,38 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1899,
+      "value": 7524,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 227.03,
+      "value": 82.66,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
+      "value": "Horned Rim Glasses"
+    },
+    {
+      "trait_type": "Accessory",
       "value": "Gold Chain"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Classic Shades"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Cowboy Hat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Big Beard"
     }
   ]
 }

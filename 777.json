@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5742,
+      "value": 7498,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 119.99,
+      "value": 83.19,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Tassle Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Stringy Hair"
     }
   ]
 }

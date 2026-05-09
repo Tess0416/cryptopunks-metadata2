@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2064,
+      "value": 891,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 219.43,
+      "value": 278.38,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Clown Hair Green"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Blonde Bob"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Dark Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Wild Blonde"
     }
   ]
 }

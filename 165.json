@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9208,
+      "value": 8729,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 61.45,
+      "value": 63.56,
       "display_type": "number"
     },
     {
@@ -24,16 +24,12 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Pipe"
     }
   ]
 }

@@ -10,30 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9185,
+      "value": 3613,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 61.87,
+      "value": 144.36,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Black Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Tassle Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Crazy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Eye Shadow"
     }
   ]
 }

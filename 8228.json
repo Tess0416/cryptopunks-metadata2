@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 469,
+      "value": 2127,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 334.29,
+      "value": 200.93,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Half Shaved"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pigtails"
     }
   ]
 }

@@ -10,38 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1353,
+      "value": 6720,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 258.06,
+      "value": 93.52,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Half Shaved"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "3D Glasses"
     }
   ]
 }

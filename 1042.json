@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5556,
+      "value": 1702,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 124.01,
+      "value": 226.25,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Cigarette"
     }
   ]
 }

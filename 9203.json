@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2551,
+      "value": 8095,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 198.73,
+      "value": 74.35,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Mohawk"
     }
   ]
 }

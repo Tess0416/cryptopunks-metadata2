@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9490,
+      "value": 6083,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 55.62,
+      "value": 102.27,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Goat"
     }
   ]
 }

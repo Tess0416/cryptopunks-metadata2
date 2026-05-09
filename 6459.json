@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4336,
+      "value": 5874,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 147.18,
+      "value": 105.36,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Classic Shades"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5005,
+      "value": 8775,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 134.63,
+      "value": 62.91,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Normal Beard"
     }
   ]
 }

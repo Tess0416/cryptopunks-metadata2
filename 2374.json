@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6080,
+      "value": 8920,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 113.84,
+      "value": 60.51,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Bandana"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Black Lipstick"
     }
   ]
 }

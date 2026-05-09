@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4277,
+      "value": 3751,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 148.67,
+      "value": 141.01,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Straight Hair Dark"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Red Mohawk"
     }
   ]
 }

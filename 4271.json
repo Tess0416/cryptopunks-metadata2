@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1386,
+      "value": 9766,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 256.08,
+      "value": 42.78,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Shadow Beard"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7793,
+      "value": 2891,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 88.57,
+      "value": 164.92,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Frumpy Hair"
+      "value": "Front Beard Dark"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Big Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Fedora"
     }
   ]
 }

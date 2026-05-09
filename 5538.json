@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9566,
+      "value": 7920,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 53.42,
+      "value": 76.8,
       "display_type": "number"
     },
     {
@@ -24,12 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 1,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Small Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Buck Teeth"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Do-rag"
     }
   ]
 }

@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8139,
+      "value": 4387,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 82.03,
+      "value": 128.71,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Hot Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Stringy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Mole"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Hair Green"
     }
   ]
 }

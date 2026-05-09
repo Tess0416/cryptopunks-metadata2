@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6535,
+      "value": 7691,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 107.79,
+      "value": 80.03,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Front Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Hoodie"
     }
   ]
 }

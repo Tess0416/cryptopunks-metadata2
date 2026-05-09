@@ -6,34 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4718,
+      "value": 1518,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 140.39,
+      "value": 237.17,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Purple Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Straight Hair Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Wild White Hair"
     }
   ]
 }

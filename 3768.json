@@ -6,42 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 743,
+      "value": 7106,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 300.11,
+      "value": 89.01,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Pipe"
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Classic Shades"
     }
   ]
 }

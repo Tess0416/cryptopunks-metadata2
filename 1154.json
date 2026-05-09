@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8533,
+      "value": 5350,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 74.43,
+      "value": 111.61,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Purple Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Half Shaved"
     }
   ]
 }

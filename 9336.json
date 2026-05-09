@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2289,
+      "value": 7861,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 209.9,
+      "value": 77.51,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Half Shaved"
     }
   ]
 }

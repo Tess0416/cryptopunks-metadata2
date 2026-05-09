@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Zombie"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1388,
+      "value": 720,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 256.04,
+      "value": 291.74,
       "display_type": "number"
     },
     {
@@ -24,12 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Blonde Short"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
@@ -37,11 +41,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Wild Blonde"
     }
   ]
 }

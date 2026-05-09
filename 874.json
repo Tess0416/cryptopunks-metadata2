@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5960,
+      "value": 6045,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 115.86,
+      "value": 102.8,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Buck Teeth"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Silver Chain"
     }
   ]
 }

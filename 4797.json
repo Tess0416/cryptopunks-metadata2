@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3734,
+      "value": 8984,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 162.71,
+      "value": 59.54,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "VR"
     }
   ]
 }

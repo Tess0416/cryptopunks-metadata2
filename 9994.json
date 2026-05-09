@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6517,
+      "value": 8001,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 107.97,
+      "value": 75.62,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Buck Teeth"
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Cap"
     }
   ]
 }

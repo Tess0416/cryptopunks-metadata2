@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6888,
+      "value": 8436,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 102.7,
+      "value": 68.64,
       "display_type": "number"
     },
     {
@@ -24,20 +24,12 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Crazy Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Front Beard"
     }
   ]
 }

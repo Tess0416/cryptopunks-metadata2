@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5163,
+      "value": 6159,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 131.99,
+      "value": 100.98,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Purple Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "3D Glasses"
     }
   ]
 }

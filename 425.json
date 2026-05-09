@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7261,
+      "value": 9282,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 97.4,
+      "value": 54.51,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "VR"
     }
   ]
 }

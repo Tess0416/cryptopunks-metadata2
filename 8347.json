@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4407,
+      "value": 7292,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 145.86,
+      "value": 86.4,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
+      "value": "Vape"
+    },
+    {
+      "trait_type": "Accessory",
       "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Regular Shades"
     }
   ]
 }

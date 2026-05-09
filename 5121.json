@@ -6,38 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5329,
+      "value": 284,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 128.66,
+      "value": 347.83,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cap"
     }
   ]
 }

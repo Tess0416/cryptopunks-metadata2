@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8320,
+      "value": 3031,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 78.42,
+      "value": 160.4,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Red Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Top Hat"
     }
   ]
 }

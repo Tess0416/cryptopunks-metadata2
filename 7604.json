@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8494,
+      "value": 5939,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 75.36,
+      "value": 104.43,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Messy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Big Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Gold Chain"
     }
   ]
 }

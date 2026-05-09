@@ -6,34 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4208,
+      "value": 410,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 150.3,
+      "value": 324.53,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Normal Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",

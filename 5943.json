@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2324,
+      "value": 7414,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 208.81,
+      "value": 84.29,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Headband"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
       "value": "Big Shades"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Spots"
     }
   ]
 }

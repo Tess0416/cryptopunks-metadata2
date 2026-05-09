@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3017,
+      "value": 3079,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 180.73,
+      "value": 159.09,
       "display_type": "number"
     },
     {
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Shadow Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Front Beard Dark"
     }
   ]
 }

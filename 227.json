@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7244,
+      "value": 6891,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 97.56,
+      "value": 91.68,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Crazy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Mole"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Nose"
     }
   ]
 }

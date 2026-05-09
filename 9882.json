@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3770,
+      "value": 2569,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 161.78,
+      "value": 178.04,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Straight Hair Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Top Hat"
     }
   ]
 }

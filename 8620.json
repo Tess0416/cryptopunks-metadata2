@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 853,
+      "value": 1035,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 291.25,
+      "value": 267.53,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Beanie"
     }
   ]
 }

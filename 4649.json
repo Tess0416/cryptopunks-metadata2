@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8196,
+      "value": 4412,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 80.85,
+      "value": 128.4,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Chinstrap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Luxurious Beard"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4924,
+      "value": 8546,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 136.15,
+      "value": 66.44,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Buck Teeth"
     }
   ]
 }

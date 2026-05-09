@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7741,
+      "value": 9110,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 89.71,
+      "value": 57.38,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Big Shades"
     }
   ]
 }

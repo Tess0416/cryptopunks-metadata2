@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2369,
+      "value": 2364,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 207.1,
+      "value": 187.76,
       "display_type": "number"
     },
     {
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Dark Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Messy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Straight Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Small Shades"
     }
   ]
 }

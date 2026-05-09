@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9594,
+      "value": 6153,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 52.79,
+      "value": 101.19,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Front Beard"
     }
   ]
 }

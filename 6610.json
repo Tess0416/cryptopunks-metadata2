@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4977,
+      "value": 8245,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 135.14,
+      "value": 71.88,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Classic Shades"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1369,
+      "value": 1045,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 257.29,
+      "value": 266.87,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Smile"
     }
   ]
 }

@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8102,
+      "value": 3152,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 82.7,
+      "value": 156.67,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Blonde Bob"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Hot Lipstick"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Wild Blonde"
     }
   ]
 }

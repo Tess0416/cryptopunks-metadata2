@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2110,
+      "value": 2139,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 217.4,
+      "value": 200.09,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Purple Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Medical Mask"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Blonde Short"
     }
   ]
 }

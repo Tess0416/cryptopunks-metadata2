@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5289,
+      "value": 8192,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 129.47,
+      "value": 72.96,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Silver Chain"
     }
   ]
 }

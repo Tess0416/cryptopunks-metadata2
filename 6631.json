@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2825,
+      "value": 3859,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 187.43,
+      "value": 139.11,
       "display_type": "number"
     },
     {
@@ -24,28 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 5,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Blonde Short"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Shadow Beard"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Cigarette"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Tassle Hat"
     }
   ]
 }

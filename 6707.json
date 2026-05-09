@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5592,
+      "value": 9113,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 123.22,
+      "value": 57.38,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Big Shades"
     }
   ]
 }

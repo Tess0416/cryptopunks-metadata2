@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Alien"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 20,
+      "value": 27,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 1230.53,
+      "value": 1138.48,
       "display_type": "number"
     },
     {
@@ -24,16 +24,32 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 6,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Small Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "VR"
     }
   ]
 }

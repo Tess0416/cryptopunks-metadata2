@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 333,
+      "value": 4383,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 358.94,
+      "value": 128.81,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Front Beard"
     }
   ]
 }

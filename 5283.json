@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6332,
+      "value": 8571,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 110.38,
+      "value": 66.08,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Hoodie"
     }
   ]
 }

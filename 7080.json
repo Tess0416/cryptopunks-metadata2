@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2482,
+      "value": 4211,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 201.11,
+      "value": 131.55,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Hoodie"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5947,
+      "value": 3214,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 116.01,
+      "value": 154.83,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Clown Hair Green"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Black Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Straight Hair"
     }
   ]
 }

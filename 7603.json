@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5569,
+      "value": 6794,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 123.75,
+      "value": 92.62,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pipe"
     }
   ]
 }

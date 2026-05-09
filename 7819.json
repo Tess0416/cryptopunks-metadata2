@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9058,
+      "value": 6510,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 64.3,
+      "value": 96.14,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Purple Hair"
     }
   ]
 }

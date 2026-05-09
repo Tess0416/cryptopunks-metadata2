@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 251,
+      "value": 6708,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 379.98,
+      "value": 93.75,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Front Beard Dark"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Small Shades"
     }
   ]
 }

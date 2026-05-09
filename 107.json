@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3773,
+      "value": 464,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 161.7,
+      "value": 318.78,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Frumpy Hair"
+      "value": "Blue Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Half Shaved"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Choker"
     }
   ]
 }

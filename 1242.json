@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 962,
+      "value": 1043,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 284,
+      "value": 267.14,
       "display_type": "number"
     },
     {
@@ -29,23 +29,23 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Stringy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Straight Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Messy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Blue Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Medical Mask"
     }
   ]
 }

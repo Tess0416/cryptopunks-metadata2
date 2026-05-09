@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2200,
+      "value": 3993,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 213.69,
+      "value": 136.5,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Green Eye Shadow"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "VR"
     }
   ]
 }

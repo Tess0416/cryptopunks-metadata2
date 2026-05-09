@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1713,
+      "value": 3602,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 238.43,
+      "value": 144.49,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Straight Hair Dark"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Half Shaved"
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Earring"
     }
   ]
 }

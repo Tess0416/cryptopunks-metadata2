@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7410,
+      "value": 6823,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 95.51,
+      "value": 92.3,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Big Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Shadow Beard"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6792,
+      "value": 8372,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 104.33,
+      "value": 69.69,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Luxurious Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Small Shades"
     }
   ]
 }

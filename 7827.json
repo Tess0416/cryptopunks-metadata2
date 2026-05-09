@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8076,
+      "value": 1835,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 83.2,
+      "value": 218.15,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Blonde Short"
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Hot Lipstick"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Wild Blonde"
     }
   ]
 }

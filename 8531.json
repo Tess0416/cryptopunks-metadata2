@@ -10,30 +10,22 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3750,
+      "value": 9732,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 162.14,
+      "value": 43.73,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 2,
       "display_type": "number"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Do-rag"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
     },
     {
       "trait_type": "Accessory",
@@ -41,7 +33,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Shadow Beard"
     }
   ]
 }

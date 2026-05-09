@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3509,
+      "value": 7669,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 168.13,
+      "value": 80.25,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Fedora"
     }
   ]
 }

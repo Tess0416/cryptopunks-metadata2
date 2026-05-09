@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3487,
+      "value": 3862,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 168.7,
+      "value": 139.04,
       "display_type": "number"
     },
     {
@@ -33,11 +33,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Big Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Peak Spike"
     }
   ]
 }

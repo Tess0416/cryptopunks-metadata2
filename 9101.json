@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5041,
+      "value": 5250,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 134,
+      "value": 113.2,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Front Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Front Beard Dark"
     }
   ]
 }

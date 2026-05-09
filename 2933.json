@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6079,
+      "value": 9608,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 113.86,
+      "value": 47.35,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Horned Rim Glasses"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5392,
+      "value": 5895,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 127.54,
+      "value": 105.14,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Stringy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "Rosy Cheeks"
     }
   ]
 }

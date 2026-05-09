@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7488,
+      "value": 7670,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 94.51,
+      "value": 80.25,
       "display_type": "number"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Fedora"
     }
   ]
 }

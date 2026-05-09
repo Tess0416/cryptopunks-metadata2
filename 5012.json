@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4456,
+      "value": 2583,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 144.76,
+      "value": 177.61,
       "display_type": "number"
     },
     {
@@ -24,24 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Red Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Silver Chain"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "Wild White Hair"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8007,
+      "value": 7188,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 84.56,
+      "value": 87.83,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Frumpy Hair"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Knitted Cap"
     }
   ]
 }

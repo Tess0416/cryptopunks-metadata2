@@ -10,30 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3480,
+      "value": 67,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 168.86,
+      "value": 486.95,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Legendary"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Pigtails"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Orange Side"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Choker"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5207,
+      "value": 6566,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 131.21,
+      "value": 95.31,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Hot Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Medical Mask"
     }
   ]
 }

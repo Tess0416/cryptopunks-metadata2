@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7930,
+      "value": 8204,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 86.21,
+      "value": 72.76,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Muttonchops"
     }
   ]
 }

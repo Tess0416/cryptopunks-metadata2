@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9694,
+      "value": 129,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 50.14,
+      "value": 417.25,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Pilot Helmet"
     }
   ]
 }

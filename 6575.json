@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6576,
+      "value": 8955,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 107.42,
+      "value": 60.17,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Chinstrap"
     }
   ]
 }

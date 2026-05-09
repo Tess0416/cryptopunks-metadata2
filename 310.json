@@ -6,42 +6,46 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Zombie"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2586,
+      "value": 58,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 196.9,
+      "value": 498.38,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Legendary"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Frumpy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Orange Side"
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Choker"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Blue Eye Shadow"
     }
   ]
 }

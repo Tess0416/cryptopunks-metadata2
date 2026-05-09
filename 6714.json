@@ -6,38 +6,34 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2665,
+      "value": 1317,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 193.62,
+      "value": 250.93,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Dark Hair"
     }
   ]
 }

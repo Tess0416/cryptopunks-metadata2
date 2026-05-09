@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5642,
+      "value": 3293,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 121.93,
+      "value": 152.75,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "Black Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Dark Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Red Mohawk"
     }
   ]
 }

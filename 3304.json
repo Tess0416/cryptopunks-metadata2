@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4850,
+      "value": 9178,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 137.35,
+      "value": 56.49,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Peak Spike"
     }
   ]
 }

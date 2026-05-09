@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2788,
+      "value": 8458,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 188.55,
+      "value": 68.23,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Cigarette"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Normal Beard Black"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Shadow Beard"
     }
   ]
 }

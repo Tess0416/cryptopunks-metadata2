@@ -6,34 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6895,
+      "value": 1472,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 102.48,
+      "value": 239.85,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Messy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Orange Side"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Straight Hair"
     }
   ]
 }

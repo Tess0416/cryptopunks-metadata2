@@ -6,38 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5597,
+      "value": 3281,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 123.16,
+      "value": 152.95,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Fedora"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "VR"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
       "value": "Pipe"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
     }
   ]
 }

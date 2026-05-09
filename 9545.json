@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3752,
+      "value": 3139,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 162.11,
+      "value": 157.37,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Wild Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Straight Hair Dark"
     }
   ]
 }

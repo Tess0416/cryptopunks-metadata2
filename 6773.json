@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8784,
+      "value": 9834,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 69,
+      "value": 41.46,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Buck Teeth"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Knitted Cap"
     }
   ]
 }

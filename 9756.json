@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8346,
+      "value": 5475,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 78.07,
+      "value": 110.43,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Straight Hair Dark"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Green Eye Shadow"
     }
   ]
 }

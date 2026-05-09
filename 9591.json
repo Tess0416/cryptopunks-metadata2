@@ -10,34 +10,42 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1289,
+      "value": 406,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 261.52,
+      "value": 324.83,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Half Shaved"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Clown Hair Green"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Dark Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Nose"
     }
   ]
 }

@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 624,
+      "value": 8287,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 315.63,
+      "value": 70.8,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Muttonchops"
     }
   ]
 }

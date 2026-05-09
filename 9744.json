@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6489,
+      "value": 9445,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 108.28,
+      "value": 50.99,
       "display_type": "number"
     },
     {
@@ -24,16 +24,12 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Regular Shades"
     }
   ]
 }

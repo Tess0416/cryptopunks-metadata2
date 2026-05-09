@@ -10,34 +10,22 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1237,
+      "value": 6673,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 265.82,
+      "value": 94.21,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 5,
+      "value": 3,
       "display_type": "number"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Mohawk Thin"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Messy Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
@@ -45,7 +33,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Eye Patch"
     }
   ]
 }

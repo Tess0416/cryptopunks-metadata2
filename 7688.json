@@ -6,38 +6,46 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8146,
+      "value": 1674,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 81.88,
+      "value": 227.51,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Fedora"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Front Beard Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigarette"
     }
   ]
 }

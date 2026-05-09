@@ -10,22 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7515,
+      "value": 966,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 94.12,
+      "value": 272.41,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Straight Hair Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pigtails"
     },
     {
       "trait_type": "Accessory",
@@ -33,11 +41,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Half Shaved"
     }
   ]
 }

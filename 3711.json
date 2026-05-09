@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9249,
+      "value": 8027,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 60.92,
+      "value": 75.12,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Classic Shades"
     }
   ]
 }

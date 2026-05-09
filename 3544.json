@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4823,
+      "value": 8329,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 138.15,
+      "value": 70.24,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Pipe"
     }
   ]
 }

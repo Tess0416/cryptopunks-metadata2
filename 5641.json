@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8148,
+      "value": 8724,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 81.86,
+      "value": 63.67,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Normal Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Headband"
     }
   ]
 }

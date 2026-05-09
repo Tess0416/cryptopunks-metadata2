@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8534,
+      "value": 7943,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 74.4,
+      "value": 76.49,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Black Lipstick"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Big Shades"
     }
   ]
 }

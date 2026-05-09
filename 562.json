@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 273,
+      "value": 6311,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 375.09,
+      "value": 98.81,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Goat"
     }
   ]
 }

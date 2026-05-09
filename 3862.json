@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4898,
+      "value": 3589,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 136.51,
+      "value": 144.82,
       "display_type": "number"
     },
     {
@@ -24,20 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Headband"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
     }
   ]
 }

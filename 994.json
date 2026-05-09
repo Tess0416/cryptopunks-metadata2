@@ -6,34 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Zombie"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2834,
+      "value": 1839,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 187.1,
+      "value": 217.41,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
     }
   ]
 }

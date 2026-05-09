@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6231,
+      "value": 9760,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 111.48,
+      "value": 43,
       "display_type": "number"
     },
     {
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
@@ -33,11 +33,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Mohawk"
     }
   ]
 }

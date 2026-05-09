@@ -10,42 +10,26 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 197,
+      "value": 8312,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 400.74,
+      "value": 70.48,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 5,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Big Beard"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Handlebars"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Pink With Hat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Front Beard Dark"
     }
   ]
 }

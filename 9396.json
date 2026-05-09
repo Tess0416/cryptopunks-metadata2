@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3065,
+      "value": 2650,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 179.17,
+      "value": 174.73,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
-    },
-    {
-      "trait_type": "Accessory",
       "value": "Straight Hair Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Spots"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Eye Patch"
     }
   ]
 }

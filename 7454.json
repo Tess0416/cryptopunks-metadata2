@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9672,
+      "value": 9064,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 50.71,
+      "value": 58.21,
       "display_type": "number"
     },
     {
@@ -24,8 +24,12 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 1,
+      "value": 2,
       "display_type": "number"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",

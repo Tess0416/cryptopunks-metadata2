@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7381,
+      "value": 8080,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 95.79,
+      "value": 74.43,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Bandana"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "VR"
     }
   ]
 }

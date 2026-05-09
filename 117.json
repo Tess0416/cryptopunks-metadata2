@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5037,
+      "value": 2063,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 134.03,
+      "value": 205.53,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Red Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Wild Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Blonde Bob"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Green Eye Shadow"
     }
   ]
 }

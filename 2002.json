@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 215,
+      "value": 9484,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 392.06,
+      "value": 50.26,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Small Shades"
     }
   ]
 }

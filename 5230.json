@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8711,
+      "value": 919,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 70.33,
+      "value": 276.31,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Pilot Helmet"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Tassle Hat"
     }
   ]
 }

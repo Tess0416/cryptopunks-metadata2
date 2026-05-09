@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8357,
+      "value": 6952,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 77.85,
+      "value": 90.97,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Normal Beard Black"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Front Beard"
     }
   ]
 }

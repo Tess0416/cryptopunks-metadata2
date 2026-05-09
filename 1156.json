@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1112,
+      "value": 262,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 273.51,
+      "value": 356.01,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Hoodie"
-    },
-    {
-      "trait_type": "Accessory",
       "value": "Choker"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Headband"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Straight Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Nose"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9200,
+      "value": 8321,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 61.65,
+      "value": 70.37,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "VR"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1825,
+      "value": 5277,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 231.92,
+      "value": 112.74,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Smile"
     }
   ]
 }

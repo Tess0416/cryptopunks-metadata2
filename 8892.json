@@ -10,34 +10,26 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3322,
+      "value": 6516,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 173.45,
+      "value": 96.12,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frumpy Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Big Beard"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Silver Chain"
     }
   ]
 }

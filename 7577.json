@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5120,
+      "value": 46,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 132.52,
+      "value": 541.56,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Legendary"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Wild White Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Choker"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Tiara"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Blue Eye Shadow"
     }
   ]
 }

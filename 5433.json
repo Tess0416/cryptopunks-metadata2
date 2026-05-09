@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9403,
+      "value": 8682,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 57.73,
+      "value": 64.46,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Green Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Stringy Hair"
     }
   ]
 }

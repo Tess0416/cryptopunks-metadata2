@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6787,
+      "value": 7832,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 104.37,
+      "value": 77.78,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "3D Glasses"
     }
   ]
 }

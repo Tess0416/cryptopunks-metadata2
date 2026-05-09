@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3805,
+      "value": 7179,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 160.76,
+      "value": 87.94,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "3D Glasses"
     }
   ]
 }

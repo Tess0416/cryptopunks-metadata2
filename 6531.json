@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8847,
+      "value": 7020,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 67.45,
+      "value": 90.28,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Frown"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Clown Nose"
     }
   ]
 }

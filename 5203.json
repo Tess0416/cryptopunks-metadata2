@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1182,
+      "value": 1784,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 268.68,
+      "value": 220.89,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Buck Teeth"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Horned Rim Glasses"
     }
   ]
 }

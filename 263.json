@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5426,
+      "value": 703,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 126.76,
+      "value": 292.94,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Medical Mask"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Orange Side"
     }
   ]
 }

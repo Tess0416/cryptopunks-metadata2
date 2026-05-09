@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1412,
+      "value": 5575,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 254.74,
+      "value": 109.39,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Blonde Short"
     }
   ]
 }

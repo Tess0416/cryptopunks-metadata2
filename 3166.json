@@ -10,30 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5865,
+      "value": 490,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 117.53,
+      "value": 315.53,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Blue Eye Shadow"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Tiara"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Wild Hair"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5657,
+      "value": 7623,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 121.68,
+      "value": 81.06,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Normal Beard"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8031,
+      "value": 879,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 84.1,
+      "value": 279.7,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Orange Side"
     }
   ]
 }

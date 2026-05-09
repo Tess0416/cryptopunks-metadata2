@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5486,
+      "value": 6163,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 125.37,
+      "value": 100.92,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Eye Patch"
     }
   ]
 }

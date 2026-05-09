@@ -6,34 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 874,
+      "value": 382,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 289.83,
+      "value": 329.64,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Do-rag"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Frown"
     }
   ]
 }

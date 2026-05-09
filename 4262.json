@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2729,
+      "value": 4395,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 190.46,
+      "value": 128.61,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Bandana"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Half Shaved"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "3D Glasses"
     }
   ]
 }

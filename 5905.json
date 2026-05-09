@@ -6,38 +6,29 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Alien"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7419,
+      "value": 21,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 95.46,
+      "value": 1241.14,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Legendary"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 1,
       "display_type": "number"
     },
     {
-      "trait_type": "Accessory",
-      "value": "Smile"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Normal Beard"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "trait_type": "Accessory"
     }
   ]
 }

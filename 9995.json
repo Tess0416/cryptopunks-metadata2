@@ -10,38 +10,42 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4027,
+      "value": 66,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 154.56,
+      "value": 487.51,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Legendary"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Pigtails"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "VR"
     }
   ]
 }

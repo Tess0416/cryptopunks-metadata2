@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2910,
+      "value": 1301,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 184.86,
+      "value": 251.33,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Silver Chain"
     }
   ]
 }

@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 339,
+      "value": 5811,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 357.17,
+      "value": 106.22,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Gold Chain"
     }
   ]
 }

@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7105,
+      "value": 4130,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 99.28,
+      "value": 133.23,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Clown Nose"
     }
   ]
 }

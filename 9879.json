@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7225,
+      "value": 6506,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 97.79,
+      "value": 96.23,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Hoodie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Mustache"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8807,
+      "value": 6147,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 68.25,
+      "value": 101.42,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
       "value": "VR"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Nose"
     }
   ]
 }

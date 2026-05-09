@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3189,
+      "value": 105,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 176.61,
+      "value": 442.98,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Blue Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Pigtails"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Pilot Helmet"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Wild White Hair"
     }
   ]
 }

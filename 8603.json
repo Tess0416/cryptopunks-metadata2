@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6158,
+      "value": 8790,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 112.66,
+      "value": 62.74,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Handlebars"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5308,
+      "value": 6484,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 128.99,
+      "value": 96.56,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Headband"
     }
   ]
 }

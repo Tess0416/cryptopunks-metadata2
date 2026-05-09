@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7792,
+      "value": 8365,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 88.61,
+      "value": 69.88,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "VR"
     }
   ]
 }

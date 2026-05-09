@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6546,
+      "value": 7634,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 107.69,
+      "value": 80.8,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Black Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Purple Eye Shadow"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Stringy Hair"
     }
   ]
 }

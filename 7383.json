@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9851,
+      "value": 5571,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 43.31,
+      "value": 109.44,
       "display_type": "number"
     },
     {
@@ -24,16 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Cigarette"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Big Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Muttonchops"
     }
   ]
 }

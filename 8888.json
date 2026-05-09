@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4432,
+      "value": 8369,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 145.29,
+      "value": 69.85,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Black Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Horned Rim Glasses"
     }
   ]
 }

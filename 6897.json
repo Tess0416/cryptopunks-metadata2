@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Zombie"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1272,
+      "value": 1113,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 262.63,
+      "value": 261.81,
       "display_type": "number"
     },
     {
@@ -24,24 +24,28 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Frown"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Horned Rim Glasses"
     }
   ]
 }

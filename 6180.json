@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4151,
+      "value": 2298,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 151.51,
+      "value": 190.79,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Frumpy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Wild White Hair"
     }
   ]
 }

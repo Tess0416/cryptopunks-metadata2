@@ -10,26 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6349,
+      "value": 422,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 110.15,
+      "value": 323.48,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 1,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
       "value": "Blonde Short"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Orange Side"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Hair Green"
     }
   ]
 }

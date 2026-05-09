@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 453,
+      "value": 6831,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 336.43,
+      "value": 92.19,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Shadow Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Normal Beard"
     }
   ]
 }

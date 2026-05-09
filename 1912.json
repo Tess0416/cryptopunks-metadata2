@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4164,
+      "value": 1411,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 151.15,
+      "value": 244.59,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Straight Hair Dark"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Wild White Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Red Mohawk"
     }
   ]
 }

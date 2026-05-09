@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5102,
+      "value": 3910,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 132.85,
+      "value": 137.89,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Cigarette"
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Silver Chain"
     }
   ]
 }

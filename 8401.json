@@ -6,42 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1605,
+      "value": 2797,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 245.47,
+      "value": 168.29,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Wild Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Straight Hair Blonde"
     }
   ]
 }

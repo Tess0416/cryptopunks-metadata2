@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7211,
+      "value": 953,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 97.93,
+      "value": 273.17,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Shadow Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Mohawk"
     }
   ]
 }

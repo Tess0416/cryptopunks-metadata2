@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 103,
+      "value": 3940,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 478.42,
+      "value": 137.33,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Cowboy Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Mole"
     }
   ]
 }

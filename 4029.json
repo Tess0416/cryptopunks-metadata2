@@ -10,34 +10,42 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 497,
+      "value": 1567,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 330.71,
+      "value": 233.62,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Tassle Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Black Lipstick"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Hot Lipstick"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Silver Chain"
     }
   ]
 }

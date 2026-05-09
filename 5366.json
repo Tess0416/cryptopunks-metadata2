@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7691,
+      "value": 6130,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 90.92,
+      "value": 101.69,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Handlebars"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Peak Spike"
     }
   ]
 }

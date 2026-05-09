@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3254,
+      "value": 3928,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 174.87,
+      "value": 137.54,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Red Mohawk"
     }
   ]
 }

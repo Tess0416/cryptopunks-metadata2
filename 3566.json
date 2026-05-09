@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2947,
+      "value": 7809,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 183.4,
+      "value": 78.01,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Normal Beard Black"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Hoodie"
     }
   ]
 }

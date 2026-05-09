@@ -10,26 +10,26 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2123,
+      "value": 7957,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 216.83,
+      "value": 76.31,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Mohawk"
     },
     {
       "trait_type": "Accessory",
@@ -37,11 +37,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Goat"
     }
   ]
 }

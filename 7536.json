@@ -6,26 +6,30 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4471,
+      "value": 9370,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 144.36,
+      "value": 52.2,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
@@ -33,15 +37,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Vampire Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Mole"
     }
   ]
 }

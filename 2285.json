@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2347,
+      "value": 1650,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 208.12,
+      "value": 228.58,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Front Beard Dark"
     }
   ]
 }

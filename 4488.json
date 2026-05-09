@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3227,
+      "value": 2798,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 175.46,
+      "value": 168.18,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Wild Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Medical Mask"
     }
   ]
 }

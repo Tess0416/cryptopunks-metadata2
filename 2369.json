@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2761,
+      "value": 8968,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 189.28,
+      "value": 59.86,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Hot Lipstick"
     }
   ]
 }

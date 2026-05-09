@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8206,
+      "value": 3505,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 80.63,
+      "value": 147.03,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Wild White Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Green Eye Shadow"
     }
   ]
 }

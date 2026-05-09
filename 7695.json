@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2694,
+      "value": 1832,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 192.07,
+      "value": 218.3,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Dark Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Black Lipstick"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Wild Hair"
     },
     {
       "trait_type": "Accessory",

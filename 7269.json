@@ -10,30 +10,42 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9108,
+      "value": 288,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 63.25,
+      "value": 347.34,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Rosy Cheeks"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Mole"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Straight Hair Blonde"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6285,
+      "value": 7885,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 110.99,
+      "value": 77.25,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Horned Rim Glasses"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6446,
+      "value": 4645,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 108.82,
+      "value": 123.98,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
+      "value": "Dark Hair"
+    },
+    {
+      "trait_type": "Accessory",
       "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Big Shades"
     }
   ]
 }

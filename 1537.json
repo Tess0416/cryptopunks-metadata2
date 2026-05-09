@@ -10,30 +10,26 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4553,
+      "value": 8497,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 142.84,
+      "value": 67.45,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
@@ -41,7 +37,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Headband"
     }
   ]
 }

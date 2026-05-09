@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2311,
+      "value": 9140,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 209.24,
+      "value": 57,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Frumpy Hair"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Nerd Glasses"
     }
   ]
 }

@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4521,
+      "value": 1926,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 143.39,
+      "value": 212.2,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Stringy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Pilot Helmet"
     }
   ]
 }

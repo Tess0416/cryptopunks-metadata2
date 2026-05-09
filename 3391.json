@@ -10,26 +10,26 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 485,
+      "value": 5846,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 331.96,
+      "value": 105.74,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "Hot Lipstick"
     },
     {
       "trait_type": "Accessory",
@@ -37,11 +37,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Straight Hair Blonde"
     }
   ]
 }

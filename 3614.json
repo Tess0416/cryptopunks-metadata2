@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5904,
+      "value": 1278,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 116.76,
+      "value": 252.46,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Pigtails"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Purple Hair"
     }
   ]
 }

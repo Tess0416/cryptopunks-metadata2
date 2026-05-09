@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9911,
+      "value": 7857,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 39.34,
+      "value": 77.51,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Blonde Bob"
     }
   ]
 }

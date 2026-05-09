@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5591,
+      "value": 8203,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 123.26,
+      "value": 72.85,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Do-rag"
     }
   ]
 }

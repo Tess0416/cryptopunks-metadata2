@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 937,
+      "value": 6524,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 285.56,
+      "value": 95.87,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Crazy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Vape"
     }
   ]
 }

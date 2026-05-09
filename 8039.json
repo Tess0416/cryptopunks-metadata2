@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2671,
+      "value": 5486,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 193.37,
+      "value": 110.28,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Mustache"
     }
   ]
 }

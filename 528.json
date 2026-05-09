@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3460,
+      "value": 7966,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 169.57,
+      "value": 76.16,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Normal Beard Black"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Vape"
     }
   ]
 }

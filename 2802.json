@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8095,
+      "value": 8099,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 82.77,
+      "value": 74.21,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Cigarette"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Headband"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Luxurious Beard"
     }
   ]
 }

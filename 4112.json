@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4996,
+      "value": 3816,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 134.8,
+      "value": 139.77,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Front Beard Dark"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Peak Spike"
     }
   ]
 }

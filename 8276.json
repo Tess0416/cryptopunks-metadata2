@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6280,
+      "value": 5461,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 111,
+      "value": 110.6,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Front Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Muttonchops"
     }
   ]
 }

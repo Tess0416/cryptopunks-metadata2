@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8978,
+      "value": 8651,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 65.47,
+      "value": 65,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Wild Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Black Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Stringy Hair"
     }
   ]
 }

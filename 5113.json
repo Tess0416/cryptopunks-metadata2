@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4053,
+      "value": 3068,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 154.08,
+      "value": 159.33,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Top Hat"
     }
   ]
 }

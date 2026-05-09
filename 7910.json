@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6881,
+      "value": 9042,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 102.79,
+      "value": 58.47,
       "display_type": "number"
     },
     {
@@ -24,16 +24,12 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Small Shades"
     }
   ]
 }

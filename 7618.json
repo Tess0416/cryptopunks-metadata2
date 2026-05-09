@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4676,
+      "value": 2172,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 141,
+      "value": 197.79,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Straight Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Straight Hair Dark"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 657,
+      "value": 2701,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 309.59,
+      "value": 172.4,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Top Hat"
     }
   ]
 }

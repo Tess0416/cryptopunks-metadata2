@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1741,
+      "value": 1550,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 237.19,
+      "value": 234.79,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Tiara"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7624,
+      "value": 5191,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 92.14,
+      "value": 114.03,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frumpy Hair"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Handlebars"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Nose"
     }
   ]
 }

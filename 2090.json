@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4547,
+      "value": 8320,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 143.04,
+      "value": 70.39,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Cigarette"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Shadow Beard"
     }
   ]
 }

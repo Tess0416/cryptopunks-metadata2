@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1970,
+      "value": 2193,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 223.67,
+      "value": 196.82,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Stringy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Straight Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Wild White Hair"
     }
   ]
 }

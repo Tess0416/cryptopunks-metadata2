@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5649,
+      "value": 840,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 121.78,
+      "value": 282.31,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Buck Teeth"
     }
   ]
 }

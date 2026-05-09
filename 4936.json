@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 815,
+      "value": 370,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 293.11,
+      "value": 331.2,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "Tassle Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Mole"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Half Shaved"
     }
   ]
 }

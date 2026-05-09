@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4596,
+      "value": 3617,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 142.09,
+      "value": 144.32,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Cowboy Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "3D Glasses"
     }
   ]
 }

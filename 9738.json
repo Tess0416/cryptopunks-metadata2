@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4307,
+      "value": 8963,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 147.94,
+      "value": 60.12,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Front Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Horned Rim Glasses"
     }
   ]
 }

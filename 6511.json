@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2094,
+      "value": 9559,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 218.16,
+      "value": 48.4,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Headband"
     }
   ]
 }

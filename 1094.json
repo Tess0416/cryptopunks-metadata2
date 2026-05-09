@@ -6,34 +6,46 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Ape"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 119,
+      "value": 958,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 453.7,
+      "value": 272.77,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Small Shades"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8698,
+      "value": 9350,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 70.67,
+      "value": 52.56,
       "display_type": "number"
     },
     {
@@ -24,12 +24,8 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Luxurious Beard"
     },
     {
       "trait_type": "Accessory",
@@ -37,7 +33,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "3D Glasses"
     }
   ]
 }

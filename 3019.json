@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6264,
+      "value": 7700,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 111.13,
+      "value": 79.87,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Frown"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Vape"
     }
   ]
 }

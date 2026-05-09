@@ -10,21 +10,21 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 456,
+      "value": 7473,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 335.99,
+      "value": 83.51,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 2,
       "display_type": "number"
     },
     {
@@ -33,15 +33,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Handlebars"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Clown Nose"
     }
   ]
 }

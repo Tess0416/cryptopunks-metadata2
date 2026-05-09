@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1708,
+      "value": 1277,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 238.79,
+      "value": 252.52,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "VR"
     }
   ]
 }

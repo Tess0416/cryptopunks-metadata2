@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8383,
+      "value": 2890,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 77.51,
+      "value": 164.96,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Straight Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Medical Mask"
     }
   ]
 }

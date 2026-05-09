@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3847,
+      "value": 5425,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 159.75,
+      "value": 110.81,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Wild Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Dark Hair"
     }
   ]
 }

@@ -6,26 +6,34 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9907,
+      "value": 594,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 39.92,
+      "value": 301.87,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "VR"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
@@ -33,7 +41,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Classic Shades"
     }
   ]
 }

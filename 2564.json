@@ -10,30 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8117,
+      "value": 1266,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 82.34,
+      "value": 253.26,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Hot Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Rosy Cheeks"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Orange Side"
     }
   ]
 }

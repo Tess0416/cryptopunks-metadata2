@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5752,
+      "value": 5485,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 119.82,
+      "value": 110.31,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Shadow Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Do-rag"
     }
   ]
 }

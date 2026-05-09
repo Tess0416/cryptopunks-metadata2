@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5774,
+      "value": 6476,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 119.39,
+      "value": 96.65,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "VR"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Front Beard Dark"
     }
   ]
 }

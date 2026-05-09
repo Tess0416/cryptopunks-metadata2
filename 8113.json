@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6414,
+      "value": 1966,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 109.17,
+      "value": 210.32,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Wild White Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Hot Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Top Hat"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8026,
+      "value": 678,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 84.22,
+      "value": 295.29,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Top Hat"
     }
   ]
 }

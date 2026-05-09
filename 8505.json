@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3664,
+      "value": 8949,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 164.35,
+      "value": 60.25,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Vape"
     }
   ]
 }

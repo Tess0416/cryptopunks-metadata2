@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6825,
+      "value": 8164,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 103.71,
+      "value": 73.38,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Front Beard Dark"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "VR"
     }
   ]
 }

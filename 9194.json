@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9900,
+      "value": 5416,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 40.86,
+      "value": 110.89,
       "display_type": "number"
     },
     {
@@ -24,8 +24,12 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
@@ -33,7 +37,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Muttonchops"
     }
   ]
 }

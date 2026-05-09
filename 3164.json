@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6143,
+      "value": 7249,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 112.86,
+      "value": 87.05,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Cap"
     }
   ]
 }

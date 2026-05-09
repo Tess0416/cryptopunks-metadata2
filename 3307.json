@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6664,
+      "value": 8751,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 106.48,
+      "value": 63.3,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",

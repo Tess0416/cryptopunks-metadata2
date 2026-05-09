@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4222,
+      "value": 9015,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 150.14,
+      "value": 58.93,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Black Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Wild Hair"
     }
   ]
 }

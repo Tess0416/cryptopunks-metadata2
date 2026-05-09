@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9695,
+      "value": 8046,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 50.09,
+      "value": 74.89,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frumpy Hair"
+      "value": "Do-rag"
     }
   ]
 }

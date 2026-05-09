@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8769,
+      "value": 6162,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 69.27,
+      "value": 100.93,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Front Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Chinstrap"
     }
   ]
 }

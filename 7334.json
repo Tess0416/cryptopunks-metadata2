@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3331,
+      "value": 1546,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 173.21,
+      "value": 235.26,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Cigarette"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Pilot Helmet"
     }
   ]
 }

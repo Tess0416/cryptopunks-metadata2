@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4921,
+      "value": 5849,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 136.23,
+      "value": 105.68,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "VR"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Do-rag"
     }
   ]
 }

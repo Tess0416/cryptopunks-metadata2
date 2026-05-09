@@ -6,38 +6,34 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1644,
+      "value": 6904,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 243.21,
+      "value": 91.56,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Straight Hair"
     },
     {
       "trait_type": "Accessory",
       "value": "Classic Shades"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Pilot Helmet"
     }
   ]
 }

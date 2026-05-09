@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3147,
+      "value": 71,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 177.26,
+      "value": 485.14,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Legendary"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Choker"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Tiara"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Eye Shadow"
     }
   ]
 }

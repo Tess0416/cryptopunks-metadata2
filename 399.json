@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8121,
+      "value": 1746,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 82.27,
+      "value": 223.31,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "Pilot Helmet"
     }
   ]
 }

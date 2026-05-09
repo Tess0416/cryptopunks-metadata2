@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9813,
+      "value": 4374,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 45.4,
+      "value": 129.13,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Vape"
     }
   ]
 }

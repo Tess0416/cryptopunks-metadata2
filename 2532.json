@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6295,
+      "value": 5366,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 110.84,
+      "value": 111.49,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Normal Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Frown"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4333,
+      "value": 2914,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 147.22,
+      "value": 163.58,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Wild Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Clown Hair Green"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Messy Hair"
     }
   ]
 }

@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2496,
+      "value": 7757,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 200.74,
+      "value": 78.84,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Normal Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Big Shades"
     }
   ]
 }

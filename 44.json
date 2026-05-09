@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9447,
+      "value": 9208,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 56.65,
+      "value": 55.88,
       "display_type": "number"
     },
     {
@@ -24,16 +24,12 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Knitted Cap"
     }
   ]
 }

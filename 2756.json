@@ -6,42 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6144,
+      "value": 2430,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 112.85,
+      "value": 183.62,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frumpy Hair"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Half Shaved"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5116,
+      "value": 1308,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 132.57,
+      "value": 251.14,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Orange Side"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Blonde Short"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Messy Hair"
     }
   ]
 }

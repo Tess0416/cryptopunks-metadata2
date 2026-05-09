@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9277,
+      "value": 6805,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 60.38,
+      "value": 92.43,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Straight Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Bandana"
     }
   ]
 }

@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 454,
+      "value": 6888,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 336.23,
+      "value": 91.71,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Buck Teeth"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Mole"
     }
   ]
 }

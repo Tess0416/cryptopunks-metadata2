@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4339,
+      "value": 7952,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 147.13,
+      "value": 76.41,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Hoodie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Muttonchops"
     }
   ]
 }

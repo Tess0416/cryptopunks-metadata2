@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9570,
+      "value": 7252,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 53.34,
+      "value": 87,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Nerd Glasses"
     }
   ]
 }

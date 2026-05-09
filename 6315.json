@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 627,
+      "value": 1652,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 315.4,
+      "value": 228.52,
       "display_type": "number"
     },
     {
@@ -24,20 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Green Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Blonde Bob"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Straight Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Nose"
     }
   ]
 }

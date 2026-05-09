@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6682,
+      "value": 7441,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 106.15,
+      "value": 83.89,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Gold Chain"
     }
   ]
 }

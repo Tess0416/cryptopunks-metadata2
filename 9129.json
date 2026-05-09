@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5824,
+      "value": 8447,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 118.38,
+      "value": 68.28,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Frumpy Hair"
     }
   ]
 }

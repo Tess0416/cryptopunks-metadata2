@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7081,
+      "value": 5217,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 99.62,
+      "value": 113.68,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Cigarette"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Luxurious Beard"
     }
   ]
 }

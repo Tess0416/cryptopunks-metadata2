@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 663,
+      "value": 1869,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 308.93,
+      "value": 215.34,
       "display_type": "number"
     },
     {
@@ -29,23 +29,23 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Normal Beard Black"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Shadow Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Normal Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Cap"
     }
   ]
 }

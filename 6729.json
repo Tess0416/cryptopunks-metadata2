@@ -6,30 +6,26 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4530,
+      "value": 6143,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 143.24,
+      "value": 101.58,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
@@ -37,11 +33,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Normal Beard"
     }
   ]
 }

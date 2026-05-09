@@ -6,38 +6,46 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Ape"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 44,
+      "value": 1118,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 680.86,
+      "value": 261.27,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Legendary"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Red Mohawk"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "VR"
     }
   ]
 }

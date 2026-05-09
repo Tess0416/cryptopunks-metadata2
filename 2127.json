@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5017,
+      "value": 5163,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 134.46,
+      "value": 114.37,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Red Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Green Eye Shadow"
     }
   ]
 }

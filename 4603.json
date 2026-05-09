@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4410,
+      "value": 5754,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 145.84,
+      "value": 107.07,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Blonde Bob"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Big Shades"
     }
   ]
 }

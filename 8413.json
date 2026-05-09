@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7690,
+      "value": 9251,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 90.95,
+      "value": 55.03,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Pipe"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Horned Rim Glasses"
     }
   ]
 }

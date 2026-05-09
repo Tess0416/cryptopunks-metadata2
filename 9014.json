@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8444,
+      "value": 2550,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 76.65,
+      "value": 178.78,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Half Shaved"
     }
   ]
 }

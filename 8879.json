@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3125,
+      "value": 8269,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 177.77,
+      "value": 71.37,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Stringy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Bandana"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Crazy Hair"
     }
   ]
 }

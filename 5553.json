@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5959,
+      "value": 8667,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 115.9,
+      "value": 64.79,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Eye Patch"
     }
   ]
 }

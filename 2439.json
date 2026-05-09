@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7362,
+      "value": 5790,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 96.07,
+      "value": 106.57,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Goat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Muttonchops"
     }
   ]
 }

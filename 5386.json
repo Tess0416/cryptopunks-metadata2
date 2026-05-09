@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5432,
+      "value": 5329,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 126.65,
+      "value": 111.88,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Bandana"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Straight Hair Dark"
     }
   ]
 }

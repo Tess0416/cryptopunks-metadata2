@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5831,
+      "value": 838,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 118.18,
+      "value": 282.51,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frumpy Hair"
+      "value": "Straight Hair Dark"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Pigtails"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Rosy Cheeks"
     }
   ]
 }

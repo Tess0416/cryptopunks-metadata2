@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4705,
+      "value": 1497,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 140.56,
+      "value": 238.21,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Messy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Small Shades"
     }
   ]
 }

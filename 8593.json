@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 796,
+      "value": 5137,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 294.95,
+      "value": 114.95,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Tassle Hat"
     }
   ]
 }

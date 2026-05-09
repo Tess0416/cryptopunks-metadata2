@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2860,
+      "value": 7915,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 186.4,
+      "value": 76.89,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Front Beard Dark"
     }
   ]
 }

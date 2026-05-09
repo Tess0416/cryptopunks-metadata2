@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Zombie"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 911,
+      "value": 1107,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 287.32,
+      "value": 262.28,
       "display_type": "number"
     },
     {
@@ -24,20 +24,28 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Horned Rim Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Vape"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mohawk"
     }
   ]
 }

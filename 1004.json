@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7762,
+      "value": 5369,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 89.18,
+      "value": 111.38,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Fedora"
     }
   ]
 }

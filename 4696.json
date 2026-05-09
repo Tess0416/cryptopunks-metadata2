@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2881,
+      "value": 2827,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 185.76,
+      "value": 167.2,
       "display_type": "number"
     },
     {
@@ -24,28 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 5,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Purple Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Blonde Bob"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Chinstrap"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Tassle Hat"
     }
   ]
 }

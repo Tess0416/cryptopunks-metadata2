@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5843,
+      "value": 4074,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 118.02,
+      "value": 134.42,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Cowboy Hat"
     }
   ]
 }

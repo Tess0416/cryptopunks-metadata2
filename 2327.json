@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1006,
+      "value": 4344,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 281.19,
+      "value": 129.56,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Messy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Blonde Bob"
     }
   ]
 }

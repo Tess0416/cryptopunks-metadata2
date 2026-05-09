@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5095,
+      "value": 9363,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 132.97,
+      "value": 52.29,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Shadow Beard"
     }
   ]
 }

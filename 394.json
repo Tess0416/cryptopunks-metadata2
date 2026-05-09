@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6760,
+      "value": 8473,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 104.84,
+      "value": 67.91,
       "display_type": "number"
     },
     {
@@ -33,11 +33,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Cigarette"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Big Shades"
     }
   ]
 }

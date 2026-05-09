@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 715,
+      "value": 9671,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 302.67,
+      "value": 45.71,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Buck Teeth"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Earring"
     }
   ]
 }

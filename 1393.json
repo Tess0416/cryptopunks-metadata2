@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 987,
+      "value": 2108,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 282.71,
+      "value": 202.31,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Straight Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Dark Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Straight Hair Dark"
     }
   ]
 }

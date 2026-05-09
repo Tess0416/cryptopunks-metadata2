@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3446,
+      "value": 120,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 169.97,
+      "value": 423.71,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Choker"
     },
     {
       "trait_type": "Accessory",
@@ -37,7 +37,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "Wild White Hair"
     }
   ]
 }

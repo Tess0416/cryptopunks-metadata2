@@ -6,38 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1837,
+      "value": 4091,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 231.15,
+      "value": 134.05,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "Normal Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Clown Nose"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Headband"
     }
   ]
 }

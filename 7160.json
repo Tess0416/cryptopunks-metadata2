@@ -6,42 +6,46 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Ape"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 40,
+      "value": 1912,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 738.13,
+      "value": 213.19,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Legendary"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Shadow Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Hoodie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Frown"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Do-rag"
     }
   ]
 }

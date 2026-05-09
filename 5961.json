@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5398,
+      "value": 1735,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 127.41,
+      "value": 224.19,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Wild White Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Blonde Bob"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Clown Nose"
     }
   ]
 }

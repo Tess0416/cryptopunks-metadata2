@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6978,
+      "value": 77,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 101.07,
+      "value": 479.74,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Legendary"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Orange Side"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Dark Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Blonde Short"
     }
   ]
 }

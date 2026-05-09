@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1394,
+      "value": 7243,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 255.65,
+      "value": 87.19,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Buck Teeth"
     }
   ]
 }

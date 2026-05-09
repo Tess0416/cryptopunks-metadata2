@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6176,
+      "value": 3492,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 112.39,
+      "value": 147.4,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "Big Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Mole"
     }
   ]
 }

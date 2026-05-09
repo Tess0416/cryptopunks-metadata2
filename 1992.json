@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 369,
+      "value": 5056,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 350.04,
+      "value": 116.5,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Wild Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Straight Hair Dark"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Messy Hair"
     }
   ]
 }

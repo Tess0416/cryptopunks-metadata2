@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9106,
+      "value": 6892,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 63.32,
+      "value": 91.67,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Clown Hair Green"
     }
   ]
 }

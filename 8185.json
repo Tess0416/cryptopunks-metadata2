@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6113,
+      "value": 6965,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 113.35,
+      "value": 90.79,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Buck Teeth"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Frown"
     }
   ]
 }

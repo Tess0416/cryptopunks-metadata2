@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5574,
+      "value": 2072,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 123.66,
+      "value": 205.06,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Messy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Big Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Half Shaved"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1464,
+      "value": 1042,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 252.61,
+      "value": 267.17,
       "display_type": "number"
     },
     {
@@ -24,8 +24,12 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Hair"
     },
     {
       "trait_type": "Accessory",
@@ -33,7 +37,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Tiara"
     }
   ]
 }

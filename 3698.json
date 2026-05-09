@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8527,
+      "value": 7471,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 74.51,
+      "value": 83.51,
       "display_type": "number"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Clown Nose"
     }
   ]
 }

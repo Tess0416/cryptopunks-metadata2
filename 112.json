@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3587,
+      "value": 2348,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 166.23,
+      "value": 188.54,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Blonde Short"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Half Shaved"
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Purple Eye Shadow"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2626,
+      "value": 1592,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 195.51,
+      "value": 231.65,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Rosy Cheeks"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Earring"
     }
   ]
 }

@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2359,
+      "value": 9053,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 207.56,
+      "value": 58.4,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Cigarette"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Knitted Cap"
     }
   ]
 }

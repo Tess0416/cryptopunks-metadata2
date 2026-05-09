@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5745,
+      "value": 1323,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 119.99,
+      "value": 250.76,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Horned Rim Glasses"
     }
   ]
 }

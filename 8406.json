@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2812,
+      "value": 6706,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 187.83,
+      "value": 93.77,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Vape"
     }
   ]
 }

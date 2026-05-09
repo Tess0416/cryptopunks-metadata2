@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5278,
+      "value": 6857,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 129.69,
+      "value": 91.97,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "3D Glasses"
     }
   ]
 }

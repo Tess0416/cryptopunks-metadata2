@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7126,
+      "value": 926,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 99.13,
+      "value": 275.48,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Choker"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Crazy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Purple Eye Shadow"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5273,
+      "value": 5857,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 129.75,
+      "value": 105.61,
       "display_type": "number"
     },
     {
@@ -29,11 +29,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
@@ -41,7 +37,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Normal Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Big Shades"
     }
   ]
 }

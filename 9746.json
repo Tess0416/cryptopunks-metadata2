@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3860,
+      "value": 6556,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 159.37,
+      "value": 95.41,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Hoodie"
     }
   ]
 }

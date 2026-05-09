@@ -10,42 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1346,
+      "value": 73,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 258.35,
+      "value": 482.66,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Legendary"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 5,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Pigtails"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Wild White Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "Spots"
     }
   ]
 }

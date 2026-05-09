@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 153,
+      "value": 1568,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 427.34,
+      "value": 233.42,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Crazy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Frumpy Hair"
     }
   ]
 }

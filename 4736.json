@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8585,
+      "value": 5738,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 73.29,
+      "value": 107.21,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "Frown"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Silver Chain"
     }
   ]
 }

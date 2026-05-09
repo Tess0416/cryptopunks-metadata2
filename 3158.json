@@ -6,42 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7046,
+      "value": 4342,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 100.13,
+      "value": 129.58,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Hoodie"
     }
   ]
 }

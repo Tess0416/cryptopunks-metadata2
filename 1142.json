@@ -6,42 +6,46 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Zombie"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 924,
+      "value": 2007,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 286.09,
+      "value": 208.8,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Frown"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Front Beard"
     }
   ]
 }

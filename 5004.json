@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 609,
+      "value": 4946,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 316.96,
+      "value": 118.53,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Medical Mask"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Stringy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "3D Glasses"
     }
   ]
 }

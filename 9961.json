@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6896,
+      "value": 8777,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 102.48,
+      "value": 62.91,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Normal Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Knitted Cap"
     }
   ]
 }

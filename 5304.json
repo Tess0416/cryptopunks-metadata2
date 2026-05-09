@@ -10,26 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1092,
+      "value": 112,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 274.19,
+      "value": 428.53,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "Accessory",
       "value": "Tiara"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Medical Mask"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Bandana"
     },
     {
       "trait_type": "Accessory",

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1479,
+      "value": 3600,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 251.58,
+      "value": 144.53,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Frumpy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "3D Glasses"
     }
   ]
 }

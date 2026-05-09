@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1273,
+      "value": 4411,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 262.45,
+      "value": 128.45,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Cowboy Hat"
     }
   ]
 }

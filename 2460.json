@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Ape"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3549,
+      "value": 38,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 167.17,
+      "value": 571.51,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Legendary"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Frumpy Hair"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Buck Teeth"
     }
   ]
 }

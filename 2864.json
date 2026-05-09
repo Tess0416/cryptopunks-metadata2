@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7498,
+      "value": 4358,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 94.31,
+      "value": 129.34,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Normal Beard Black"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Vape"
     }
   ]
 }

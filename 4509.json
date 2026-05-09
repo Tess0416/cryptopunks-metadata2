@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6692,
+      "value": 2055,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 105.98,
+      "value": 206.13,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Mole"
     }
   ]
 }

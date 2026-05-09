@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7573,
+      "value": 8695,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 93.15,
+      "value": 64.29,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Smile"
     }
   ]
 }

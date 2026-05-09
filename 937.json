@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1132,
+      "value": 3123,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 271.56,
+      "value": 157.77,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Red Mohawk"
     },
     {
       "trait_type": "Accessory",

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3929,
+      "value": 6811,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 157.15,
+      "value": 92.42,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Luxurious Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Do-rag"
     }
   ]
 }

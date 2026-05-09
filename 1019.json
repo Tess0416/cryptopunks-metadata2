@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Zombie"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2580,
+      "value": 1909,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 197.41,
+      "value": 213.3,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Bandana"
     }
   ]
 }

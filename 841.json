@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6069,
+      "value": 8464,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 114.02,
+      "value": 68.1,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Buck Teeth"
     }
   ]
 }

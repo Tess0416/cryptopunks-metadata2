@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4050,
+      "value": 9536,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 154.12,
+      "value": 49.11,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Cigarette"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Buck Teeth"
     }
   ]
 }

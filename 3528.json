@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7166,
+      "value": 2679,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 98.59,
+      "value": 173.39,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Wild Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Stringy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Blonde Short"
     }
   ]
 }

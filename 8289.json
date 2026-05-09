@@ -10,26 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8672,
+      "value": 795,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 71.24,
+      "value": 285.83,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 1,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Medical Mask"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Choker"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mole"
     }
   ]
 }

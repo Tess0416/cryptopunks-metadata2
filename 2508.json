@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6736,
+      "value": 8489,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 105.27,
+      "value": 67.54,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigarette"
     }
   ]
 }

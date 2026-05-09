@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6842,
+      "value": 6317,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 103.45,
+      "value": 98.69,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Gold Chain"
     }
   ]
 }

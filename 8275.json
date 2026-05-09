@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6501,
+      "value": 4088,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 108.15,
+      "value": 134.06,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Medical Mask"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Red Mohawk"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7737,
+      "value": 7415,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 89.82,
+      "value": 84.28,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Front Beard Dark"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Eye Patch"
     }
   ]
 }

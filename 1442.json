@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3898,
+      "value": 2226,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 158.12,
+      "value": 194.73,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Crazy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Orange Side"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Horned Rim Glasses"
     }
   ]
 }

@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9481,
+      "value": 4687,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 55.96,
+      "value": 123.16,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Medical Mask"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Purple Hair"
     }
   ]
 }

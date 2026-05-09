@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 956,
+      "value": 7604,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 284.33,
+      "value": 81.32,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Chinstrap"
     }
   ]
 }

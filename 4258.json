@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7799,
+      "value": 4474,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 88.39,
+      "value": 127.46,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Spots"
     }
   ]
 }

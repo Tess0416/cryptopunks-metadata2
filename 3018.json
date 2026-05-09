@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6491,
+      "value": 4911,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 108.22,
+      "value": 119.1,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Nose"
     }
   ]
 }

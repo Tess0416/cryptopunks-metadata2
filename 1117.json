@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6061,
+      "value": 9571,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 114.12,
+      "value": 48.12,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Headband"
     }
   ]
 }

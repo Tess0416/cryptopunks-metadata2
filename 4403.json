@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6879,
+      "value": 5241,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 102.81,
+      "value": 113.24,
       "display_type": "number"
     },
     {
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Cowboy Hat"
     },
     {
       "trait_type": "Accessory",
@@ -37,7 +37,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "Horned Rim Glasses"
     }
   ]
 }

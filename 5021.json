@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9115,
+      "value": 6837,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 63.08,
+      "value": 92.13,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Half Shaved"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Horned Rim Glasses"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9816,
+      "value": 9772,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 45.32,
+      "value": 42.63,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Mole"
     }
   ]
 }

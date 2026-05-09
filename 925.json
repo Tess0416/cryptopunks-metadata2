@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6784,
+      "value": 2308,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 104.37,
+      "value": 190.22,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Wild White Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Spots"
     }
   ]
 }

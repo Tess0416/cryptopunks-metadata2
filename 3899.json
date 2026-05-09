@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1106,
+      "value": 2376,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 273.68,
+      "value": 187.04,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Medical Mask"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Pigtails"
     }
   ]
 }

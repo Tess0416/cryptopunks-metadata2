@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5935,
+      "value": 8807,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 116.25,
+      "value": 62.41,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "Hoodie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Shadow Beard"
     }
   ]
 }

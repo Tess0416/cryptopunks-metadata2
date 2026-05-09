@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8896,
+      "value": 8330,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 66.62,
+      "value": 70.24,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Pipe"
     }
   ]
 }

@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 118,
+      "value": 4317,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 455.96,
+      "value": 129.9,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Big Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Knitted Cap"
     }
   ]
 }

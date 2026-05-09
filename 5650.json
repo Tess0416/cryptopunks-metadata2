@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2616,
+      "value": 1741,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 195.83,
+      "value": 223.73,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Wild White Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Clown Hair Green"
     }
   ]
 }

@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2323,
+      "value": 1331,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 208.9,
+      "value": 249.9,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Choker"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Hot Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Wild Hair"
     }
   ]
 }

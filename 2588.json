@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9683,
+      "value": 1400,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 50.43,
+      "value": 245.66,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Tassle Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Blue Eye Shadow"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Orange Side"
     }
   ]
 }

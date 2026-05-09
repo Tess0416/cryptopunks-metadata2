@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3604,
+      "value": 6119,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 165.97,
+      "value": 101.87,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Frown"
     }
   ]
 }

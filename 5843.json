@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4867,
+      "value": 2033,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 137.08,
+      "value": 207.49,
       "display_type": "number"
     },
     {
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Stringy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Gold Chain"
     }
   ]
 }

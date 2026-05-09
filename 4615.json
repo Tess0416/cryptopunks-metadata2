@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2681,
+      "value": 780,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 192.72,
+      "value": 286.89,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
+      "value": "Pipe"
     }
   ]
 }

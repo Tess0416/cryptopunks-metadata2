@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1344,
+      "value": 9052,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 258.47,
+      "value": 58.41,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Normal Beard Black"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Shadow Beard"
     }
   ]
 }

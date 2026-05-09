@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2034,
+      "value": 6039,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 220.86,
+      "value": 102.92,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Spots"
     }
   ]
 }

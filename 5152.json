@@ -6,26 +6,30 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3758,
+      "value": 950,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 162.03,
+      "value": 273.28,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
@@ -33,15 +37,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Front Beard Dark"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Pilot Helmet"
     }
   ]
 }

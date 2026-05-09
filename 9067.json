@@ -10,42 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1775,
+      "value": 8340,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 234.95,
+      "value": 70.08,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 5,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Cap Forward"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "Horned Rim Glasses"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8391,
+      "value": 1079,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 77.5,
+      "value": 265.07,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Muttonchops"
     }
   ]
 }

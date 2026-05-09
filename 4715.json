@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 926,
+      "value": 4984,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 285.92,
+      "value": 117.81,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Regular Shades"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4517,
+      "value": 8258,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 143.44,
+      "value": 71.6,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Frown"
     }
   ]
 }

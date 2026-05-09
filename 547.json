@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8776,
+      "value": 7140,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 69.14,
+      "value": 88.68,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "VR"
     }
   ]
 }

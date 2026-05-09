@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2394,
+      "value": 299,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 205.81,
+      "value": 344,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Muttonchops"
     }
   ]
 }

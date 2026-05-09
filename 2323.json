@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9810,
+      "value": 8110,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 45.46,
+      "value": 74.08,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Fedora"
     }
   ]
 }

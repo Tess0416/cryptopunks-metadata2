@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 465,
+      "value": 2221,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 334.95,
+      "value": 195.05,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Wild Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Bandana"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Orange Side"
     }
   ]
 }

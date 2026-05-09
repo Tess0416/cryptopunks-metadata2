@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4318,
+      "value": 2354,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 147.67,
+      "value": 188.1,
       "display_type": "number"
     },
     {
@@ -24,12 +24,12 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
@@ -37,7 +37,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Straight Hair Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Gold Chain"
     }
   ]
 }

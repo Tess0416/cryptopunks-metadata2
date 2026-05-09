@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7071,
+      "value": 1172,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 99.88,
+      "value": 258.54,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Tassle Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Blonde Bob"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Blonde Short"
     }
   ]
 }

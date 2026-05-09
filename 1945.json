@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1462,
+      "value": 918,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 252.61,
+      "value": 276.36,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Blonde Bob"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Tiara"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Eye Patch"
     }
   ]
 }

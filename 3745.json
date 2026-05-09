@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5287,
+      "value": 722,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 129.5,
+      "value": 291.4,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Wild White Hair"
     }
   ]
 }

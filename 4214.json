@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6311,
+      "value": 6789,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 110.66,
+      "value": 92.67,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
+      "value": "Big Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Accessory",
       "value": "Vape"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Mustache"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Luxurious Beard"
     }
   ]
 }

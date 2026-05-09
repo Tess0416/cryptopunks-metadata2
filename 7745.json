@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8917,
+      "value": 5629,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 66.3,
+      "value": 108.55,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Cowboy Hat"
     }
   ]
 }

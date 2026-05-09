@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9724,
+      "value": 3126,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 49.05,
+      "value": 157.73,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Wild Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "Crazy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Pigtails"
     }
   ]
 }

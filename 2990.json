@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4211,
+      "value": 3158,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 150.23,
+      "value": 156.58,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Rosy Cheeks"
     }
   ]
 }

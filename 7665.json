@@ -6,26 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Ape"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 83,
+      "value": 265,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 505.87,
+      "value": 352.64,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Legendary"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 1,
+      "value": 5,
       "display_type": "number"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Wild Blonde"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Vape"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Top Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Green Eye Shadow"
     },
     {
       "trait_type": "Accessory",

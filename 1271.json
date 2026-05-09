@@ -10,26 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4853,
+      "value": 6717,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 137.28,
+      "value": 93.53,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 1,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Headband"
     }
   ]
 }

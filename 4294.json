@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7884,
+      "value": 4602,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 87.04,
+      "value": 124.85,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Vape"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1061,
+      "value": 9049,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 277.23,
+      "value": 58.45,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Luxurious Beard"
     }
   ]
 }

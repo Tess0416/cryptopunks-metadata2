@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8538,
+      "value": 5348,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 74.36,
+      "value": 111.62,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Wild Blonde"
     }
   ]
 }

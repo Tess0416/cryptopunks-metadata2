@@ -6,34 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Zombie"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9175,
+      "value": 691,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 62.07,
+      "value": 294.1,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Spots"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Dark Hair"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9062,
+      "value": 9448,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 64.23,
+      "value": 50.88,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Smile"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7643,
+      "value": 2786,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 91.82,
+      "value": 168.74,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Straight Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Clown Hair Green"
     }
   ]
 }

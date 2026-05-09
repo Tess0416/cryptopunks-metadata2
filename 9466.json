@@ -6,46 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 555,
+      "value": 2401,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 322.71,
+      "value": 185.68,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 5,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Smile"
     }
   ]
 }

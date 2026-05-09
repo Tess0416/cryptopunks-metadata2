@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 769,
+      "value": 593,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 298.1,
+      "value": 301.91,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "3D Glasses"
     }
   ]
 }

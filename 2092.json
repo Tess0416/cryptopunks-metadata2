@@ -6,42 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4468,
+      "value": 5931,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 144.39,
+      "value": 104.51,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "Mohawk"
     }
   ]
 }

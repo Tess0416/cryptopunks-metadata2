@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4256,
+      "value": 2920,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 149.29,
+      "value": 163.5,
       "display_type": "number"
     },
     {
@@ -24,16 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Purple Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Messy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Hot Lipstick"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Medical Mask"
     }
   ]
 }

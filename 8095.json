@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7835,
+      "value": 5761,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 87.73,
+      "value": 107.02,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Front Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Shadow Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Clown Nose"
     }
   ]
 }

@@ -10,26 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9137,
+      "value": 2140,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 62.75,
+      "value": 200.05,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 1,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Half Shaved"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Red Mohawk"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Gold Chain"
     }
   ]
 }

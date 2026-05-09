@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 623,
+      "value": 2345,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 315.69,
+      "value": 188.6,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Top Hat"
     }
   ]
 }

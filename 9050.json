@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 784,
+      "value": 1613,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 296.14,
+      "value": 230.56,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Clown Hair Green"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Blonde Short"
     }
   ]
 }

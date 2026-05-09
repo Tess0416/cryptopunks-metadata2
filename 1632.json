@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2037,
+      "value": 2404,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 220.57,
+      "value": 185.59,
       "display_type": "number"
     },
     {
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Straight Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Top Hat"
     }
   ]
 }

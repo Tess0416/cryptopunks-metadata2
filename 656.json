@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9023,
+      "value": 3131,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 64.88,
+      "value": 157.63,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Tassle Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Green Eye Shadow"
     }
   ]
 }

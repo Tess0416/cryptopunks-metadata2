@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4648,
+      "value": 172,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 141.22,
+      "value": 387.86,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Hot Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Orange Side"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "3D Glasses"
     }
   ]
 }

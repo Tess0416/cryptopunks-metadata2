@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2784,
+      "value": 2329,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 188.64,
+      "value": 189.24,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Orange Side"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Vape"
     }
   ]
 }

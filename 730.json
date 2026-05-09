@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4002,
+      "value": 6432,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 155.18,
+      "value": 97.24,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
@@ -37,7 +37,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Nerd Glasses"
     }
   ]
 }

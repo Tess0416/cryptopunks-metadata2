@@ -10,30 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7327,
+      "value": 424,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 96.46,
+      "value": 323.41,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Half Shaved"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Choker"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Classic Shades"
     }
   ]
 }

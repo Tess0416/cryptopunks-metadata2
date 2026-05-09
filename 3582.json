@@ -6,34 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6372,
+      "value": 3565,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 109.75,
+      "value": 145.56,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Spots"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Smile"
     }
   ]
 }

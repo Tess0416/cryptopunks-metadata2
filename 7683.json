@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6868,
+      "value": 9101,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 102.98,
+      "value": 57.67,
       "display_type": "number"
     },
     {
@@ -24,16 +24,12 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",

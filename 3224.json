@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6594,
+      "value": 3841,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 107.21,
+      "value": 139.32,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Cowboy Hat"
     }
   ]
 }

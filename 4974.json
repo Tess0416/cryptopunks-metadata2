@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7550,
+      "value": 3188,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 93.47,
+      "value": 155.62,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Purple Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Clown Hair Green"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Frumpy Hair"
     }
   ]
 }

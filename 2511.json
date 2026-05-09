@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4038,
+      "value": 1455,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 154.31,
+      "value": 241.19,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Orange Side"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Straight Hair Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Messy Hair"
     }
   ]
 }

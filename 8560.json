@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1840,
+      "value": 3740,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 230.97,
+      "value": 141.32,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "Blue Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Black Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Tassle Hat"
     }
   ]
 }

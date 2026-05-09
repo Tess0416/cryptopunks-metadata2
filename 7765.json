@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 421,
+      "value": 4541,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 340.82,
+      "value": 126.03,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
+      "value": "Headband"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Handlebars"
+    },
+    {
+      "trait_type": "Accessory",
       "value": "Gold Chain"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Choker"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Big Beard"
     }
   ]
 }

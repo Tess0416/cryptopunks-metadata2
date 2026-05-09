@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8019,
+      "value": 9691,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 84.41,
+      "value": 45.18,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Bandana"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2010,
+      "value": 3203,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 221.95,
+      "value": 155.2,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Blonde Bob"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Messy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Hair"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3363,
+      "value": 2511,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 172.24,
+      "value": 180.14,
       "display_type": "number"
     },
     {
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "Blonde Bob"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Clown Hair Green"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Black Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Big Shades"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7852,
+      "value": 8954,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 87.5,
+      "value": 60.17,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Classic Shades"
     }
   ]
 }

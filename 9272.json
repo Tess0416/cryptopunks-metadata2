@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2502,
+      "value": 3121,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 200.56,
+      "value": 157.82,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
-    },
-    {
-      "trait_type": "Accessory",
       "value": "Wild White Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Small Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Wild Hair"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 550,
+      "value": 3882,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 323.52,
+      "value": 138.59,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Shadow Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Spots"
     }
   ]
 }

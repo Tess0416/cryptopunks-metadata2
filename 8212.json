@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 619,
+      "value": 1471,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 315.94,
+      "value": 239.9,
       "display_type": "number"
     },
     {
@@ -24,20 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Wild White Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Purple Eye Shadow"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Straight Hair"
     }
   ]
 }

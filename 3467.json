@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1913,
+      "value": 7959,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 226.41,
+      "value": 76.28,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Front Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Classic Shades"
     }
   ]
 }

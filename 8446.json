@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9742,
+      "value": 5066,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 48.2,
+      "value": 116.38,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Top Hat"
     }
   ]
 }

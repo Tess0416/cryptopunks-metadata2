@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9059,
+      "value": 7174,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 64.25,
+      "value": 88.02,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Buck Teeth"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Cowboy Hat"
     }
   ]
 }

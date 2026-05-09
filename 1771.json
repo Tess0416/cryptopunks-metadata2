@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7189,
+      "value": 6878,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 98.38,
+      "value": 91.8,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Shadow Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Front Beard Dark"
     }
   ]
 }

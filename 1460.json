@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8521,
+      "value": 9832,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 74.59,
+      "value": 41.46,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frumpy Hair"
+      "value": "Buck Teeth"
     }
   ]
 }

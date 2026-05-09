@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5645,
+      "value": 7315,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 121.87,
+      "value": 86.02,
       "display_type": "number"
     },
     {
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
@@ -33,7 +33,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Horned Rim Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Muttonchops"
     }
   ]
 }

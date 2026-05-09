@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7251,
+      "value": 9196,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 97.51,
+      "value": 56.15,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Frumpy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Earring"
     }
   ]
 }

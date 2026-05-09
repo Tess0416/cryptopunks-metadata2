@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6192,
+      "value": 7420,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 112.12,
+      "value": 84.22,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "Accessory",
       "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Chinstrap"
     }
   ]
 }

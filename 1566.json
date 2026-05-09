@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4427,
+      "value": 5709,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 145.5,
+      "value": 107.53,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "Crazy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Tassle Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Wild Hair"
     }
   ]
 }

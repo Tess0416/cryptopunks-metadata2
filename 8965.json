@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4499,
+      "value": 2116,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 143.8,
+      "value": 201.86,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Pigtails"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Half Shaved"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Frumpy Hair"
     }
   ]
 }

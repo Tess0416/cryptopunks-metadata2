@@ -10,30 +10,42 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9398,
+      "value": 1500,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 57.84,
+      "value": 238.14,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "Tassle Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Medical Mask"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Hot Lipstick"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "VR"
     }
   ]
 }

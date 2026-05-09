@@ -6,42 +6,29 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Alien"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3409,
+      "value": 20,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 171.02,
+      "value": 1241.14,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Legendary"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 1,
       "display_type": "number"
     },
     {
-      "trait_type": "Accessory",
-      "value": "Goat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Stringy Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Frown"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "trait_type": "Accessory"
     }
   ]
 }

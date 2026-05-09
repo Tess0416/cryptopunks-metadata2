@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8739,
+      "value": 8230,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 69.86,
+      "value": 72.04,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Normal Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Muttonchops"
     }
   ]
 }

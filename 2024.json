@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 819,
+      "value": 8279,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 292.98,
+      "value": 71,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
       "value": "Front Beard Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Buck Teeth"
     }
   ]
 }

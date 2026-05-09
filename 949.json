@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6963,
+      "value": 5494,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 101.3,
+      "value": 110.18,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Cowboy Hat"
     }
   ]
 }

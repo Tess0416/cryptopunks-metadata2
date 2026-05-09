@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4016,
+      "value": 9875,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 154.88,
+      "value": 39.6,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Earring"
     }
   ]
 }

@@ -10,26 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4296,
+      "value": 8113,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 148.29,
+      "value": 74.08,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 1,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Mole"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Fedora"
     }
   ]
 }

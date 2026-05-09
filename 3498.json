@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1491,
+      "value": 1782,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 250.93,
+      "value": 221.08,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Blonde Short"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Rosy Cheeks"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Hair"
     }
   ]
 }

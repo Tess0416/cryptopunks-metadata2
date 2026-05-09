@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9120,
+      "value": 1498,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 63.05,
+      "value": 238.21,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Messy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Small Shades"
     }
   ]
 }

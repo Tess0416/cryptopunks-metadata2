@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9526,
+      "value": 314,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 54.54,
+      "value": 340.36,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Red Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Choker"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Gold Chain"
     }
   ]
 }

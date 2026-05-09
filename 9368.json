@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 221,
+      "value": 166,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 389.02,
+      "value": 389.99,
       "display_type": "number"
     },
     {
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Straight Hair Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Choker"
     }
   ]
 }

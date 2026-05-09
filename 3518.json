@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2455,
+      "value": 4834,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 202.5,
+      "value": 120.29,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Hoodie"
     }
   ]
 }

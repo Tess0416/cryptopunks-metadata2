@@ -10,30 +10,42 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8976,
+      "value": 1474,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 65.49,
+      "value": 239.79,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Black Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Tassle Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Hair Green"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Frumpy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Hot Lipstick"
     }
   ]
 }

@@ -10,46 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7,
+      "value": 4466,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 1316.6,
+      "value": 127.57,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Legendary"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 6,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Normal Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Stringy Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Cowboy Hat"
     },
     {
       "trait_type": "Accessory",
       "value": "Big Shades"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Pilot Helmet"
     }
   ]
 }

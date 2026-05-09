@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2377,
+      "value": 7866,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 206.76,
+      "value": 77.46,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Black Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Green Eye Shadow"
     }
   ]
 }

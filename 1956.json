@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5115,
+      "value": 3286,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 132.57,
+      "value": 152.82,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Purple Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nerd Glasses"
     }
   ]
 }

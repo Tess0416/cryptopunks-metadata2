@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7103,
+      "value": 459,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 99.29,
+      "value": 319.02,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Beanie"
     }
   ]
 }

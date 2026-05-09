@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 523,
+      "value": 3604,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 327.72,
+      "value": 144.47,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Mole"
     }
   ]
 }

@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4338,
+      "value": 6771,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 147.13,
+      "value": 92.9,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Straight Hair Dark"
     }
   ]
 }

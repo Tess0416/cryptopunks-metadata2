@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8974,
+      "value": 842,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 65.49,
+      "value": 281.77,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Half Shaved"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Choker"
     }
   ]
 }

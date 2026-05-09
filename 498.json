@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4246,
+      "value": 4301,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 149.45,
+      "value": 130.06,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Regular Shades"
     }
   ]
 }

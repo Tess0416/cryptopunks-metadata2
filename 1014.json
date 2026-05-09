@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4240,
+      "value": 2436,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 149.74,
+      "value": 183.3,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Red Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Pigtails"
     }
   ]
 }

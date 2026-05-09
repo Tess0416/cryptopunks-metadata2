@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6269,
+      "value": 7078,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 111.13,
+      "value": 89.44,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Silver Chain"
     }
   ]
 }

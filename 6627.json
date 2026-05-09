@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9581,
+      "value": 4509,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 53.06,
+      "value": 126.72,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "3D Glasses"
     }
   ]
 }

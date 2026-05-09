@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3337,
+      "value": 5530,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 173.03,
+      "value": 109.83,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Normal Beard Black"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Muttonchops"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8573,
+      "value": 8189,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 73.52,
+      "value": 72.99,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Green Eye Shadow"
     }
   ]
 }

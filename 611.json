@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7804,
+      "value": 5504,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 88.35,
+      "value": 110.13,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Frown"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Peak Spike"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Normal Beard Black"
     }
   ]
 }

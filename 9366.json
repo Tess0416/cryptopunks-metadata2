@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6826,
+      "value": 4477,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 103.68,
+      "value": 127.44,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Rosy Cheeks"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Hot Lipstick"
     }
   ]
 }

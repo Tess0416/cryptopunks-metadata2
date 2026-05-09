@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7672,
+      "value": 8558,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 91.37,
+      "value": 66.26,
       "display_type": "number"
     },
     {
@@ -24,16 +24,12 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Normal Beard"
     }
   ]
 }

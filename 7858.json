@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5305,
+      "value": 7589,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 129.07,
+      "value": 81.53,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Mustache"
     }
   ]
 }

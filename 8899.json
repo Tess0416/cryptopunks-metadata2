@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2535,
+      "value": 731,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 199.52,
+      "value": 290.45,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Choker"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "VR"
     }
   ]
 }

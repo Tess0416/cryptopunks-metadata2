@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9068,
+      "value": 8522,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 64.18,
+      "value": 66.97,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Frown"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frumpy Hair"
+      "value": "Knitted Cap"
     }
   ]
 }

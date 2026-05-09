@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4320,
+      "value": 245,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 147.64,
+      "value": 359.55,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Choker"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Dark Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Tassle Hat"
     }
   ]
 }

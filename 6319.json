@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7280,
+      "value": 7226,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 97.14,
+      "value": 87.45,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Horned Rim Glasses"
     }
   ]
 }

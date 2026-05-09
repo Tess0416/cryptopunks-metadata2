@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2867,
+      "value": 3725,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 186.1,
+      "value": 141.47,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Half Shaved"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Blonde Bob"
     }
   ]
 }

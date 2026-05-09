@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 593,
+      "value": 3000,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 318.88,
+      "value": 161.31,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Medical Mask"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Spots"
     }
   ]
 }

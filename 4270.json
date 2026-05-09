@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2219,
+      "value": 3087,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 212.97,
+      "value": 158.94,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Straight Hair Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Clown Hair Green"
     }
   ]
 }

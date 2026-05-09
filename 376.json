@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9628,
+      "value": 8714,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 51.8,
+      "value": 63.87,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Vape"
     }
   ]
 }

@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 632,
+      "value": 2491,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 314.58,
+      "value": 180.97,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Vape"
     }
   ]
 }

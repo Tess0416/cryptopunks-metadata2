@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2209,
+      "value": 4616,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 213.39,
+      "value": 124.61,
       "display_type": "number"
     },
     {
@@ -24,20 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Knitted Cap"
     }
   ]
 }

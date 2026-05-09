@@ -10,42 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 120,
+      "value": 1819,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 453.42,
+      "value": 218.96,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 5,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Pigtails"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Blonde Bob"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Black Lipstick"
     }
   ]
 }

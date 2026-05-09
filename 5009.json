@@ -6,38 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5507,
+      "value": 4928,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 124.87,
+      "value": 118.88,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Horned Rim Glasses"
     }
   ]
 }

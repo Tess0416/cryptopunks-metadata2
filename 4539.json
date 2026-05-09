@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5817,
+      "value": 5685,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 118.51,
+      "value": 107.78,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Frown"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Cap"
     }
   ]
 }

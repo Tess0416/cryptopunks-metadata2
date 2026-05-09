@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6859,
+      "value": 9926,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 103.1,
+      "value": 36.57,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Buck Teeth"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Regular Shades"
     }
   ]
 }

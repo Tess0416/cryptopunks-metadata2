@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3182,
+      "value": 7516,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 176.75,
+      "value": 82.82,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Normal Beard"
     }
   ]
 }

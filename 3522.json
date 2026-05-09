@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5499,
+      "value": 5713,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 125.08,
+      "value": 107.51,
       "display_type": "number"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Hoodie"
     }
   ]
 }

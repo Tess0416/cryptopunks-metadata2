@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7389,
+      "value": 8092,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 95.72,
+      "value": 74.36,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Pipe"
     }
   ]
 }

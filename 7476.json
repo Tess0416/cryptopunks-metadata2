@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Alien"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8,
+      "value": 31,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 1311.3,
+      "value": 1091.96,
       "display_type": "number"
     },
     {
@@ -24,20 +24,32 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 6,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nerd Glasses"
     }
   ]
 }

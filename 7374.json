@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6961,
+      "value": 4379,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 101.31,
+      "value": 128.98,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Cowboy Hat"
     }
   ]
 }

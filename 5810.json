@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3416,
+      "value": 7171,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 170.84,
+      "value": 88.04,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Accessory",
       "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Front Beard Dark"
     }
   ]
 }

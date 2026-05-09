@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8663,
+      "value": 5299,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 71.51,
+      "value": 112.42,
       "display_type": "number"
     },
     {
@@ -24,20 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Purple Eye Shadow"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Frumpy Hair"
     }
   ]
 }

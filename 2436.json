@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1354,
+      "value": 5858,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 258.06,
+      "value": 105.57,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Fedora"
     }
   ]
 }

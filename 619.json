@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2699,
+      "value": 8902,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 191.82,
+      "value": 60.89,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Hoodie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Nerd Glasses"
     }
   ]
 }

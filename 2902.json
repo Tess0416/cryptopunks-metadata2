@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2014,
+      "value": 290,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 221.72,
+      "value": 346.95,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Straight Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "Choker"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Clown Hair Green"
     }
   ]
 }

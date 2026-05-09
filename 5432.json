@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1178,
+      "value": 3692,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 268.76,
+      "value": 142.23,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Normal Beard Black"
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Cowboy Hat"
     }
   ]
 }

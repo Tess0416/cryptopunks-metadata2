@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1961,
+      "value": 6267,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 224.11,
+      "value": 99.49,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Wild Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Headband"
     }
   ]
 }

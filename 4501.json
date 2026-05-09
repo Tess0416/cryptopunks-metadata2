@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 547,
+      "value": 9476,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 324.12,
+      "value": 50.5,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Earring"
     }
   ]
 }

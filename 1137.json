@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1476,
+      "value": 266,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 251.64,
+      "value": 352.39,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Orange Side"
     },
     {
       "trait_type": "Accessory",
@@ -37,11 +37,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Messy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Straight Hair Dark"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3103,
+      "value": 7698,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 178.31,
+      "value": 79.89,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Front Beard Dark"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Front Beard"
     }
   ]
 }

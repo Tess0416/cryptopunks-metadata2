@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3411,
+      "value": 3074,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 171.01,
+      "value": 159.13,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Luxurious Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Peak Spike"
     }
   ]
 }

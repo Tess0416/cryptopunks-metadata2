@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7220,
+      "value": 8701,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 97.84,
+      "value": 64.15,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frumpy Hair"
+      "value": "Headband"
     }
   ]
 }

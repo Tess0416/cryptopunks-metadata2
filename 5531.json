@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2622,
+      "value": 944,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 195.61,
+      "value": 274.01,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Front Beard Dark"
     }
   ]
 }

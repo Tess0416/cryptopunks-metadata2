@@ -6,38 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7711,
+      "value": 1794,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 90.25,
+      "value": 220.4,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "Hoodie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Eye Patch"
     }
   ]
 }

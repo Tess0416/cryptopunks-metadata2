@@ -10,34 +10,42 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6591,
+      "value": 171,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 107.27,
+      "value": 388.1,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frumpy Hair"
+      "value": "Straight Hair Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Purple Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Tassle Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Wild White Hair"
     }
   ]
 }

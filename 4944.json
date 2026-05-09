@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8887,
+      "value": 5140,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 66.72,
+      "value": 114.91,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Bandana"
     }
   ]
 }

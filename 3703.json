@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7896,
+      "value": 4314,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 86.87,
+      "value": 129.95,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Buck Teeth"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Gold Chain"
     }
   ]
 }

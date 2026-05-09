@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5089,
+      "value": 5994,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 133.08,
+      "value": 103.7,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Black Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Dark Hair"
     }
   ]
 }

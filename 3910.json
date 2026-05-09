@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5495,
+      "value": 2218,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 125.16,
+      "value": 195.26,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Dark Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Clown Hair Green"
     }
   ]
 }

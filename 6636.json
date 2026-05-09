@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6142,
+      "value": 7867,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 112.88,
+      "value": 77.43,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Vape"
     }
   ]
 }

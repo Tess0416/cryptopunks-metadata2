@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1916,
+      "value": 6635,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 226.07,
+      "value": 94.69,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Do-rag"
     }
   ]
 }

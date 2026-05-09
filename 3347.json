@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1274,
+      "value": 2753,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 262.35,
+      "value": 169.99,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Half Shaved"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Small Shades"
     }
   ]
 }

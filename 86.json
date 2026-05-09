@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 608,
+      "value": 3456,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 317.21,
+      "value": 148.53,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "Small Shades"
     }
   ]
 }

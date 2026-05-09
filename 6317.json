@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8595,
+      "value": 1898,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 73.09,
+      "value": 213.85,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Pilot Helmet"
     }
   ]
 }

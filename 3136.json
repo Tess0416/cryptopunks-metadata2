@@ -10,38 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3973,
+      "value": 8450,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 155.95,
+      "value": 68.25,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
       "value": "Cap"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Dark Hair"
     }
   ]
 }

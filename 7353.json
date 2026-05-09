@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5936,
+      "value": 5880,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 116.21,
+      "value": 105.31,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Front Beard"
     }
   ]
 }

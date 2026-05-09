@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5213,
+      "value": 3142,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 131.11,
+      "value": 157.19,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
+      "value": "Messy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Wild White Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Small Shades"
     }
   ]
 }

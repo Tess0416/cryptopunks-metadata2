@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 901,
+      "value": 4122,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 288.19,
+      "value": 133.4,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "Normal Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Big Beard"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3799,
+      "value": 3271,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 161,
+      "value": 153.28,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Hoodie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",

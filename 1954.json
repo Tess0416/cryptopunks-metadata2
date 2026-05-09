@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4897,
+      "value": 5944,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 136.51,
+      "value": 104.33,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Bandana"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Rosy Cheeks"
     }
   ]
 }

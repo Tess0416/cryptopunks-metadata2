@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6625,
+      "value": 5885,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 107.01,
+      "value": 105.26,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Big Beard"
     }
   ]
 }

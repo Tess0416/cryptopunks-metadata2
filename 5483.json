@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2304,
+      "value": 7276,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 209.37,
+      "value": 86.69,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Front Beard Dark"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Mole"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7818,
+      "value": 3987,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 88.06,
+      "value": 136.62,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Pipe"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6856,
+      "value": 1621,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 103.22,
+      "value": 230.06,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Frumpy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Bandana"
     }
   ]
 }

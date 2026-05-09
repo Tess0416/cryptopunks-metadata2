@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1401,
+      "value": 3287,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 255.34,
+      "value": 152.81,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Red Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Bandana"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Gold Chain"
     }
   ]
 }

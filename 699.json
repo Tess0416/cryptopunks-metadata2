@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1475,
+      "value": 3650,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 251.76,
+      "value": 143.32,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Normal Beard Black"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Knitted Cap"
     }
   ]
 }

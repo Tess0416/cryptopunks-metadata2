@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5615,
+      "value": 7067,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 122.73,
+      "value": 89.57,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Buck Teeth"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Big Beard"
     }
   ]
 }

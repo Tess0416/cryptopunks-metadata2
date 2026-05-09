@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5149,
+      "value": 6541,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 132.1,
+      "value": 95.61,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
       "value": "Half Shaved"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
     }
   ]
 }

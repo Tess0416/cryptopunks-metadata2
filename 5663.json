@@ -6,38 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5770,
+      "value": 2964,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 119.45,
+      "value": 162.6,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "VR"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "3D Glasses"
     }
   ]
 }

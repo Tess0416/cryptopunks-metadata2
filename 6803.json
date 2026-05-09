@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4572,
+      "value": 3356,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 142.34,
+      "value": 151.17,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Frumpy Hair"
+      "value": "Frown"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Top Hat"
     }
   ]
 }

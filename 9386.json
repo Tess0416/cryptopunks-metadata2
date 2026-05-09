@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2951,
+      "value": 5457,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 183.3,
+      "value": 110.64,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Luxurious Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Front Beard Dark"
     }
   ]
 }

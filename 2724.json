@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6330,
+      "value": 8173,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 110.39,
+      "value": 73.26,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Chinstrap"
     }
   ]
 }

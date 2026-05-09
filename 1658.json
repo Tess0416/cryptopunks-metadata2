@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8315,
+      "value": 8084,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 78.54,
+      "value": 74.41,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Buck Teeth"
     }
   ]
 }

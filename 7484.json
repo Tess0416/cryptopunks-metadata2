@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8152,
+      "value": 4744,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 81.76,
+      "value": 122.07,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Front Beard"
     }
   ]
 }

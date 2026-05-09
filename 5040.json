@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7348,
+      "value": 2241,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 96.19,
+      "value": 194.27,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Stringy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Bandana"
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Orange Side"
     }
   ]
 }

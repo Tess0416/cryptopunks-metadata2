@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4465,
+      "value": 3780,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 144.57,
+      "value": 140.64,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Tassle Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mole"
     }
   ]
 }

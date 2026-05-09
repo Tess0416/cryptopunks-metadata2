@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9934,
+      "value": 9305,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 37.52,
+      "value": 54.22,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Goat"
     }
   ]
 }

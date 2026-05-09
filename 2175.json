@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4724,
+      "value": 3532,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 140.25,
+      "value": 146.38,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Big Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "Fedora"
     }
   ]
 }

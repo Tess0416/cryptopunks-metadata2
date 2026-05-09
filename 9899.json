@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4993,
+      "value": 3921,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 134.82,
+      "value": 137.62,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Clown Nose"
     }
   ]
 }

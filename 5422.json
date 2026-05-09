@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1962,
+      "value": 4441,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 224.1,
+      "value": 128.1,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Bandana"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Top Hat"
     }
   ]
 }

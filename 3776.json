@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2773,
+      "value": 2978,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 188.98,
+      "value": 162.16,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Messy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Straight Hair Dark"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Blonde Bob"
     }
   ]
 }

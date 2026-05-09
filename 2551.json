@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8977,
+      "value": 444,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 65.48,
+      "value": 320.7,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Beanie"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6960,
+      "value": 8597,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 101.31,
+      "value": 65.78,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Frown"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Mohawk"
     }
   ]
 }

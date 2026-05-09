@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1645,
+      "value": 807,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 243.13,
+      "value": 284.69,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Rosy Cheeks"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Tiara"
     }
   ]
 }

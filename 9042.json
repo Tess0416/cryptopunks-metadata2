@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4729,
+      "value": 1779,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 140.12,
+      "value": 221.34,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Half Shaved"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Green Eye Shadow"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Wild Blonde"
     }
   ]
 }

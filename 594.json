@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1760,
+      "value": 2926,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 235.96,
+      "value": 163.4,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Normal Beard Black"
     }
   ]
 }

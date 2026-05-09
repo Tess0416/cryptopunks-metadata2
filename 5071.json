@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2747,
+      "value": 3810,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 189.89,
+      "value": 139.88,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Spots"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3875,
+      "value": 2453,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 158.94,
+      "value": 182.46,
       "display_type": "number"
     },
     {
@@ -24,12 +24,8 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
     },
     {
       "trait_type": "Accessory",
@@ -37,7 +33,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Red Mohawk"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Hair Green"
     }
   ]
 }

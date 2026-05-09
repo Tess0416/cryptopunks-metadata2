@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3844,
+      "value": 7910,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 159.78,
+      "value": 76.93,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "VR"
     }
   ]
 }

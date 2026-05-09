@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 401,
+      "value": 425,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 344.42,
+      "value": 323.39,
       "display_type": "number"
     },
     {
@@ -24,12 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Vape"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Straight Hair"
     },
     {
       "trait_type": "Accessory",
@@ -37,7 +41,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Orange Side"
     }
   ]
 }

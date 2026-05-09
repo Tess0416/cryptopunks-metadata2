@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2173,
+      "value": 2405,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 214.52,
+      "value": 185.56,
       "display_type": "number"
     },
     {
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
-    },
-    {
-      "trait_type": "Accessory",
       "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Buck Teeth"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Front Beard Dark"
     }
   ]
 }

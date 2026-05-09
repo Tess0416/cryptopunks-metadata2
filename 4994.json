@@ -6,34 +6,26 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1640,
+      "value": 7945,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 243.36,
+      "value": 76.45,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 5,
+      "value": 3,
       "display_type": "number"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Front Beard Dark"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
@@ -41,11 +33,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Pipe"
     }
   ]
 }

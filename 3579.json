@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9561,
+      "value": 5983,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 53.61,
+      "value": 103.82,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Luxurious Beard"
     }
   ]
 }

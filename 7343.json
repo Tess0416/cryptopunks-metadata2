@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2966,
+      "value": 6128,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 182.71,
+      "value": 101.72,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Tassle Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Bandana"
     }
   ]
 }

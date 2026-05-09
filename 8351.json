@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7826,
+      "value": 8972,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 87.89,
+      "value": 59.82,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Eye Patch"
     }
   ]
 }

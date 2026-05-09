@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3274,
+      "value": 6902,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 174.47,
+      "value": 91.59,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Luxurious Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Cigarette"
     }
   ]
 }

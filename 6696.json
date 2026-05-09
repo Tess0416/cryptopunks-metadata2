@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6614,
+      "value": 3832,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 107.07,
+      "value": 139.55,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Peak Spike"
     }
   ]
 }

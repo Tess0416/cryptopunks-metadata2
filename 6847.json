@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 404,
+      "value": 2768,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 344.29,
+      "value": 169.58,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Cowboy Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Big Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Small Shades"
     }
   ]
 }

@@ -10,26 +10,26 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3305,
+      "value": 1427,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 173.75,
+      "value": 243.29,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Messy Hair"
     },
     {
       "trait_type": "Accessory",
@@ -37,7 +37,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Spots"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Dark Hair"
     }
   ]
 }

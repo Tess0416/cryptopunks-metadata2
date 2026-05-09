@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2786,
+      "value": 8104,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 188.62,
+      "value": 74.15,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Goat"
     }
   ]
 }

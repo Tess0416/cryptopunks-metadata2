@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3260,
+      "value": 5630,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 174.64,
+      "value": 108.53,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Shadow Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Pipe"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Fedora"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8624,
+      "value": 9751,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 72.37,
+      "value": 43.22,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Black Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Stringy Hair"
     }
   ]
 }

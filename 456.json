@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6788,
+      "value": 6769,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 104.35,
+      "value": 92.9,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Straight Hair Blonde"
     }
   ]
 }

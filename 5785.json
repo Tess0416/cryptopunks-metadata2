@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3283,
+      "value": 4539,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 174.25,
+      "value": 126.07,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Purple Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Silver Chain"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4738,
+      "value": 5093,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 139.95,
+      "value": 115.77,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Regular Shades"
     }
   ]
 }

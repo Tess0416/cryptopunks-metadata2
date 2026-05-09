@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 727,
+      "value": 2813,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 301.75,
+      "value": 167.9,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Mustache"
     }
   ]
 }

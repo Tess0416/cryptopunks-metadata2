@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6884,
+      "value": 5222,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 102.75,
+      "value": 113.55,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Frumpy Hair"
+      "value": "Frown"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "Handlebars"
     }
   ]
 }

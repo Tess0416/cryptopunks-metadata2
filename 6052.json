@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7453,
+      "value": 621,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 95.02,
+      "value": 300.16,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Pilot Helmet"
     }
   ]
 }

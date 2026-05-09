@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 711,
+      "value": 5184,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 303.3,
+      "value": 114.07,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Big Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Mohawk"
     }
   ]
 }

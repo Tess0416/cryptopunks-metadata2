@@ -6,38 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6237,
+      "value": 260,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 111.45,
+      "value": 357.06,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Silver Chain"
     }
   ]
 }

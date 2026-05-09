@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2673,
+      "value": 2540,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 193.32,
+      "value": 179.22,
       "display_type": "number"
     },
     {
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Frown"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Normal Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Front Beard Dark"
     }
   ]
 }

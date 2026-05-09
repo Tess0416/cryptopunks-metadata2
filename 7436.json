@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2689,
+      "value": 7120,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 192.44,
+      "value": 88.84,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Bandana"
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Small Shades"
     }
   ]
 }

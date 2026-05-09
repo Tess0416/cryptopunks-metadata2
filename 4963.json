@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4575,
+      "value": 871,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 142.3,
+      "value": 280.3,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Rosy Cheeks"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Tiara"
     }
   ]
 }

@@ -10,21 +10,21 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2343,
+      "value": 1607,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 208.34,
+      "value": 230.74,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
@@ -33,11 +33,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Red Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Green Eye Shadow"
     }
   ]
 }

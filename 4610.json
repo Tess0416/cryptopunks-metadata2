@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9572,
+      "value": 8869,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 53.32,
+      "value": 61.51,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Big Shades"
     }
   ]
 }

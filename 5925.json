@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1403,
+      "value": 7432,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 255.24,
+      "value": 84.03,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Blue Eye Shadow"
     }
   ]
 }

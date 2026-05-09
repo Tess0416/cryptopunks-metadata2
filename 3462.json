@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1040,
+      "value": 2158,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 278.54,
+      "value": 198.98,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Wild Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Purple Hair"
     }
   ]
 }

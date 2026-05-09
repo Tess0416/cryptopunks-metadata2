@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9184,
+      "value": 5443,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 61.95,
+      "value": 110.73,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Regular Shades"
     }
   ]
 }

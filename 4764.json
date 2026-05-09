@@ -6,46 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1185,
+      "value": 3141,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 268.48,
+      "value": 157.23,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 5,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Buck Teeth"
     }
   ]
 }

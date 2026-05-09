@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2882,
+      "value": 9197,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 185.75,
+      "value": 56.06,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Front Beard Dark"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Buck Teeth"
     }
   ]
 }

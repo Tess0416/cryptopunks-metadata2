@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4973,
+      "value": 3445,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 135.18,
+      "value": 148.78,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Shadow Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Hoodie"
     }
   ]
 }

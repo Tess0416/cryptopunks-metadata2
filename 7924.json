@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8408,
+      "value": 3796,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 77.19,
+      "value": 140.36,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Handlebars"
     }
   ]
 }

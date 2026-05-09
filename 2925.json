@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7226,
+      "value": 9690,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 97.74,
+      "value": 45.18,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Eye Patch"
     }
   ]
 }

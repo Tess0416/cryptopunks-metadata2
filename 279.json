@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7854,
+      "value": 9483,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 87.46,
+      "value": 50.35,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Eye Patch"
     }
   ]
 }

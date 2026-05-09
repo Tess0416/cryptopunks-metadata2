@@ -6,38 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8118,
+      "value": 318,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 82.33,
+      "value": 339.74,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Small Shades"
     }
   ]
 }

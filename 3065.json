@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 963,
+      "value": 4516,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 283.95,
+      "value": 126.64,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Buck Teeth"
     }
   ]
 }

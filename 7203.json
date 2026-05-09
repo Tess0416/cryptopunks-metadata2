@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6014,
+      "value": 7086,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 114.94,
+      "value": 89.32,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Black Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Purple Eye Shadow"
     }
   ]
 }

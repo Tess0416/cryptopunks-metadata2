@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6948,
+      "value": 6545,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 101.59,
+      "value": 95.61,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Normal Beard"
     }
   ]
 }

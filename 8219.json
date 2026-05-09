@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Ape"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3422,
+      "value": 80,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 170.66,
+      "value": 473.42,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Legendary"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "3D Glasses"
     }
   ]
 }

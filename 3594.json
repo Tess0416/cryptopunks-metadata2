@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4505,
+      "value": 6670,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 143.71,
+      "value": 94.23,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Half Shaved"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Bandana"
     }
   ]
 }

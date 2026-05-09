@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9241,
+      "value": 8396,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 61.08,
+      "value": 69.34,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Pipe"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
+      "value": "Muttonchops"
     }
   ]
 }

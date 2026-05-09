@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2917,
+      "value": 6091,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 184.52,
+      "value": 102.18,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
@@ -41,7 +41,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Shadow Beard"
     }
   ]
 }

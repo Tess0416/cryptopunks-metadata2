@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4453,
+      "value": 3605,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 144.79,
+      "value": 144.45,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "3D Glasses"
     }
   ]
 }

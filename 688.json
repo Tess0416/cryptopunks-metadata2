@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6913,
+      "value": 5447,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 102.23,
+      "value": 110.69,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Shadow Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Big Beard"
     }
   ]
 }

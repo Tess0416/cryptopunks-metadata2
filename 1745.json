@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 302,
+      "value": 3457,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 365.61,
+      "value": 148.53,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Clown Hair Green"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Purple Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Mole"
     }
   ]
 }

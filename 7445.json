@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9166,
+      "value": 2091,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 62.13,
+      "value": 203.44,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Black Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Tiara"
     }
   ]
 }

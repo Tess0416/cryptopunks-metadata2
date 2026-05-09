@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 747,
+      "value": 7568,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 300.09,
+      "value": 81.87,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Front Beard Dark"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Hoodie"
     }
   ]
 }

@@ -10,34 +10,42 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2579,
+      "value": 156,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 197.47,
+      "value": 395.11,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Bandana"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Black Lipstick"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Straight Hair Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Orange Side"
     }
   ]
 }

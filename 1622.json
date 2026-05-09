@@ -6,34 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9985,
+      "value": 4218,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 31.17,
+      "value": 131.49,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Mole"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Goat"
     }
   ]
 }

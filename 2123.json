@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3361,
+      "value": 4967,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 172.32,
+      "value": 118.07,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Big Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Cigarette"
     }
   ]
 }

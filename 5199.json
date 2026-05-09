@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9858,
+      "value": 9614,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 42.95,
+      "value": 47.07,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Messy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frumpy Hair"
+      "value": "Classic Shades"
     }
   ]
 }

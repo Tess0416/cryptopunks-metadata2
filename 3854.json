@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2148,
+      "value": 5843,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 215.87,
+      "value": 105.79,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Front Beard Dark"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1693,
+      "value": 859,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 239.73,
+      "value": 280.87,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "VR"
     }
   ]
 }

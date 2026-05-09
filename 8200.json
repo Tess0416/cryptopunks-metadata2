@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1275,
+      "value": 2096,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 262.28,
+      "value": 203.05,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Clown Nose"
     }
   ]
 }

@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6930,
+      "value": 3535,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 101.9,
+      "value": 146.34,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Wild White Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Vape"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5266,
+      "value": 7144,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 129.87,
+      "value": 88.59,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Front Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Clown Nose"
     }
   ]
 }

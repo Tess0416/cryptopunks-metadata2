@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 598,
+      "value": 5018,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 318.28,
+      "value": 117.26,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Clown Nose"
     }
   ]
 }

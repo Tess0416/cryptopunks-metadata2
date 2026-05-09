@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7554,
+      "value": 8140,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 93.36,
+      "value": 73.68,
       "display_type": "number"
     },
     {
@@ -24,16 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Bandana"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Eye Patch"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1128,
+      "value": 877,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 271.86,
+      "value": 279.86,
       "display_type": "number"
     },
     {
@@ -33,15 +33,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Blonde Short"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Purple Eye Shadow"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4655,
+      "value": 6447,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 141.14,
+      "value": 97.06,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Normal Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "VR"
     }
   ]
 }

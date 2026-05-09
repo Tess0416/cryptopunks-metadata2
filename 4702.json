@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4624,
+      "value": 7663,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 141.62,
+      "value": 80.35,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Purple Eye Shadow"
     }
   ]
 }

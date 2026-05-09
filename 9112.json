@@ -10,30 +10,22 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 323,
+      "value": 9199,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 361.03,
+      "value": 56.06,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 2,
       "display_type": "number"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Cowboy Hat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
@@ -41,7 +33,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Front Beard Dark"
     }
   ]
 }

@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9830,
+      "value": 3235,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 44.59,
+      "value": 154.09,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Blonde Bob"
     }
   ]
 }

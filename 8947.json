@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 141,
+      "value": 8036,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 435.36,
+      "value": 74.97,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Cigarette"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Small Shades"
     }
   ]
 }

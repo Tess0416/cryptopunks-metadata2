@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 146,
+      "value": 333,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 430.29,
+      "value": 337.42,
       "display_type": "number"
     },
     {
@@ -24,28 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 5,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Red Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Small Shades"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Medical Mask"
     },
     {
       "trait_type": "Accessory",
       "value": "Tiara"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Bandana"
     }
   ]
 }

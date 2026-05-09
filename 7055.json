@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9045,
+      "value": 5868,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 64.52,
+      "value": 105.39,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Blonde Short"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
     }
   ]
 }

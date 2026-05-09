@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2470,
+      "value": 7529,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 201.69,
+      "value": 82.55,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Tassle Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Earring"
     }
   ]
 }

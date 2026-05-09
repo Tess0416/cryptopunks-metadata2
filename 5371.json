@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4649,
+      "value": 6798,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 141.21,
+      "value": 92.47,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Regular Shades"
     }
   ]
 }

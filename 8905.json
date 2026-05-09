@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6404,
+      "value": 6079,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 109.45,
+      "value": 102.28,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Frown"
     }
   ]
 }

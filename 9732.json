@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8708,
+      "value": 3100,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 70.37,
+      "value": 158.54,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Fedora"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Spots"
     }
   ]
 }

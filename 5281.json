@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4395,
+      "value": 3145,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 146.05,
+      "value": 157.12,
       "display_type": "number"
     },
     {
@@ -33,11 +33,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Normal Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
+      "value": "Spots"
     }
   ]
 }

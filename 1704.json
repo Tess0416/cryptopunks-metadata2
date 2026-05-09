@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2407,
+      "value": 482,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 205.05,
+      "value": 316.96,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Frown"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Clown Nose"
     }
   ]
 }

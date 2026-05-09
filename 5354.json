@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2058,
+      "value": 8524,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 219.86,
+      "value": 66.92,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Cap"
     }
   ]
 }

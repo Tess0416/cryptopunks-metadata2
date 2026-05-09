@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9000,
+      "value": 4041,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 65.1,
+      "value": 135.33,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Dark Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Straight Hair"
     }
   ]
 }

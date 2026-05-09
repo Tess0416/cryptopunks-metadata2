@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8037,
+      "value": 6132,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 84.05,
+      "value": 101.67,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Vape"
     }
   ]
 }

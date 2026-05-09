@@ -6,30 +6,26 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 806,
+      "value": 6410,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 293.73,
+      "value": 97.51,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Orange Side"
     },
     {
       "trait_type": "Accessory",
@@ -37,11 +33,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Buck Teeth"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Clown Nose"
     }
   ]
 }

@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6482,
+      "value": 734,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 108.39,
+      "value": 290.12,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Front Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Pilot Helmet"
     }
   ]
 }

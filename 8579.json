@@ -6,26 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2706,
+      "value": 1275,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 191.38,
+      "value": 252.56,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 5,
       "display_type": "number"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Goat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
@@ -33,11 +45,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Fedora"
     }
   ]
 }

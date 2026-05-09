@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7109,
+      "value": 793,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 99.26,
+      "value": 285.92,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Chinstrap"
     }
   ]
 }

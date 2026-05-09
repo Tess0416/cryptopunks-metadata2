@@ -6,30 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Ape"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 82,
+      "value": 1370,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 506.98,
+      "value": 247.51,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Legendary"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Half Shaved"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Hot Lipstick"
     },
     {
       "trait_type": "Accessory",
@@ -37,7 +45,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Blue Eye Shadow"
     }
   ]
 }

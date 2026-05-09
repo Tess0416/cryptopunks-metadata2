@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5650,
+      "value": 5469,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 121.76,
+      "value": 110.44,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Top Hat"
     }
   ]
 }

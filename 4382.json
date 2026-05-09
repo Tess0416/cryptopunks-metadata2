@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6403,
+      "value": 7933,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 109.45,
+      "value": 76.71,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Handlebars"
     }
   ]
 }

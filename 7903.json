@@ -6,38 +6,46 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Zombie"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 650,
+      "value": 2494,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 310.62,
+      "value": 180.73,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Handlebars"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigarette"
     }
   ]
 }

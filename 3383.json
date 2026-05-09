@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 774,
+      "value": 1797,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 297.24,
+      "value": 220.17,
       "display_type": "number"
     },
     {
@@ -24,28 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 5,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Orange Side"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Purple Eye Shadow"
     },
     {
       "trait_type": "Accessory",
       "value": "VR"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Big Shades"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Wild White Hair"
     }
   ]
 }

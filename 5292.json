@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5104,
+      "value": 8911,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 132.81,
+      "value": 60.74,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
       "value": "Front Beard Dark"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Silver Chain"
     }
   ]
 }

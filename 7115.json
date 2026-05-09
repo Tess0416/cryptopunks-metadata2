@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2007,
+      "value": 4187,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 222.19,
+      "value": 131.99,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Straight Hair Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "3D Glasses"
     }
   ]
 }

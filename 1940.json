@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Zombie"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1776,
+      "value": 2234,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 234.86,
+      "value": 194.55,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Eye Patch"
     }
   ]
 }

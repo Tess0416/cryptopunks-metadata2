@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7271,
+      "value": 8862,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 97.23,
+      "value": 61.7,
       "display_type": "number"
     },
     {
@@ -24,20 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Blue Eye Shadow"
     },
     {
       "trait_type": "Accessory",
       "value": "Horned Rim Glasses"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Luxurious Beard"
     }
   ]
 }

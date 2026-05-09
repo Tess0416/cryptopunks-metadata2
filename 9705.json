@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9574,
+      "value": 9433,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 53.32,
+      "value": 51.12,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Headband"
     }
   ]
 }

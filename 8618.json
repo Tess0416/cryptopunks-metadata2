@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 502,
+      "value": 7656,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 330,
+      "value": 80.46,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "3D Glasses"
     }
   ]
 }

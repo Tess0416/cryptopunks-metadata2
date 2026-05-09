@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 674,
+      "value": 928,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 306.87,
+      "value": 275.38,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Tiara"
     }
   ]
 }

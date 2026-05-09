@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3675,
+      "value": 4603,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 163.93,
+      "value": 124.85,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "VR"
     }
   ]
 }

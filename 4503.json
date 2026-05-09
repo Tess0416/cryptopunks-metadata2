@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4717,
+      "value": 4795,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 140.39,
+      "value": 120.9,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Spots"
     }
   ]
 }

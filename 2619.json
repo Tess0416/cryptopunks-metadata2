@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5074,
+      "value": 419,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 133.3,
+      "value": 323.61,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Rosy Cheeks"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Wild White Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Straight Hair Dark"
     }
   ]
 }

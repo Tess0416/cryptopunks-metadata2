@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7098,
+      "value": 6336,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 99.43,
+      "value": 98.57,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Normal Beard Black"
     }
   ]
 }

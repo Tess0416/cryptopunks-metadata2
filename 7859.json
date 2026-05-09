@@ -10,38 +10,22 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1768,
+      "value": 13,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 235.8,
+      "value": 1251.98,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Legendary"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 0,
       "display_type": "number"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Small Shades"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Headband"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Cowboy Hat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Pink With Hat"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4235,
+      "value": 4690,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 149.86,
+      "value": 123.14,
       "display_type": "number"
     },
     {
@@ -24,20 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Buck Teeth"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7599,
+      "value": 5910,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 92.58,
+      "value": 104.86,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Front Beard"
     }
   ]
 }

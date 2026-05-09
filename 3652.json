@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8795,
+      "value": 1463,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 68.66,
+      "value": 240.56,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Purple Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Wild Blonde"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Silver Chain"
     }
   ]
 }

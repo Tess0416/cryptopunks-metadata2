@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9143,
+      "value": 6678,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 62.63,
+      "value": 94.15,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Headband"
     }
   ]
 }

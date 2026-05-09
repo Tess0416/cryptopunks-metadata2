@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Alien"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1682,
+      "value": 17,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 240.35,
+      "value": 1241.14,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Legendary"
     },
     {
       "trait_type": "Attribute Count",
@@ -28,8 +28,7 @@
       "display_type": "number"
     },
     {
-      "trait_type": "Accessory",
-      "value": "Choker"
+      "trait_type": "Accessory"
     }
   ]
 }

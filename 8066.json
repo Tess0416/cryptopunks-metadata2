@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8432,
+      "value": 8390,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 76.89,
+      "value": 69.46,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Blue Eye Shadow"
     }
   ]
 }

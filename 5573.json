@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Alien"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 31,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 1173.54,
+      "value": 1374.34,
       "display_type": "number"
     },
     {
@@ -24,16 +24,32 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 6,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Choker"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Straight Hair Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Straight Hair Blonde"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Blonde Short"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Messy Hair"
     }
   ]
 }

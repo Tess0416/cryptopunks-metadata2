@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7256,
+      "value": 8511,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 97.45,
+      "value": 67.02,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Crazy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Green Eye Shadow"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8981,
+      "value": 7561,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 65.44,
+      "value": 82.08,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "Clown Nose"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6099,
+      "value": 4101,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 113.51,
+      "value": 133.8,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
       "value": "Gold Chain"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Mole"
     }
   ]
 }

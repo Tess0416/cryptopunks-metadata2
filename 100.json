@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8736,
+      "value": 7720,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 69.88,
+      "value": 79.49,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Gold Chain"
     }
   ]
 }

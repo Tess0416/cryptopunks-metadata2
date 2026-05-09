@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7497,
+      "value": 895,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 94.31,
+      "value": 277.85,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Choker"
     }
   ]
 }

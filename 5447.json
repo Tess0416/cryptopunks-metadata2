@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9936,
+      "value": 9529,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 36.94,
+      "value": 49.35,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Nerd Glasses"
     }
   ]
 }

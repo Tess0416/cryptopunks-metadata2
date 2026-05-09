@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9632,
+      "value": 3049,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 51.75,
+      "value": 159.88,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Straight Hair Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Clown Hair Green"
     }
   ]
 }

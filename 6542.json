@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4805,
+      "value": 5385,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 138.53,
+      "value": 111.13,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
       "value": "Gold Chain"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Tassle Hat"
     }
   ]
 }

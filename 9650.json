@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8738,
+      "value": 9697,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 69.88,
+      "value": 44.95,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Mohawk"
     }
   ]
 }

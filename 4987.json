@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8067,
+      "value": 8248,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 83.34,
+      "value": 71.8,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Pipe"
     }
   ]
 }

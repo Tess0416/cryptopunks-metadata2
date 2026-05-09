@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 407,
+      "value": 3977,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 343.92,
+      "value": 136.74,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Frown"
     }
   ]
 }

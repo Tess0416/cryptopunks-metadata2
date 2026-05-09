@@ -10,30 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8495,
+      "value": 169,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 75.36,
+      "value": 388.54,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Blonde Bob"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Choker"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Straight Hair Blonde"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "3D Glasses"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1525,
+      "value": 5168,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 249.13,
+      "value": 114.34,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Hot Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Clown Hair Green"
     }
   ]
 }

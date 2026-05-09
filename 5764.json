@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9017,
+      "value": 7280,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 64.96,
+      "value": 86.64,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Gold Chain"
     }
   ]
 }

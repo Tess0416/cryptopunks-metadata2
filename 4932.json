@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6933,
+      "value": 5515,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 101.89,
+      "value": 110.05,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Big Beard"
     }
   ]
 }

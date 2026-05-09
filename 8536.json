@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4751,
+      "value": 2161,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 139.7,
+      "value": 198.89,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Wild Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Orange Side"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Headband"
     }
   ]
 }

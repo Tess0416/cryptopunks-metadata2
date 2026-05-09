@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4455,
+      "value": 128,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 144.78,
+      "value": 417.32,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "Choker"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Regular Shades"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5378,
+      "value": 6473,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 127.93,
+      "value": 96.69,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Knitted Cap"
     }
   ]
 }

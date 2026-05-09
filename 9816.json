@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9705,
+      "value": 5166,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 49.69,
+      "value": 114.37,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Dark Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Crazy Hair"
     }
   ]
 }

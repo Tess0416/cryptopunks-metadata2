@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2346,
+      "value": 7025,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 208.17,
+      "value": 90.19,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Crazy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Medical Mask"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Earring"
     }
   ]
 }

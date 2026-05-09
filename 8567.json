@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2197,
+      "value": 9392,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 213.83,
+      "value": 51.93,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Classic Shades"
     }
   ]
 }

@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 705,
+      "value": 4197,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 303.89,
+      "value": 131.9,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Dark Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Black Lipstick"
     }
   ]
 }

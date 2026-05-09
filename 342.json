@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5148,
+      "value": 5358,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 132.14,
+      "value": 111.57,
       "display_type": "number"
     },
     {
@@ -24,20 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Goat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Headband"
     }
   ]
 }

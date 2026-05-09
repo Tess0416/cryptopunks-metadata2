@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6455,
+      "value": 94,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 108.69,
+      "value": 454.69,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Legendary"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Pilot Helmet"
     }
   ]
 }

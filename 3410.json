@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5621,
+      "value": 9585,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 122.54,
+      "value": 47.8,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Stringy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Bandana"
     }
   ]
 }

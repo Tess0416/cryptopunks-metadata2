@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7317,
+      "value": 8397,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 96.61,
+      "value": 69.34,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Pipe"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Muttonchops"
     }
   ]
 }

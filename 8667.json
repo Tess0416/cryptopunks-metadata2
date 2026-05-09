@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4366,
+      "value": 8413,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 146.62,
+      "value": 68.83,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Pipe"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
+      "value": "Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Cigarette"
     }
   ]
 }

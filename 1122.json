@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5624,
+      "value": 4512,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 122.42,
+      "value": 126.65,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Cowboy Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Horned Rim Glasses"
     }
   ]
 }

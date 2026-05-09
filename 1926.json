@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 709,
+      "value": 2834,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 303.62,
+      "value": 166.99,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Red Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "3D Glasses"
     }
   ]
 }

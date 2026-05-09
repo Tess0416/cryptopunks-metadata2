@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4204,
+      "value": 6825,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 150.39,
+      "value": 92.29,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "3D Glasses"
     }
   ]
 }

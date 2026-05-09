@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3939,
+      "value": 4134,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 156.79,
+      "value": 133.15,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Small Shades"
     }
   ]
 }

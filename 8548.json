@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9018,
+      "value": 9886,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 64.95,
+      "value": 39.29,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Buck Teeth"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Eye Patch"
     }
   ]
 }

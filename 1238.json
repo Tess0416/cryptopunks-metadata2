@@ -6,42 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1145,
+      "value": 5427,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 270.8,
+      "value": 110.78,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Hoodie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Muttonchops"
     }
   ]
 }

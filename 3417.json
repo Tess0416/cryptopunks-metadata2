@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 75,
+      "value": 3873,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 517.94,
+      "value": 138.77,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Legendary"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Nerd Glasses"
     }
   ]
 }

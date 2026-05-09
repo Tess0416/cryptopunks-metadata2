@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2516,
+      "value": 5829,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 200.1,
+      "value": 105.98,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Normal Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Horned Rim Glasses"
     }
   ]
 }

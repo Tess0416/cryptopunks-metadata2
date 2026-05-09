@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2350,
+      "value": 6451,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 207.93,
+      "value": 96.98,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Normal Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Hoodie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Classic Shades"
     }
   ]
 }

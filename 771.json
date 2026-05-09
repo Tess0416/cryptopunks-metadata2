@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9875,
+      "value": 5647,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 42.19,
+      "value": 108.25,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Big Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "3D Glasses"
     }
   ]
 }

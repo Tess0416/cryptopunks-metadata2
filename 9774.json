@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7569,
+      "value": 5473,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 93.21,
+      "value": 110.44,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Horned Rim Glasses"
     }
   ]
 }

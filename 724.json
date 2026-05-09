@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5578,
+      "value": 9038,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 123.61,
+      "value": 58.49,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Regular Shades"
     }
   ]
 }

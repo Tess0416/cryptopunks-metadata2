@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Zombie"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3543,
+      "value": 125,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 167.24,
+      "value": 421.4,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Top Hat"
     }
   ]
 }

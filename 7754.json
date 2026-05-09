@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4405,
+      "value": 7673,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 145.9,
+      "value": 80.25,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Eye Patch"
     }
   ]
 }

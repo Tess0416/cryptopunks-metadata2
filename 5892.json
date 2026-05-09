@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3751,
+      "value": 2266,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 162.11,
+      "value": 192.65,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Silver Chain"
     }
   ]
 }

@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5513,
+      "value": 3332,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 124.81,
+      "value": 151.62,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Dark Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Straight Hair Blonde"
     }
   ]
 }

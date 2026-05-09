@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2543,
+      "value": 2936,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 199.14,
+      "value": 163.16,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Medical Mask"
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Straight Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "3D Glasses"
     }
   ]
 }

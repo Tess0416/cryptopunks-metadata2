@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1142,
+      "value": 1154,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 270.86,
+      "value": 259.1,
       "display_type": "number"
     },
     {
@@ -24,28 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 5,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Blue Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Pigtails"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Red Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Green Eye Shadow"
     }
   ]
 }

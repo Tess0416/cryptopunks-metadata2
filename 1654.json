@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1643,
+      "value": 956,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 243.23,
+      "value": 272.9,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Clown Hair Green"
     }
   ]
 }

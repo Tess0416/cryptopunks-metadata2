@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9046,
+      "value": 6978,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 64.52,
+      "value": 90.69,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Vape"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Regular Shades"
     }
   ]
 }

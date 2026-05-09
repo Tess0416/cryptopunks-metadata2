@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6368,
+      "value": 6782,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 109.84,
+      "value": 92.76,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Cigarette"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Regular Shades"
     }
   ]
 }

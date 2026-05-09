@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2342,
+      "value": 1347,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 208.35,
+      "value": 249.15,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Pilot Helmet"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 718,
+      "value": 5096,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 302.33,
+      "value": 115.72,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Straight Hair Dark"
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Horned Rim Glasses"
     }
   ]
 }

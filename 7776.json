@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3890,
+      "value": 6135,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 158.5,
+      "value": 101.65,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Hoodie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Luxurious Beard"
     }
   ]
 }

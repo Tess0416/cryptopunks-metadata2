@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6209,
+      "value": 1959,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 111.83,
+      "value": 210.96,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Blonde Short"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Wild Blonde"
     }
   ]
 }

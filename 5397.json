@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4680,
+      "value": 2958,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 140.91,
+      "value": 162.72,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Frumpy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Medical Mask"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Rosy Cheeks"
     }
   ]
 }

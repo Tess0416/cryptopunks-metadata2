@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4604,
+      "value": 7851,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 141.96,
+      "value": 77.54,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Mustache"
     }
   ]
 }

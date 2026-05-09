@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3485,
+      "value": 235,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 168.75,
+      "value": 361.64,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Choker"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Dark Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Bandana"
     }
   ]
 }

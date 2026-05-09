@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3623,
+      "value": 2439,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 165.46,
+      "value": 182.97,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Messy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Wild Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Top Hat"
     }
   ]
 }

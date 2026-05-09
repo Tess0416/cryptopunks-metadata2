@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5282,
+      "value": 1191,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 129.61,
+      "value": 257.57,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Pipe"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Front Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Pilot Helmet"
     }
   ]
 }

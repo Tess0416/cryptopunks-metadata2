@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9944,
+      "value": 6596,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 36.29,
+      "value": 95.12,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
       "value": "Big Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Chinstrap"
     }
   ]
 }

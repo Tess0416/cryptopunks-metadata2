@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1256,
+      "value": 5553,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 264.45,
+      "value": 109.68,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "VR"
     }
   ]
 }

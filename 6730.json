@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3988,
+      "value": 2732,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 155.5,
+      "value": 171,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Red Mohawk"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Half Shaved"
     }
   ]
 }

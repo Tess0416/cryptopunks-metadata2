@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6450,
+      "value": 7089,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 108.77,
+      "value": 89.25,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "Small Shades"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3921,
+      "value": 2770,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 157.36,
+      "value": 169.56,
       "display_type": "number"
     },
     {
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Headband"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
       "value": "Clown Nose"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Mohawk"
     }
   ]
 }

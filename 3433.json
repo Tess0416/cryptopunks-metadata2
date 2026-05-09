@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8104,
+      "value": 7117,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 82.67,
+      "value": 88.9,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Peak Spike"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Big Shades"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8531,
+      "value": 7061,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 74.5,
+      "value": 89.66,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Blue Eye Shadow"
     }
   ]
 }

@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1996,
+      "value": 99,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 222.75,
+      "value": 452.12,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Legendary"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Medical Mask"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Choker"
     }
   ]
 }

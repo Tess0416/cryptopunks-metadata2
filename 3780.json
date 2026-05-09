@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6528,
+      "value": 9736,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 107.82,
+      "value": 43.69,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Regular Shades"
     }
   ]
 }

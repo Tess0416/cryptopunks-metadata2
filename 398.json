@@ -6,34 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9962,
+      "value": 443,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 34.9,
+      "value": 320.9,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Straight Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Tiara"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Blonde Bob"
     }
   ]
 }

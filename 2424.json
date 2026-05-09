@@ -6,38 +6,46 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Zombie"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1633,
+      "value": 149,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 243.55,
+      "value": 397.28,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Tassle Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Pigtails"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Top Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Straight Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Horned Rim Glasses"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4691,
+      "value": 3088,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 140.82,
+      "value": 158.94,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Straight Hair Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Straight Hair Dark"
     }
   ]
 }

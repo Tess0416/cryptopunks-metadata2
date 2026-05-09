@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1606,
+      "value": 586,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 245.4,
+      "value": 302.47,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Messy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Choker"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Straight Hair Dark"
     }
   ]
 }

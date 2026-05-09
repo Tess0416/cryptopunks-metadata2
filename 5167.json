@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7794,
+      "value": 798,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 88.52,
+      "value": 285.59,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Front Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Nerd Glasses"
     }
   ]
 }

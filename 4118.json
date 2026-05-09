@@ -10,46 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 36,
+      "value": 778,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 1134.77,
+      "value": 286.94,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Legendary"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 6,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Mohawk"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Chinstrap"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Horned Rim Glasses"
     }
   ]
 }

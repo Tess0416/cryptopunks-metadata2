@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7887,
+      "value": 4098,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 87.01,
+      "value": 133.88,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Gold Chain"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1161,
+      "value": 947,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 269.93,
+      "value": 273.46,
       "display_type": "number"
     },
     {
@@ -24,16 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Medical Mask"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Tiara"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3823,
+      "value": 5156,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 160.42,
+      "value": 114.46,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Front Beard"
     }
   ]
 }

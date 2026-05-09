@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5100,
+      "value": 9136,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 132.92,
+      "value": 57.09,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Earring"
     }
   ]
 }

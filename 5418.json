@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9356,
+      "value": 5833,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 58.55,
+      "value": 105.94,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Chinstrap"
     }
   ]
 }

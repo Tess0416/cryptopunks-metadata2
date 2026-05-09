@@ -10,26 +10,26 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4116,
+      "value": 5482,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 152.54,
+      "value": 110.37,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
@@ -37,11 +37,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Normal Beard"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9305,
+      "value": 7991,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 59.54,
+      "value": 75.82,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Muttonchops"
     }
   ]
 }

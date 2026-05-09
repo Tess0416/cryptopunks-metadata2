@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5366,
+      "value": 8307,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 128.16,
+      "value": 70.59,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Normal Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Pipe"
     }
   ]
 }

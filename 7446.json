@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5671,
+      "value": 4824,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 121.34,
+      "value": 120.41,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Shadow Beard"
     }
   ]
 }

@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6886,
+      "value": 4586,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 102.73,
+      "value": 125.19,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Purple Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Gold Chain"
     }
   ]
 }

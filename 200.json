@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1591,
+      "value": 1812,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 246.08,
+      "value": 219.72,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Red Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Straight Hair"
     }
   ]
 }

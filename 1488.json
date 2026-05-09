@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7312,
+      "value": 7647,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 96.64,
+      "value": 80.52,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Shadow Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Hoodie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Big Shades"
     }
   ]
 }

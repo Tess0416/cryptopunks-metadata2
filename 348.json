@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1552,
+      "value": 8975,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 247.75,
+      "value": 59.77,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Hot Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Stringy Hair"
     }
   ]
 }

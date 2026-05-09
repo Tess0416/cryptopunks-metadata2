@@ -10,22 +10,26 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4301,
+      "value": 6796,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 148.08,
+      "value": 92.55,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
@@ -33,7 +37,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Small Shades"
     }
   ]
 }

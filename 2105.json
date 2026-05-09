@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1167,
+      "value": 6834,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 269.31,
+      "value": 92.13,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Red Mohawk"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3386,
+      "value": 1002,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 171.61,
+      "value": 269.82,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Choker"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "3D Glasses"
     }
   ]
 }

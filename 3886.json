@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7983,
+      "value": 8526,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 85.1,
+      "value": 66.85,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Stringy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Messy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Horned Rim Glasses"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 708,
+      "value": 6042,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 303.73,
+      "value": 102.83,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Black Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Frumpy Hair"
     }
   ]
 }

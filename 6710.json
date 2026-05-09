@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5993,
+      "value": 6951,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 115.28,
+      "value": 90.98,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Eye Patch"
     }
   ]
 }

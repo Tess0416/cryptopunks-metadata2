@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9250,
+      "value": 5588,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 60.8,
+      "value": 109.23,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Blue Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Straight Hair"
     }
   ]
 }

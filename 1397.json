@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8056,
+      "value": 5745,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 83.6,
+      "value": 107.16,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Gold Chain"
     }
   ]
 }

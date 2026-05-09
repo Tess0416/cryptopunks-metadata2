@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8954,
+      "value": 7152,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 65.77,
+      "value": 88.48,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Chinstrap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "VR"
     }
   ]
 }

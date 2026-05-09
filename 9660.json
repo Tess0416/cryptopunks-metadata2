@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6645,
+      "value": 9401,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 106.72,
+      "value": 51.74,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Headband"
     }
   ]
 }

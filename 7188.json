@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5631,
+      "value": 9657,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 122.07,
+      "value": 46.16,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Horned Rim Glasses"
     }
   ]
 }

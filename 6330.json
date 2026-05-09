@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5530,
+      "value": 6055,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 124.49,
+      "value": 102.77,
       "display_type": "number"
     },
     {
@@ -24,12 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",

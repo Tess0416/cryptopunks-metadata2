@@ -6,38 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1232,
+      "value": 5017,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 265.98,
+      "value": 117.27,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Front Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Horned Rim Glasses"
     }
   ]
 }

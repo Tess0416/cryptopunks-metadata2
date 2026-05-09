@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1060,
+      "value": 7911,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 277.23,
+      "value": 76.93,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "VR"
     }
   ]
 }

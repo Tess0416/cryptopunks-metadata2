@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 418,
+      "value": 2875,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 341.27,
+      "value": 165.48,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Hoodie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Spots"
     }
   ]
 }

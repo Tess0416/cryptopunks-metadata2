@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4639,
+      "value": 6623,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 141.41,
+      "value": 94.82,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Front Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Knitted Cap"
     }
   ]
 }

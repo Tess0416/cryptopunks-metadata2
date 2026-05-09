@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 635,
+      "value": 2350,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 314.18,
+      "value": 188.43,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Red Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Green Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Rosy Cheeks"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 685,
+      "value": 2476,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 305.67,
+      "value": 181.38,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Black Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Tassle Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Wild White Hair"
     }
   ]
 }

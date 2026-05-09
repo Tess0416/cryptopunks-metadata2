@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4248,
+      "value": 6481,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 149.43,
+      "value": 96.58,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Handlebars"
     }
   ]
 }

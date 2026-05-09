@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1444,
+      "value": 5867,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 253.49,
+      "value": 105.44,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Pipe"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Luxurious Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Mustache"
     }
   ]
 }

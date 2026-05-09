@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 408,
+      "value": 1717,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 343.72,
+      "value": 225.2,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Tassle Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Green Eye Shadow"
     }
   ]
 }

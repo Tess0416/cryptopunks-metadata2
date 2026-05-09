@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2116,
+      "value": 932,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 217.18,
+      "value": 275.02,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Small Shades"
     }
   ]
 }

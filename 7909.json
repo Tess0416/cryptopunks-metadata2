@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1018,
+      "value": 323,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 280.78,
+      "value": 338.84,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Wild Blonde"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Medical Mask"
     },
     {
       "trait_type": "Accessory",
       "value": "Tiara"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Gold Chain"
     }
   ]
 }

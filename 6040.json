@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4234,
+      "value": 2670,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 149.88,
+      "value": 173.68,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Wild White Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Silver Chain"
     }
   ]
 }

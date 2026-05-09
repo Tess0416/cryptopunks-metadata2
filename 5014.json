@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2170,
+      "value": 3348,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 214.7,
+      "value": 151.36,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Pipe"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Spots"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8045,
+      "value": 5699,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 83.92,
+      "value": 107.67,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Normal Beard Black"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Luxurious Beard"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 720,
+      "value": 6414,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 302.15,
+      "value": 97.43,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Chinstrap"
     }
   ]
 }

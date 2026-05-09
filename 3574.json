@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4408,
+      "value": 3404,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 145.85,
+      "value": 149.76,
       "display_type": "number"
     },
     {
@@ -24,8 +24,12 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
@@ -33,11 +37,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Big Shades"
     }
   ]
 }

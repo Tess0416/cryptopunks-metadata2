@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9273,
+      "value": 9217,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 60.47,
+      "value": 55.62,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Buck Teeth"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Handlebars"
     }
   ]
 }

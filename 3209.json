@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9556,
+      "value": 2611,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 53.65,
+      "value": 176.63,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Orange Side"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Crazy Hair"
     }
   ]
 }

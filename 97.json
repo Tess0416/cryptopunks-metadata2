@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8798,
+      "value": 6886,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 68.55,
+      "value": 91.71,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Normal Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Do-rag"
     }
   ]
 }

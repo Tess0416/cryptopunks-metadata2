@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9635,
+      "value": 8816,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 51.73,
+      "value": 62.27,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Purple Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Big Shades"
     }
   ]
 }

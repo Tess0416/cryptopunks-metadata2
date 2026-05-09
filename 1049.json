@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 961,
+      "value": 3018,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 284.01,
+      "value": 160.81,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Wild White Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Hot Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Green Eye Shadow"
     }
   ]
 }

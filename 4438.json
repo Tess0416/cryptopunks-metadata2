@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7603,
+      "value": 6288,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 92.52,
+      "value": 99.01,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Wild Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Crazy Hair"
     }
   ]
 }

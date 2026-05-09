@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8186,
+      "value": 5128,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 81.14,
+      "value": 115.11,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Straight Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
       "value": "Wild Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Luxurious Beard"
     }
   ]
 }

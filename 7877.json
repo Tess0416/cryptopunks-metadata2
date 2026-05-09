@@ -6,26 +6,30 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1458,
+      "value": 5173,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 252.75,
+      "value": 114.24,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
@@ -33,11 +37,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Muttonchops"
     }
   ]
 }

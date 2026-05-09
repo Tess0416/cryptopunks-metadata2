@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1243,
+      "value": 4885,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 265.31,
+      "value": 119.48,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Medical Mask"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Blue Eye Shadow"
     }
   ]
 }

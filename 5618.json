@@ -10,30 +10,26 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4006,
+      "value": 7685,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 155.12,
+      "value": 80.1,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
@@ -41,7 +37,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Do-rag"
     }
   ]
 }

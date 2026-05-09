@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9145,
+      "value": 5591,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 62.61,
+      "value": 109.17,
       "display_type": "number"
     },
     {
@@ -24,16 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Goat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Knitted Cap"
     }
   ]
 }

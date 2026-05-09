@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3272,
+      "value": 8663,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 174.48,
+      "value": 64.8,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Frumpy Hair"
+      "value": "Frown"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Eye Patch"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2435,
+      "value": 3886,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 203.75,
+      "value": 138.55,
       "display_type": "number"
     },
     {
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Hoodie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Big Shades"
     }
   ]
 }

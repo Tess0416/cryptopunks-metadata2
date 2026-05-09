@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5720,
+      "value": 6850,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 120.43,
+      "value": 92.05,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Headband"
     }
   ]
 }

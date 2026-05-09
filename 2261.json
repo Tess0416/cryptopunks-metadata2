@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7986,
+      "value": 8813,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 84.97,
+      "value": 62.27,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Purple Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Big Shades"
     }
   ]
 }

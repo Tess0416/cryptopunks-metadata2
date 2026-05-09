@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5007,
+      "value": 5918,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 134.56,
+      "value": 104.71,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Hoodie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Knitted Cap"
     }
   ]
 }

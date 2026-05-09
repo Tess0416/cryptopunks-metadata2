@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9393,
+      "value": 6088,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 57.93,
+      "value": 102.23,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Do-rag"
     }
   ]
 }

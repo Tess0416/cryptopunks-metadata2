@@ -6,34 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Ape"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7567,
+      "value": 50,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 93.24,
+      "value": 510.09,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Legendary"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Horned Rim Glasses"
     }
   ]
 }

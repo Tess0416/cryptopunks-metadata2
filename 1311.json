@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5613,
+      "value": 7421,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 122.75,
+      "value": 84.21,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Small Shades"
     }
   ]
 }

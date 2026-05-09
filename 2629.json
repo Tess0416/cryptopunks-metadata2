@@ -10,26 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2866,
+      "value": 305,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 186.17,
+      "value": 342.67,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "Pigtails"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
@@ -37,7 +41,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Purple Hair"
     }
   ]
 }

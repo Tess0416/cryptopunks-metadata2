@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1674,
+      "value": 298,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 240.78,
+      "value": 344.54,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Hair Green"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Red Mohawk"
     },
     {
       "trait_type": "Accessory",
       "value": "Tiara"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Mole"
     }
   ]
 }

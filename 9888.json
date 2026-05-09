@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5751,
+      "value": 1375,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 119.86,
+      "value": 247.18,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Tassle Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Purple Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Pigtails"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Hot Lipstick"
     }
   ]
 }

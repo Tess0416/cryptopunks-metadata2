@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7510,
+      "value": 638,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 94.21,
+      "value": 299.02,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Top Hat"
     }
   ]
 }

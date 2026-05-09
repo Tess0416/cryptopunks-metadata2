@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6391,
+      "value": 8640,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 109.54,
+      "value": 65.04,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Green Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Horned Rim Glasses"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8999,
+      "value": 8832,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 65.19,
+      "value": 62.1,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Hoodie"
     }
   ]
 }

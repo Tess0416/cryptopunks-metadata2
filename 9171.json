@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5889,
+      "value": 6058,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 117,
+      "value": 102.65,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Purple Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Mole"
     }
   ]
 }

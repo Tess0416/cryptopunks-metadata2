@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 664,
+      "value": 367,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 308.26,
+      "value": 331.9,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Choker"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Gold Chain"
     }
   ]
 }

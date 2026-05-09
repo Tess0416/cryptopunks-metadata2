@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5791,
+      "value": 5339,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 119.07,
+      "value": 111.7,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Cowboy Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Earring"
     }
   ]
 }

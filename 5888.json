@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5031,
+      "value": 7541,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 134.17,
+      "value": 82.39,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Normal Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Nerd Glasses"
     }
   ]
 }

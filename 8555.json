@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 749,
+      "value": 1223,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 299.7,
+      "value": 255.7,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "Straight Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Blue Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Orange Side"
     }
   ]
 }

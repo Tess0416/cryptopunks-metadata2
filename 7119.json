@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8141,
+      "value": 1145,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 81.97,
+      "value": 259.37,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Cigarette"
     }
   ]
 }

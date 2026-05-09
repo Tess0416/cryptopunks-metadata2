@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9477,
+      "value": 9179,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 56.03,
+      "value": 56.49,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Peak Spike"
     }
   ]
 }

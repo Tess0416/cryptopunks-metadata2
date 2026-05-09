@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4733,
+      "value": 5195,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 140.04,
+      "value": 113.99,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Frown"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Front Beard Dark"
     }
   ]
 }

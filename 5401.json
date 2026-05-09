@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6321,
+      "value": 6905,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 110.53,
+      "value": 91.56,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Muttonchops"
     }
   ]
 }

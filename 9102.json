@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2279,
+      "value": 4459,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 210.32,
+      "value": 127.65,
       "display_type": "number"
     },
     {
@@ -24,20 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Wild Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nerd Glasses"
     }
   ]
 }

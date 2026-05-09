@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 295,
+      "value": 2717,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 368.15,
+      "value": 171.55,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Wild Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Rosy Cheeks"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Straight Hair"
     }
   ]
 }

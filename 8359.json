@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8801,
+      "value": 6101,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 68.51,
+      "value": 102.09,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Pipe"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Peak Spike"
     }
   ]
 }

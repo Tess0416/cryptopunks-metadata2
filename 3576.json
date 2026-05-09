@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4372,
+      "value": 1460,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 146.53,
+      "value": 240.81,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Buck Teeth"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Hoodie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Pilot Helmet"
     }
   ]
 }

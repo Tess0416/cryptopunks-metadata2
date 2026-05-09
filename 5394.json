@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 281,
+      "value": 1913,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 372.07,
+      "value": 213.16,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Straight Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Stringy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Blonde Short"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Purple Eye Shadow"
     }
   ]
 }

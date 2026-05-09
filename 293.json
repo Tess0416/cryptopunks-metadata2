@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7988,
+      "value": 7093,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 84.93,
+      "value": 89.2,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Black Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Silver Chain"
     }
   ]
 }

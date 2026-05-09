@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 565,
+      "value": 6977,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 322.04,
+      "value": 90.69,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Regular Shades"
     }
   ]
 }

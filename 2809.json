@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8143,
+      "value": 9160,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 81.94,
+      "value": 56.77,
       "display_type": "number"
     },
     {
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
@@ -33,11 +33,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Peak Spike"
     }
   ]
 }

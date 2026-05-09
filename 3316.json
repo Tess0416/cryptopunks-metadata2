@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6424,
+      "value": 5798,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 109.02,
+      "value": 106.42,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Normal Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Peak Spike"
     }
   ]
 }

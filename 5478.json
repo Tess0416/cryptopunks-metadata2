@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9434,
+      "value": 8726,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 56.95,
+      "value": 63.62,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "3D Glasses"
     }
   ]
 }

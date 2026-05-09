@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2091,
+      "value": 7365,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 218.3,
+      "value": 85.22,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Regular Shades"
     }
   ]
 }

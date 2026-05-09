@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9569,
+      "value": 7806,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 53.37,
+      "value": 78.07,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Frown"
     }
   ]
 }

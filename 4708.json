@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8838,
+      "value": 9607,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 67.53,
+      "value": 47.39,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Classic Shades"
     }
   ]
 }

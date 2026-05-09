@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7660,
+      "value": 6260,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 91.59,
+      "value": 99.55,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Nerd Glasses"
     }
   ]
 }

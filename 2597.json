@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4938,
+      "value": 4093,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 135.95,
+      "value": 134.04,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Purple Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "Wild Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Stringy Hair"
     }
   ]
 }

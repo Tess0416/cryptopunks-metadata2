@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 947,
+      "value": 582,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 284.91,
+      "value": 302.73,
       "display_type": "number"
     },
     {
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Tassle Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Stringy Hair"
     }
   ]
 }

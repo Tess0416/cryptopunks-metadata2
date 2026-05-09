@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1038,
+      "value": 7224,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 278.83,
+      "value": 87.52,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Buck Teeth"
     }
   ]
 }

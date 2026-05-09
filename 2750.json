@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3343,
+      "value": 2661,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 172.72,
+      "value": 174.17,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Dark Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Horned Rim Glasses"
     }
   ]
 }

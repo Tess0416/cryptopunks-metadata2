@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3347,
+      "value": 6776,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 172.69,
+      "value": 92.87,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Mustache"
     }
   ]
 }

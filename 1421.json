@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4529,
+      "value": 4473,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 143.24,
+      "value": 127.46,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Smile"
     }
   ]
 }

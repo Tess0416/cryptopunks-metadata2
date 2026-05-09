@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9183,
+      "value": 7680,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 61.95,
+      "value": 80.14,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Do-rag"
     }
   ]
 }

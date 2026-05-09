@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8853,
+      "value": 6953,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 67.36,
+      "value": 90.94,
       "display_type": "number"
     },
     {
@@ -24,8 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 1,
+      "value": 3,
       "display_type": "number"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Shadow Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",

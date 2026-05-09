@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3068,
+      "value": 4042,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 179.11,
+      "value": 135.32,
       "display_type": "number"
     },
     {
@@ -24,20 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
+      "value": "Cigarette"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Shadow Beard"
     }
   ]
 }

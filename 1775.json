@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7160,
+      "value": 3284,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 98.64,
+      "value": 152.89,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Hot Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Blonde Short"
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Tassle Hat"
     }
   ]
 }

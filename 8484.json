@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3645,
+      "value": 1366,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 165.03,
+      "value": 247.7,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Bandana"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mole"
     }
   ]
 }

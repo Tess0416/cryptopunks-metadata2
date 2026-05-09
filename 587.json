@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1146,
+      "value": 9527,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 270.68,
+      "value": 49.38,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Stringy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Wild Hair"
     }
   ]
 }

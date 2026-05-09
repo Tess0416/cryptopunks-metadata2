@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2009,
+      "value": 2645,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 222.07,
+      "value": 174.84,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Wild Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Orange Side"
     }
   ]
 }

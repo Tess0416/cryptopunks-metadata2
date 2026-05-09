@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2914,
+      "value": 7764,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 184.66,
+      "value": 78.7,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Luxurious Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Earring"
     }
   ]
 }

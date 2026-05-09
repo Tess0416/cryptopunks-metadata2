@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6051,
+      "value": 8267,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 114.22,
+      "value": 71.43,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
+      "value": "Peak Spike"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Horned Rim Glasses"
+    },
+    {
+      "trait_type": "Accessory",
       "value": "Mole"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Small Shades"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Half Shaved"
     }
   ]
 }

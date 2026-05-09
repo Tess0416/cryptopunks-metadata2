@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8298,
+      "value": 8394,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 78.9,
+      "value": 69.36,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "VR"
     }
   ]
 }

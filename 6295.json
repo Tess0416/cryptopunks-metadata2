@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8470,
+      "value": 6853,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 76.13,
+      "value": 92.02,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Cap"
     }
   ]
 }

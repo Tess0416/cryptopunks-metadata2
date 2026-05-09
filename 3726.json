@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1411,
+      "value": 1990,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 254.74,
+      "value": 209.57,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Regular Shades"
     }
   ]
 }

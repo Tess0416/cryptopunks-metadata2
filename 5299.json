@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 93,
+      "value": 3714,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 493.68,
+      "value": 141.72,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Legendary"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Muttonchops"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2522,
+      "value": 197,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 199.91,
+      "value": 375.17,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Stringy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Choker"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Straight Hair Dark"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Red Mohawk"
     }
   ]
 }

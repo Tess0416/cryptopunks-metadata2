@@ -10,38 +10,22 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4120,
+      "value": 7,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 152.36,
+      "value": 1251.98,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Legendary"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 0,
       "display_type": "number"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Classic Shades"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Purple Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Smile"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Bandana"
     }
   ]
 }

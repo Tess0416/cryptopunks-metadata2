@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3424,
+      "value": 3365,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 170.65,
+      "value": 150.94,
       "display_type": "number"
     },
     {
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Cowboy Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
+      "value": "Big Shades"
     }
   ]
 }

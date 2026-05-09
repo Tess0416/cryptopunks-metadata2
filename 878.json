@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4412,
+      "value": 4607,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 145.77,
+      "value": 124.77,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "Frown"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Cap"
     }
   ]
 }

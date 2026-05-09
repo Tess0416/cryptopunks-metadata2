@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9764,
+      "value": 9808,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 47.39,
+      "value": 41.87,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Regular Shades"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 929,
+      "value": 865,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 285.89,
+      "value": 280.67,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Straight Hair Dark"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3105,
+      "value": 4973,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 178.26,
+      "value": 117.95,
       "display_type": "number"
     },
     {
@@ -24,20 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Shadow Beard"
     }
   ]
 }

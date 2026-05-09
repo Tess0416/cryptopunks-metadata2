@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8135,
+      "value": 7539,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 82.06,
+      "value": 82.41,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Normal Beard Black"
     }
   ]
 }

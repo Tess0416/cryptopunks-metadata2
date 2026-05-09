@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4915,
+      "value": 5757,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 136.29,
+      "value": 107.07,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Frown"
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Pipe"
     }
   ]
 }

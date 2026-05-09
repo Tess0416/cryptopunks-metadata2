@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8799,
+      "value": 9366,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 68.55,
+      "value": 52.26,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "Regular Shades"
     }
   ]
 }

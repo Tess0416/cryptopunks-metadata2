@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5018,
+      "value": 8018,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 134.44,
+      "value": 75.24,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Stringy Hair"
     }
   ]
 }

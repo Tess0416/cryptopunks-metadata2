@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2925,
+      "value": 949,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 184.2,
+      "value": 273.36,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "Red Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Tiara"
     }
   ]
 }

@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1473,
+      "value": 6430,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 252.03,
+      "value": 97.25,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Bandana"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Straight Hair Blonde"
     }
   ]
 }

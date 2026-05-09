@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3966,
+      "value": 3057,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 156.28,
+      "value": 159.7,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Dark Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Messy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Wild Blonde"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4194,
+      "value": 6444,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 150.64,
+      "value": 97.11,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Hot Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Messy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Tassle Hat"
     }
   ]
 }

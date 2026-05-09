@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5483,
+      "value": 3626,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 125.43,
+      "value": 144.08,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Mole"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Top Hat"
     }
   ]
 }

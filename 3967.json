@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5468,
+      "value": 7168,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 125.67,
+      "value": 88.11,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Pipe"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Cap"
     }
   ]
 }

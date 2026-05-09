@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Zombie"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6484,
+      "value": 1958,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 108.33,
+      "value": 210.98,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Front Beard Dark"
     }
   ]
 }

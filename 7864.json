@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3096,
+      "value": 4958,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 178.45,
+      "value": 118.34,
       "display_type": "number"
     },
     {
@@ -24,20 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Hoodie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Shadow Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Horned Rim Glasses"
     }
   ]
 }

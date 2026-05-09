@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3008,
+      "value": 3711,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 180.98,
+      "value": 141.77,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Normal Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Spots"
     }
   ]
 }

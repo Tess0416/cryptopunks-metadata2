@@ -6,38 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5415,
+      "value": 178,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 126.96,
+      "value": 386.51,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pipe"
     }
   ]
 }

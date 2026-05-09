@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9815,
+      "value": 8220,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 45.32,
+      "value": 72.4,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Normal Beard Black"
     }
   ]
 }

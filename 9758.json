@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6506,
+      "value": 3211,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 108.08,
+      "value": 154.95,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Vape"
     }
   ]
 }

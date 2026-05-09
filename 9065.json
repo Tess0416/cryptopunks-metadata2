@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5934,
+      "value": 8833,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 116.25,
+      "value": 62.1,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Hoodie"
     }
   ]
 }

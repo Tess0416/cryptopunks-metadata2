@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3788,
+      "value": 3941,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 161.21,
+      "value": 137.33,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Frumpy Hair"
+      "value": "Purple Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Black Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "Rosy Cheeks"
     }
   ]
 }

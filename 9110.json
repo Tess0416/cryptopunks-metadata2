@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3894,
+      "value": 301,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 158.43,
+      "value": 343.21,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Purple Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Wild Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Choker"
     }
   ]
 }

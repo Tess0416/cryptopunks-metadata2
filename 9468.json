@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4460,
+      "value": 2708,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 144.69,
+      "value": 172.02,
       "display_type": "number"
     },
     {
@@ -24,20 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
       "value": "Straight Hair Blonde"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Medical Mask"
     }
   ]
 }

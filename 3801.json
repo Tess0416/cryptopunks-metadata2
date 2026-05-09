@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8272,
+      "value": 4743,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 79.45,
+      "value": 122.07,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -33,7 +33,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Spots"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7202,
+      "value": 6433,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 98.2,
+      "value": 97.23,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Buck Teeth"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Fedora"
     }
   ]
 }

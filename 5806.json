@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4381,
+      "value": 5977,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 146.42,
+      "value": 103.86,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -33,7 +33,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Luxurious Beard"
     }
   ]
 }

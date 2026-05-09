@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2712,
+      "value": 59,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 190.98,
+      "value": 497.97,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Legendary"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Wild White Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Pigtails"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Choker"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Wild Blonde"
     }
   ]
 }

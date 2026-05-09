@@ -10,22 +10,26 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 142,
+      "value": 9018,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 435.03,
+      "value": 58.79,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 5,
+      "value": 3,
       "display_type": "number"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
@@ -33,19 +37,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Spots"
-    },
-    {
-      "trait_type": "Accessory",
       "value": "Regular Shades"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Hot Lipstick"
     }
   ]
 }

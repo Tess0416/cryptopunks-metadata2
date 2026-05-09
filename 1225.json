@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5332,
+      "value": 8799,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 128.64,
+      "value": 62.48,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Stringy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Hot Lipstick"
     }
   ]
 }

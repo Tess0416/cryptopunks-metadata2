@@ -6,38 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1528,
+      "value": 215,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 248.98,
+      "value": 367.92,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "VR"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Big Beard"
     }
   ]
 }

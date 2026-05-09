@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8953,
+      "value": 1290,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 65.77,
+      "value": 251.99,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Classic Shades"
     }
   ]
 }

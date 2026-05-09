@@ -6,38 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8873,
+      "value": 3073,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 66.95,
+      "value": 159.16,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Front Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Clown Nose"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Do-rag"
     }
   ]
 }

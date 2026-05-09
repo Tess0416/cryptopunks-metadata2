@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7993,
+      "value": 148,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 84.78,
+      "value": 397.67,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Pigtails"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Choker"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Rosy Cheeks"
     }
   ]
 }

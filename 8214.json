@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Ape"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 51,
+      "value": 25,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 612.36,
+      "value": 1189.73,
       "display_type": "number"
     },
     {
@@ -24,24 +24,32 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 6,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Wild White Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Bandana"
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Stringy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Green Eye Shadow"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Hair Green"
     }
   ]
 }

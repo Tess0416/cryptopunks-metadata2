@@ -10,38 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2248,
+      "value": 9200,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 211.65,
+      "value": 56.03,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
       "value": "Earring"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Pigtails"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3204,
+      "value": 3512,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 176.27,
+      "value": 146.79,
       "display_type": "number"
     },
     {
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Normal Beard Black"
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Pipe"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Hoodie"
     }
   ]
 }

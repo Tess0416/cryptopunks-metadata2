@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 900,
+      "value": 1793,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 288.44,
+      "value": 220.42,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "Purple Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Red Mohawk"
     }
   ]
 }

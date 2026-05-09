@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2254,
+      "value": 466,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 211.5,
+      "value": 318.64,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Green Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Choker"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Red Mohawk"
     }
   ]
 }

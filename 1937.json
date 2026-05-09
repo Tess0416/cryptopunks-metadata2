@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9114,
+      "value": 8672,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 63.08,
+      "value": 64.61,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Messy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Green Eye Shadow"
     }
   ]
 }

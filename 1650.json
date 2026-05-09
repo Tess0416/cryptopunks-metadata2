@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9455,
+      "value": 5511,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 56.61,
+      "value": 110.07,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Headband"
     }
   ]
 }

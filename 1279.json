@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 129,
+      "value": 5642,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 444.96,
+      "value": 108.34,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Eye Patch"
     }
   ]
 }

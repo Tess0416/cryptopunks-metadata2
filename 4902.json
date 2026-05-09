@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8848,
+      "value": 5414,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 67.41,
+      "value": 110.89,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Green Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Half Shaved"
     }
   ]
 }

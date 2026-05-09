@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7514,
+      "value": 9555,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 94.16,
+      "value": 48.53,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Cigarette"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Do-rag"
     }
   ]
 }

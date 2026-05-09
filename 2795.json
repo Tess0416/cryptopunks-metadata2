@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1395,
+      "value": 2731,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 255.57,
+      "value": 171,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Half Shaved"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Blonde Bob"
     }
   ]
 }

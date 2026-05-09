@@ -6,42 +6,46 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Zombie"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1135,
+      "value": 93,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 271.26,
+      "value": 456.39,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Legendary"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Straight Hair Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Bandana"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Straight Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Medical Mask"
     }
   ]
 }

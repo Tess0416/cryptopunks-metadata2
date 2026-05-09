@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7123,
+      "value": 7382,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 99.14,
+      "value": 84.97,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Clown Nose"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5636,
+      "value": 477,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 122,
+      "value": 317.18,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Pigtails"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Crazy Hair"
     }
   ]
 }

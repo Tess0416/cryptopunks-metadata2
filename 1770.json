@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5492,
+      "value": 7615,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 125.19,
+      "value": 81.13,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Frown"
     }
   ]
 }

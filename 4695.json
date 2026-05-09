@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3220,
+      "value": 431,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 175.67,
+      "value": 322.53,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Cigarette"
     }
   ]
 }

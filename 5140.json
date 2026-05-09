@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6503,
+      "value": 8389,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 108.11,
+      "value": 69.49,
       "display_type": "number"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Smile"
     }
   ]
 }

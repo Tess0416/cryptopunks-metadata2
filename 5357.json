@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1511,
+      "value": 7126,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 249.89,
+      "value": 88.81,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Big Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Mole"
     }
   ]
 }

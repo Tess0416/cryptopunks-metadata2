@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4835,
+      "value": 302,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 137.84,
+      "value": 342.99,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Luxurious Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Beanie"
     }
   ]
 }

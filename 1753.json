@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4847,
+      "value": 2644,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 137.39,
+      "value": 174.84,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Orange Side"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Wild Hair"
     }
   ]
 }

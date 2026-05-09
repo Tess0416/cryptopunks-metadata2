@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7836,
+      "value": 712,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 87.71,
+      "value": 292.29,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Tiara"
     }
   ]
 }

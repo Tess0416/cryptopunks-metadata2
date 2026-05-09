@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8167,
+      "value": 4052,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 81.48,
+      "value": 135.07,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Stringy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Top Hat"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2636,
+      "value": 2837,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 195.14,
+      "value": 166.92,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Big Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Silver Chain"
     }
   ]
 }

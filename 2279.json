@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2309,
+      "value": 3769,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 209.25,
+      "value": 140.92,
       "display_type": "number"
     },
     {
@@ -24,20 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "VR"
     }
   ]
 }

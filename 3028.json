@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3569,
+      "value": 2879,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 166.7,
+      "value": 165.27,
       "display_type": "number"
     },
     {
@@ -24,20 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Bandana"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Messy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Rosy Cheeks"
     }
   ]
 }

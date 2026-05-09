@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5013,
+      "value": 2130,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 134.49,
+      "value": 200.62,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Tassle Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Purple Eye Shadow"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Green Eye Shadow"
     }
   ]
 }

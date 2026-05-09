@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3959,
+      "value": 1643,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 156.42,
+      "value": 228.77,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Black Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Straight Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Blonde Short"
     }
   ]
 }

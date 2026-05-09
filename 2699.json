@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5849,
+      "value": 3247,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 117.89,
+      "value": 153.77,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Front Beard"
     }
   ]
 }

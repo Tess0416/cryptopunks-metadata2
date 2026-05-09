@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6775,
+      "value": 9320,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 104.55,
+      "value": 53.61,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Messy Hair"
     }
   ]
 }

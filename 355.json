@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8120,
+      "value": 9798,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 82.27,
+      "value": 42.19,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "Earring"
     }
   ]
 }

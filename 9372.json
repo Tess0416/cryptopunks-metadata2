@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1593,
+      "value": 785,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 245.82,
+      "value": 286.3,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Buck Teeth"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Beanie"
     }
   ]
 }

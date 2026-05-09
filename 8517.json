@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3196,
+      "value": 8155,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 176.48,
+      "value": 73.58,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Earring"
     }
   ]
 }

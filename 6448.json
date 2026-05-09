@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8834,
+      "value": 9243,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 67.6,
+      "value": 55.28,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Nerd Glasses"
     }
   ]
 }

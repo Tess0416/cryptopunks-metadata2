@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3943,
+      "value": 1578,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 156.67,
+      "value": 232.48,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -33,11 +33,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Orange Side"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Straight Hair"
     }
   ]
 }

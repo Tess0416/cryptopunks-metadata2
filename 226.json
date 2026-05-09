@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4293,
+      "value": 4920,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 148.29,
+      "value": 118.97,
       "display_type": "number"
     },
     {
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Top Hat"
     }
   ]
 }

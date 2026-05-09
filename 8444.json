@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1301,
+      "value": 8114,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 260.56,
+      "value": 74.08,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Mole"
     }
   ]
 }

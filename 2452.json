@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Alien"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 26,
+      "value": 29,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 1187.85,
+      "value": 1129.79,
       "display_type": "number"
     },
     {
@@ -24,20 +24,32 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 6,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Front Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Headband"
     }
   ]
 }

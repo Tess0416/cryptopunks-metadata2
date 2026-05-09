@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4525,
+      "value": 4180,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 143.35,
+      "value": 132.17,
       "display_type": "number"
     },
     {
@@ -24,8 +24,12 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
@@ -33,15 +37,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Hot Lipstick"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Chinstrap"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8213,
+      "value": 7390,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 80.38,
+      "value": 84.79,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Handlebars"
     }
   ]
 }

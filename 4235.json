@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5678,
+      "value": 7040,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 121.16,
+      "value": 90,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Wild Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Purple Eye Shadow"
     }
   ]
 }

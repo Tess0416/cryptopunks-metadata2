@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3341,
+      "value": 2887,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 172.88,
+      "value": 165.02,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Cowboy Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Front Beard"
     }
   ]
 }

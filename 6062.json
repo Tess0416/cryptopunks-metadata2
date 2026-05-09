@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1646,
+      "value": 2337,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 243.03,
+      "value": 189.01,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Straight Hair Dark"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Wild Blonde"
     }
   ]
 }

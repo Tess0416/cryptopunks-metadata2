@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5552,
+      "value": 8385,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 124.05,
+      "value": 69.52,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Normal Beard Black"
     }
   ]
 }

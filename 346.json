@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7014,
+      "value": 1511,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 100.61,
+      "value": 237.55,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Bandana"
     }
   ]
 }

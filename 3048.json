@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4594,
+      "value": 6387,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 142.12,
+      "value": 97.78,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Normal Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Chinstrap"
     }
   ]
 }

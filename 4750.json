@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7744,
+      "value": 8185,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 89.69,
+      "value": 73.09,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "3D Glasses"
     }
   ]
 }

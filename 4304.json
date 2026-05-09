@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4288,
+      "value": 2457,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 148.47,
+      "value": 182.16,
       "display_type": "number"
     },
     {
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Cowboy Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Big Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Big Shades"
     }
   ]
 }

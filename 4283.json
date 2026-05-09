@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 446,
+      "value": 6234,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 337.89,
+      "value": 99.82,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Hoodie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Frown"
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Horned Rim Glasses"
     }
   ]
 }

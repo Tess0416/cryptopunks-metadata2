@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9769,
+      "value": 10000,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 47.09,
+      "value": 21.66,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Buck Teeth"
     }
   ]
 }

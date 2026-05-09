@@ -6,42 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2589,
+      "value": 7133,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 196.84,
+      "value": 88.78,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Knitted Cap"
     }
   ]
 }

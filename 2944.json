@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9471,
+      "value": 7596,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 56.17,
+      "value": 81.45,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Nerd Glasses"
     }
   ]
 }

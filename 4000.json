@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7455,
+      "value": 5619,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 94.98,
+      "value": 108.75,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Big Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Chinstrap"
     }
   ]
 }

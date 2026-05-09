@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6976,
+      "value": 2668,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 101.07,
+      "value": 173.72,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Straight Hair Dark"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Hot Lipstick"
     }
   ]
 }

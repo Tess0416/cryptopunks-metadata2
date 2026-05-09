@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1041,
+      "value": 278,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 278.43,
+      "value": 349.21,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Blonde Bob"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Choker"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Red Mohawk"
     }
   ]
 }

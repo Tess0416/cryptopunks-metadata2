@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7579,
+      "value": 7971,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 93.04,
+      "value": 76.14,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Pipe"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Big Shades"
     }
   ]
 }

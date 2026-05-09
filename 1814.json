@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6112,
+      "value": 8893,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 113.35,
+      "value": 61.09,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Normal Beard Black"
     }
   ]
 }

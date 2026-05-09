@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4578,
+      "value": 9116,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 142.27,
+      "value": 57.27,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Messy Hair"
     }
   ]
 }

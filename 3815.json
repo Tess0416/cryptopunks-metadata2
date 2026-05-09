@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9915,
+      "value": 9595,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 39.29,
+      "value": 47.64,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Regular Shades"
     }
   ]
 }

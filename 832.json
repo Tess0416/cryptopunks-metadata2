@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 410,
+      "value": 1056,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 343.05,
+      "value": 266.15,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
-    },
-    {
-      "trait_type": "Accessory",
       "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Purple Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mole"
     }
   ]
 }

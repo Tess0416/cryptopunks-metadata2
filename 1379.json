@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3370,
+      "value": 3378,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 172.11,
+      "value": 150.48,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Straight Hair Dark"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Purple Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "Nerd Glasses"
     }
   ]
 }

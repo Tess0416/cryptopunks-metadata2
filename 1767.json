@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9917,
+      "value": 3824,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 39.01,
+      "value": 139.67,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Red Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Straight Hair"
     }
   ]
 }

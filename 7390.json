@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 548,
+      "value": 2468,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 324.04,
+      "value": 181.61,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Dark Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Rosy Cheeks"
     },
     {
       "trait_type": "Accessory",
       "value": "3D Glasses"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Beanie"
     }
   ]
 }

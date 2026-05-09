@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5279,
+      "value": 6920,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 129.66,
+      "value": 91.32,
       "display_type": "number"
     },
     {
@@ -24,16 +24,8 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Normal Beard"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Messy Hair"
     },
     {
       "trait_type": "Accessory",
@@ -41,7 +33,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Front Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Peak Spike"
     }
   ]
 }

@@ -10,26 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7078,
+      "value": 108,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 99.64,
+      "value": 435.93,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Tiara"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",

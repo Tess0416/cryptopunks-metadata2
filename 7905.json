@@ -10,34 +10,22 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5451,
+      "value": 14,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 126.21,
+      "value": 1251.98,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Legendary"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 0,
       "display_type": "number"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Regular Shades"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Chinstrap"
     }
   ]
 }

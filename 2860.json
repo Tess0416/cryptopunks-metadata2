@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1099,
+      "value": 2778,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 273.86,
+      "value": 169.04,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Black Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Blonde Bob"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Tassle Hat"
     }
   ]
 }

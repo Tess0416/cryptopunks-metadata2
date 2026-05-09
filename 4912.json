@@ -10,26 +10,22 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1470,
+      "value": 2003,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 252.2,
+      "value": 208.95,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
@@ -37,7 +33,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Regular Shades"
     }
   ]
 }

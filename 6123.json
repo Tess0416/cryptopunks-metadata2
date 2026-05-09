@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 605,
+      "value": 1770,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 317.65,
+      "value": 221.54,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Black Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Horned Rim Glasses"
     }
   ]
 }

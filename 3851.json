@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7224,
+      "value": 3821,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 97.8,
+      "value": 139.71,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -33,11 +33,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
+      "value": "Pipe"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Big Beard"
     }
   ]
 }

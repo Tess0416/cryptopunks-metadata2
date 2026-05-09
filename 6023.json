@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3731,
+      "value": 3438,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 162.8,
+      "value": 148.96,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Normal Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Big Beard"
     }
   ]
 }

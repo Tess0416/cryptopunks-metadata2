@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6743,
+      "value": 5449,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 105.1,
+      "value": 110.69,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Chinstrap"
     }
   ]
 }

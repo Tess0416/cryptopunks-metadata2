@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2055,
+      "value": 8149,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 219.88,
+      "value": 73.66,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Clown Nose"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9974,
+      "value": 1590,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 33.01,
+      "value": 232,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Pilot Helmet"
     }
   ]
 }

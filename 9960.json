@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2063,
+      "value": 253,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 219.53,
+      "value": 358.38,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Wild White Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Straight Hair Blonde"
     }
   ]
 }

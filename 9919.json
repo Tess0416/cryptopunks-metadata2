@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7731,
+      "value": 8457,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 89.97,
+      "value": 68.25,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Buck Teeth"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Earring"
     }
   ]
 }

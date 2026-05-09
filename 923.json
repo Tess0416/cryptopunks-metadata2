@@ -10,34 +10,42 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7277,
+      "value": 40,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 97.17,
+      "value": 561.74,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Legendary"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Pigtails"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Wild Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Tiara"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Spots"
     }
   ]
 }

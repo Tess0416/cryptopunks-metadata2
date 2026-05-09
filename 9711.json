@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8323,
+      "value": 8386,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 78.33,
+      "value": 69.52,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "Normal Beard Black"
     }
   ]
 }

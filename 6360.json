@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4807,
+      "value": 6614,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 138.49,
+      "value": 94.98,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Big Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Eye Patch"
     }
   ]
 }

@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6168,
+      "value": 2380,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 112.48,
+      "value": 186.42,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Tassle Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Small Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "3D Glasses"
     }
   ]
 }

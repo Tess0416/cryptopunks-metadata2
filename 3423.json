@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6964,
+      "value": 5317,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 101.28,
+      "value": 112.01,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Cowboy Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Horned Rim Glasses"
     }
   ]
 }

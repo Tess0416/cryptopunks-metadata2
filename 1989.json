@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3389,
+      "value": 3334,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 171.55,
+      "value": 151.58,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Straight Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Purple Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "Classic Shades"
     }
   ]
 }

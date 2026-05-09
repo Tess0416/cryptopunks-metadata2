@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7417,
+      "value": 8021,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 95.5,
+      "value": 75.24,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Shadow Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Do-rag"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Horned Rim Glasses"
     }
   ]
 }

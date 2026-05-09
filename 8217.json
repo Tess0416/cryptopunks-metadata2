@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5268,
+      "value": 91,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 129.87,
+      "value": 457.16,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Legendary"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Blonde Short"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Wild White Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Pilot Helmet"
     }
   ]
 }

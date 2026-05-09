@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8398,
+      "value": 5708,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 77.35,
+      "value": 107.54,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Buck Teeth"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Vape"
     }
   ]
 }

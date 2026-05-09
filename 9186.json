@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9061,
+      "value": 5106,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 64.25,
+      "value": 115.62,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Knitted Cap"
     }
   ]
 }

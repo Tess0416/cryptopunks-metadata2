@@ -10,26 +10,22 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3291,
+      "value": 1044,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 174.14,
+      "value": 267.03,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Welding Goggles"
     },
     {
       "trait_type": "Accessory",
@@ -37,7 +33,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Beanie"
     }
   ]
 }

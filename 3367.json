@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5292,
+      "value": 6915,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 129.42,
+      "value": 91.37,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Big Shades"
     }
   ]
 }

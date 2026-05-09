@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3680,
+      "value": 4470,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 163.73,
+      "value": 127.5,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Rosy Cheeks"
     }
   ]
 }

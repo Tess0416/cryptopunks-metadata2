@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8131,
+      "value": 5914,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 82.16,
+      "value": 104.75,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Horned Rim Glasses"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6161,
+      "value": 5180,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 112.65,
+      "value": 114.14,
       "display_type": "number"
     },
     {
@@ -24,20 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Frown"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Normal Beard"
     }
   ]
 }

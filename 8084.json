@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8583,
+      "value": 5122,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 73.37,
+      "value": 115.23,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "Front Beard Dark"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Normal Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Frown"
     }
   ]
 }

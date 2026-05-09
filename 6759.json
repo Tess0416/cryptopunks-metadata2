@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1279,
+      "value": 8263,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 262.01,
+      "value": 71.45,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Buck Teeth"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Regular Shades"
     }
   ]
 }

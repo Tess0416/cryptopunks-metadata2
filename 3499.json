@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4422,
+      "value": 5456,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 145.62,
+      "value": 110.64,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Front Beard Dark"
     }
   ]
 }

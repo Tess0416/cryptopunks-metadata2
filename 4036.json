@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2919,
+      "value": 6913,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 184.46,
+      "value": 91.4,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Normal Beard Black"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Horned Rim Glasses"
     }
   ]
 }

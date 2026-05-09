@@ -6,38 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5516,
+      "value": 1710,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 124.78,
+      "value": 225.49,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "Mole"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Top Hat"
     }
   ]
 }

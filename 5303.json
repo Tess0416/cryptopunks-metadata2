@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7027,
+      "value": 7597,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 100.42,
+      "value": 81.43,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Big Shades"
     }
   ]
 }

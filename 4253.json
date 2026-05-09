@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5444,
+      "value": 9365,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 126.44,
+      "value": 52.26,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "Cap"
     }
   ]
 }

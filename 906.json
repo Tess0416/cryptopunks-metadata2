@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Zombie"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 177,
+      "value": 546,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 411.03,
+      "value": 307.36,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Pigtails"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Frown"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Small Shades"
     }
   ]
 }

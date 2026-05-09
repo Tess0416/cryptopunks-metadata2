@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3777,
+      "value": 4000,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 161.61,
+      "value": 136.28,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Luxurious Beard"
     }
   ]
 }

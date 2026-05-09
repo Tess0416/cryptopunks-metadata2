@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3697,
+      "value": 987,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 163.52,
+      "value": 270.72,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Messy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Blue Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Tiara"
     }
   ]
 }

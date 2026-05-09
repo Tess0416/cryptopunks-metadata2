@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8888,
+      "value": 4998,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 66.71,
+      "value": 117.6,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mohawk"
     }
   ]
 }

@@ -10,22 +10,26 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8507,
+      "value": 1945,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 74.99,
+      "value": 211.56,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Hair"
     },
     {
       "trait_type": "Accessory",
@@ -33,7 +37,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Top Hat"
     }
   ]
 }

@@ -10,42 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 992,
+      "value": 2681,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 282.4,
+      "value": 173.37,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 5,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Blonde Short"
     }
   ]
 }

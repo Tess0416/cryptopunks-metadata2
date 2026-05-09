@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8747,
+      "value": 9396,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 69.67,
+      "value": 51.87,
       "display_type": "number"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Mole"
     }
   ]
 }

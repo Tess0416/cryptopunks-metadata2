@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6818,
+      "value": 3612,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 103.85,
+      "value": 144.36,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Red Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Medical Mask"
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Hot Lipstick"
     }
   ]
 }

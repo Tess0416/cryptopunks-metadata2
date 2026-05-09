@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7106,
+      "value": 8023,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 99.28,
+      "value": 75.22,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "3D Glasses"
     }
   ]
 }

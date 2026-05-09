@@ -6,42 +6,46 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Ape"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 49,
+      "value": 564,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 619.58,
+      "value": 305.32,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Legendary"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Headband"
     }
   ]
 }

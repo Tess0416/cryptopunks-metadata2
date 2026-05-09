@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4111,
+      "value": 8718,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 152.62,
+      "value": 63.78,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Stringy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Vape"
     }
   ]
 }

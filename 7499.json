@@ -6,38 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5996,
+      "value": 4917,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 115.23,
+      "value": 119,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Shadow Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Normal Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Big Shades"
     }
   ]
 }

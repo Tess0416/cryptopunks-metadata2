@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3198,
+      "value": 3822,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 176.44,
+      "value": 139.71,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Frumpy Hair"
+      "value": "Luxurious Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Cowboy Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "VR"
     }
   ]
 }

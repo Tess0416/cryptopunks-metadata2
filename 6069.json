@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 716,
+      "value": 1417,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 302.62,
+      "value": 243.74,
       "display_type": "number"
     },
     {
@@ -24,24 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
       "value": "Pilot Helmet"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Nerd Glasses"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
     }
   ]
 }

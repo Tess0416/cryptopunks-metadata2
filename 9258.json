@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3896,
+      "value": 3355,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 158.36,
+      "value": 151.19,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Do-rag"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2500,
+      "value": 2318,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 200.63,
+      "value": 189.78,
       "display_type": "number"
     },
     {
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Normal Beard"
     }
   ]
 }

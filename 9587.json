@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4262,
+      "value": 7833,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 149.08,
+      "value": 77.74,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Normal Beard Black"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Shadow Beard"
     }
   ]
 }

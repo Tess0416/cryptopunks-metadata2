@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4744,
+      "value": 155,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 139.8,
+      "value": 395.18,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Orange Side"
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "3D Glasses"
     }
   ]
 }

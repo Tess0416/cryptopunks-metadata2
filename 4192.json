@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1322,
+      "value": 1825,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 259.37,
+      "value": 218.49,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Cigarette"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Big Shades"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6749,
+      "value": 5873,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 104.99,
+      "value": 105.36,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Classic Shades"
     }
   ]
 }

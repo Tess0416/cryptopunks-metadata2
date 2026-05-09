@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4797,
+      "value": 2950,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 138.74,
+      "value": 162.96,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Front Beard Dark"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Do-rag"
     }
   ]
 }

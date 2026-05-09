@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Alien"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3,
+      "value": 28,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 1433.37,
+      "value": 1130.38,
       "display_type": "number"
     },
     {
@@ -24,24 +24,32 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 6,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "Medical Mask"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Crazy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Wild Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "VR"
     }
   ]
 }

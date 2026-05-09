@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9992,
+      "value": 7189,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 29.65,
+      "value": 87.83,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Knitted Cap"
     }
   ]
 }

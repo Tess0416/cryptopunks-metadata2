@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9829,
+      "value": 9993,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 44.59,
+      "value": 25.01,
       "display_type": "number"
     },
     {
@@ -24,16 +24,12 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
       "value": "Earring"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Bandana"
     },
     {
       "trait_type": "Accessory",

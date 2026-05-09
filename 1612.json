@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3817,
+      "value": 6843,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 160.58,
+      "value": 92.09,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -33,11 +33,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Classic Shades"
     }
   ]
 }

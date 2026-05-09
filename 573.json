@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5814,
+      "value": 6105,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 118.53,
+      "value": 102.05,
       "display_type": "number"
     },
     {
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Front Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Shadow Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Big Shades"
     }
   ]
 }

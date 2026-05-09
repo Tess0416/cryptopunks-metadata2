@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8572,
+      "value": 6158,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 73.56,
+      "value": 101.02,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Rosy Cheeks"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5252,
+      "value": 4665,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 130.09,
+      "value": 123.55,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
-    },
-    {
-      "trait_type": "Accessory",
       "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "VR"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Fedora"
     }
   ]
 }

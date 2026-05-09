@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7397,
+      "value": 3515,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 95.66,
+      "value": 146.74,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
+      "value": "Knitted Cap"
     }
   ]
 }

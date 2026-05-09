@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1828,
+      "value": 9949,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 231.82,
+      "value": 34.21,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Shadow Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Cigarette"
     }
   ]
 }

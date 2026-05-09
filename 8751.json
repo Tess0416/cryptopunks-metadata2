@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2633,
+      "value": 1187,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 195.23,
+      "value": 257.89,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Normal Beard Black"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1096,
+      "value": 1419,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 273.94,
+      "value": 243.73,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
+      "value": "Hot Lipstick"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Black Lipstick"
+    },
+    {
+      "trait_type": "Accessory",
       "value": "Choker"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Normal Beard Black"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
     }
   ]
 }

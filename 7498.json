@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5355,
+      "value": 786,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 128.38,
+      "value": 286.23,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "VR"
     }
   ]
 }

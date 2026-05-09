@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2052,
+      "value": 5731,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 219.95,
+      "value": 107.28,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Mole"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2936,
+      "value": 2349,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 183.85,
+      "value": 188.43,
       "display_type": "number"
     },
     {
@@ -33,11 +33,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Blonde Bob"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Green Eye Shadow"
     }
   ]
 }

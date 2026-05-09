@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1787,
+      "value": 5602,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 234.15,
+      "value": 109.04,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Purple Hair"
     }
   ]
 }

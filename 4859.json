@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 158,
+      "value": 227,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 421.24,
+      "value": 364.28,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Choker"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Orange Side"
     }
   ]
 }

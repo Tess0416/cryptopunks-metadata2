@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7291,
+      "value": 7079,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 96.97,
+      "value": 89.44,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Classic Shades"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2401,
+      "value": 5246,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 205.53,
+      "value": 113.23,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Cigarette"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Big Beard"
     }
   ]
 }

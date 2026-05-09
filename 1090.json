@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7288,
+      "value": 5893,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 96.98,
+      "value": 105.14,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Stringy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Rosy Cheeks"
     }
   ]
 }

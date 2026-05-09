@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3755,
+      "value": 7326,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 162.09,
+      "value": 85.86,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Cigarette"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Nerd Glasses"
     }
   ]
 }

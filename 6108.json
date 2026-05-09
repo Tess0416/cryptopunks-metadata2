@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2492,
+      "value": 4123,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 200.83,
+      "value": 133.4,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Big Beard"
     }
   ]
 }

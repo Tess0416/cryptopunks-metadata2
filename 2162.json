@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2090,
+      "value": 1271,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 218.31,
+      "value": 252.97,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -33,11 +33,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Wild White Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Blue Eye Shadow"
     }
   ]
 }

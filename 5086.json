@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4122,
+      "value": 7279,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 152.36,
+      "value": 86.64,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Gold Chain"
     }
   ]
 }

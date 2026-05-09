@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4347,
+      "value": 2606,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 146.97,
+      "value": 177.02,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Purple Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Headband"
     }
   ]
 }

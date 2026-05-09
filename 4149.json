@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 362,
+      "value": 8692,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 351.89,
+      "value": 64.35,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Vape"
     }
   ]
 }

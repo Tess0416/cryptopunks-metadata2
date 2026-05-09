@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5050,
+      "value": 8188,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 133.85,
+      "value": 73.09,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "3D Glasses"
     }
   ]
 }

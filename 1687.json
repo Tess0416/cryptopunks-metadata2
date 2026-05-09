@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5260,
+      "value": 7096,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 129.96,
+      "value": 89.19,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Clown Hair Green"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Black Lipstick"
     }
   ]
 }

@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1228,
+      "value": 2614,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 266.2,
+      "value": 176.55,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Rosy Cheeks"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Crazy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Wild Blonde"
     }
   ]
 }

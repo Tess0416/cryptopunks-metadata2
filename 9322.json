@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4154,
+      "value": 4241,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 151.32,
+      "value": 131,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "Rosy Cheeks"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Stringy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Small Shades"
     }
   ]
 }

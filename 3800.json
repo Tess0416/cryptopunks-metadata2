@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 670,
+      "value": 2712,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 307.42,
+      "value": 171.92,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Red Mohawk"
     }
   ]
 }

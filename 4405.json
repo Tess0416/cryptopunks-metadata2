@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2643,
+      "value": 2264,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 194.74,
+      "value": 192.73,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "Tassle Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Red Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Dark Hair"
     }
   ]
 }

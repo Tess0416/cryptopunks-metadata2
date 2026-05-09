@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4828,
+      "value": 5505,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 138.01,
+      "value": 110.13,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Dark Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Eye Patch"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8262,
+      "value": 4061,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 79.64,
+      "value": 134.89,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "Classic Shades"
     }
   ]
 }

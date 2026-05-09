@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8547,
+      "value": 3389,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 74.17,
+      "value": 150.11,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Vape"
     }
   ]
 }

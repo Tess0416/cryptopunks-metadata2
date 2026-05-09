@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 375,
+      "value": 4310,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 349.26,
+      "value": 129.99,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Big Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Frown"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Regular Shades"
     }
   ]
 }

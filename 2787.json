@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3979,
+      "value": 8226,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 155.79,
+      "value": 72.25,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Shadow Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Pipe"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1979,
+      "value": 1246,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 223.48,
+      "value": 254.69,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Wild White Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Rosy Cheeks"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Clown Hair Green"
     }
   ]
 }

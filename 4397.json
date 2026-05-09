@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Alien"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 29,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 1176.5,
+      "value": 1342.02,
       "display_type": "number"
     },
     {
@@ -24,20 +24,32 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 6,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Messy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Blonde Bob"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Wild Blonde"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Tiara"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "VR"
     }
   ]
 }

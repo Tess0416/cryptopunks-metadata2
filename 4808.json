@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9142,
+      "value": 8074,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 62.63,
+      "value": 74.48,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "3D Glasses"
     }
   ]
 }

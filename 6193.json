@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5692,
+      "value": 8793,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 120.9,
+      "value": 62.62,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Fedora"
     }
   ]
 }

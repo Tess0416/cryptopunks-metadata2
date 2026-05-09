@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5914,
+      "value": 5616,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 116.61,
+      "value": 108.77,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Normal Beard Black"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
       "value": "Front Beard"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Regular Shades"
     }
   ]
 }

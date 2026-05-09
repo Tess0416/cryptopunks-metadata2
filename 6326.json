@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Alien"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 30,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 1174.32,
+      "value": 1497.81,
       "display_type": "number"
     },
     {
@@ -24,12 +24,12 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 6,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Clown Hair Green"
     },
     {
       "trait_type": "Accessory",
@@ -37,7 +37,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pilot Helmet"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Nose"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Choker"
     }
   ]
 }

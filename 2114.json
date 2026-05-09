@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7833,
+      "value": 8280,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 87.77,
+      "value": 70.97,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Shadow Beard"
     }
   ]
 }

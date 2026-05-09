@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 441,
+      "value": 2138,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 338.44,
+      "value": 200.21,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Straight Hair Dark"
     }
   ]
 }

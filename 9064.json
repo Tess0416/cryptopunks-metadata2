@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2379,
+      "value": 3148,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 206.65,
+      "value": 156.97,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Medical Mask"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Blonde Short"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3850,
+      "value": 9074,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 159.68,
+      "value": 58.03,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Pipe"
     }
   ]
 }

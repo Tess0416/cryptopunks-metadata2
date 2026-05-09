@@ -6,38 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3451,
+      "value": 55,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 169.74,
+      "value": 501.99,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Legendary"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Do-rag"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pilot Helmet"
     }
   ]
 }

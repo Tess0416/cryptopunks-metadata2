@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5967,
+      "value": 5552,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 115.78,
+      "value": 109.7,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Front Beard"
     }
   ]
 }

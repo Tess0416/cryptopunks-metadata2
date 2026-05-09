@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3716,
+      "value": 2057,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 163.07,
+      "value": 205.96,
       "display_type": "number"
     },
     {
@@ -33,15 +33,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Hot Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Tassle Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Wild White Hair"
     }
   ]
 }

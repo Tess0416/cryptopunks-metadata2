@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5973,
+      "value": 8808,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 115.66,
+      "value": 62.38,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Hoodie"
     }
   ]
 }

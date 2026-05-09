@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5566,
+      "value": 4556,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 123.85,
+      "value": 125.8,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Straight Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "VR"
     }
   ]
 }

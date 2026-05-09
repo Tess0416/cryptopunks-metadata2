@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2335,
+      "value": 4914,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 208.45,
+      "value": 119.09,
       "display_type": "number"
     },
     {
@@ -24,20 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Stringy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Vape"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Small Shades"
     }
   ]
 }

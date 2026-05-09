@@ -6,38 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8622,
+      "value": 2018,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 72.38,
+      "value": 208.28,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Top Hat"
     }
   ]
 }

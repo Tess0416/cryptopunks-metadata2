@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 985,
+      "value": 787,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 282.73,
+      "value": 286.17,
       "display_type": "number"
     },
     {
@@ -24,12 +24,12 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
@@ -37,11 +37,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Muttonchops"
     }
   ]
 }

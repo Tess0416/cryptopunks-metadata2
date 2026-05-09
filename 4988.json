@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7591,
+      "value": 9174,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 92.74,
+      "value": 56.5,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Headband"
     }
   ]
 }

@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 484,
+      "value": 4325,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 332.07,
+      "value": 129.77,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Top Hat"
     }
   ]
 }

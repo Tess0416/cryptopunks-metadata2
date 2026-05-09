@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5766,
+      "value": 9526,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 119.53,
+      "value": 49.45,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Cigarette"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Normal Beard"
     }
   ]
 }

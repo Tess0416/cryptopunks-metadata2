@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3359,
+      "value": 6404,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 172.4,
+      "value": 97.57,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "VR"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
     }
   ]
 }

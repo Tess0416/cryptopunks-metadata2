@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2857,
+      "value": 2124,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 186.45,
+      "value": 201.03,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Purple Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "Clown Hair Green"
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Half Shaved"
     }
   ]
 }

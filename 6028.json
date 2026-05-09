@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6252,
+      "value": 6169,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 111.32,
+      "value": 100.81,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "Regular Shades"
     }
   ]
 }

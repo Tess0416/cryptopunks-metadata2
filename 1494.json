@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1227,
+      "value": 5269,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 266.23,
+      "value": 112.88,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Bandana"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Medical Mask"
     }
   ]
 }

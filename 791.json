@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1815,
+      "value": 472,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 232.5,
+      "value": 317.91,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Choker"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Wild White Hair"
     }
   ]
 }

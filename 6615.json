@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1613,
+      "value": 2931,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 245.05,
+      "value": 163.26,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Black Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Rosy Cheeks"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Silver Chain"
     }
   ]
 }

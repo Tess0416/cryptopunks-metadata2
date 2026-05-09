@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9153,
+      "value": 2792,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 62.44,
+      "value": 168.49,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Wild Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Silver Chain"
     }
   ]
 }

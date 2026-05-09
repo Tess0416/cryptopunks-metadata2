@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9214,
+      "value": 8960,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 61.41,
+      "value": 60.12,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Front Beard"
     }
   ]
 }

@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3388,
+      "value": 758,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 171.6,
+      "value": 288.19,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Handlebars"
     }
   ]
 }

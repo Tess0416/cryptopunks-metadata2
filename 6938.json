@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1065,
+      "value": 7682,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 276.8,
+      "value": 80.13,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Buck Teeth"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "VR"
     }
   ]
 }

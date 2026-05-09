@@ -6,38 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 447,
+      "value": 4506,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 337.72,
+      "value": 126.93,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
+      "value": "Front Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Chinstrap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Buck Teeth"
     }
   ]
 }

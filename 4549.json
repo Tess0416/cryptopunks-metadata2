@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5395,
+      "value": 8616,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 127.46,
+      "value": 65.35,
       "display_type": "number"
     },
     {
@@ -24,16 +24,12 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Do-rag"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3390,
+      "value": 2960,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 171.53,
+      "value": 162.65,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Top Hat"
     }
   ]
 }

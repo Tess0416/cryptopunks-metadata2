@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7155,
+      "value": 3801,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 98.73,
+      "value": 140.08,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Blonde Short"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Medical Mask"
     }
   ]
 }

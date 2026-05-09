@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9969,
+      "value": 7819,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 33.89,
+      "value": 77.86,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Front Beard Dark"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Normal Beard Black"
     }
   ]
 }

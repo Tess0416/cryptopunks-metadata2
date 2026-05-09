@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6136,
+      "value": 4222,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 113.03,
+      "value": 131.36,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Front Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Vape"
     }
   ]
 }

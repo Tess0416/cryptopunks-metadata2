@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4023,
+      "value": 4370,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 154.66,
+      "value": 129.17,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Tassle Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Silver Chain"
     }
   ]
 }

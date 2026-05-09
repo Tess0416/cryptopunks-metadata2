@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9075,
+      "value": 9207,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 64.05,
+      "value": 55.91,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Frumpy Hair"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Mole"
     }
   ]
 }

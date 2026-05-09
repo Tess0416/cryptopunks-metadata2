@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 320,
+      "value": 3922,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 361.79,
+      "value": 137.61,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Cap"
     }
   ]
 }

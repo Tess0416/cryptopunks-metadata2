@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6537,
+      "value": 2705,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 107.79,
+      "value": 172.4,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Pigtails"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Purple Hair"
     }
   ]
 }

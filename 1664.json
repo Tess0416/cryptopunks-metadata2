@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2125,
+      "value": 6381,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 216.6,
+      "value": 97.91,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Normal Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Peak Spike"
     }
   ]
 }

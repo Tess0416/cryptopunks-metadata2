@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6181,
+      "value": 5722,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 112.3,
+      "value": 107.35,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Front Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Handlebars"
     }
   ]
 }

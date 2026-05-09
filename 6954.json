@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7782,
+      "value": 8494,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 88.77,
+      "value": 67.49,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Cigarette"
     }
   ]
 }

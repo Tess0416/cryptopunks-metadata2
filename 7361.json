@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5502,
+      "value": 1402,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 125.08,
+      "value": 245.4,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Pipe"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Top Hat"
     }
   ]
 }

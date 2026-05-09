@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3615,
+      "value": 2885,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 165.65,
+      "value": 165.14,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Dark Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Green Eye Shadow"
     }
   ]
 }

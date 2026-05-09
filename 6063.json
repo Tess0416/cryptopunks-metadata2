@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7128,
+      "value": 5341,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 99.08,
+      "value": 111.7,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Frumpy Hair"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Shadow Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Mustache"
     }
   ]
 }

@@ -6,38 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 886,
+      "value": 3875,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 289.17,
+      "value": 138.66,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Peak Spike"
     }
   ]
 }

@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 803,
+      "value": 2918,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 294.12,
+      "value": 163.53,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Wild Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Straight Hair Blonde"
     }
   ]
 }

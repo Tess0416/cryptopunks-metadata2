@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1053,
+      "value": 5389,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 277.51,
+      "value": 111.08,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Normal Beard Black"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Normal Beard"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7849,
+      "value": 9106,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 87.55,
+      "value": 57.44,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "Shadow Beard"
     }
   ]
 }

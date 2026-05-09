@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 522,
+      "value": 2574,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 327.73,
+      "value": 177.93,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Peak Spike"
     }
   ]
 }

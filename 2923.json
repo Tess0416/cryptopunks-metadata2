@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7405,
+      "value": 4915,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 95.61,
+      "value": 119.02,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Shadow Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Front Beard"
     }
   ]
 }

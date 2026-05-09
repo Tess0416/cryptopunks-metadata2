@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9682,
+      "value": 5805,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 50.44,
+      "value": 106.29,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Big Beard"
     }
   ]
 }

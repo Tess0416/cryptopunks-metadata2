@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5946,
+      "value": 6314,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 116.02,
+      "value": 98.75,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Purple Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Bandana"
     }
   ]
 }

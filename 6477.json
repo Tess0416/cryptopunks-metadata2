@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 126,
+      "value": 364,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 447.32,
+      "value": 332.84,
       "display_type": "number"
     },
     {
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Bandana"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Wild Blonde"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
       "value": "Choker"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Mustache"
     }
   ]
 }

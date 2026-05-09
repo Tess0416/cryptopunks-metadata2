@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2448,
+      "value": 639,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 203.02,
+      "value": 298.95,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Choker"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Eye Patch"
     }
   ]
 }

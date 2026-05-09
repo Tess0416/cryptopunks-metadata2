@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 977,
+      "value": 3700,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 283.38,
+      "value": 142.03,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Black Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Red Mohawk"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4701,
+      "value": 4706,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 140.69,
+      "value": 122.81,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Fedora"
     }
   ]
 }

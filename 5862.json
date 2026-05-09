@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5450,
+      "value": 78,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 126.22,
+      "value": 478.21,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Legendary"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Pigtails"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Pilot Helmet"
     }
   ]
 }

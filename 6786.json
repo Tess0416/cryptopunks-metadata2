@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8489,
+      "value": 9151,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 75.61,
+      "value": 56.81,
       "display_type": "number"
     },
     {
@@ -24,16 +24,12 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",

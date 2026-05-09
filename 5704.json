@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Zombie"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 505,
+      "value": 1457,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 329.73,
+      "value": 240.99,
       "display_type": "number"
     },
     {
@@ -24,16 +24,28 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Handlebars"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Nose"
     }
   ]
 }

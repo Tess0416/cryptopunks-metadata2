@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4605,
+      "value": 2702,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 141.96,
+      "value": 172.4,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Spots"
     }
   ]
 }

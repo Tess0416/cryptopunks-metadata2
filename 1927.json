@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8358,
+      "value": 8003,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 77.84,
+      "value": 75.54,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Hoodie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Buck Teeth"
     }
   ]
 }

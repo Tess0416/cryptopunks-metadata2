@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1651,
+      "value": 1326,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 242.58,
+      "value": 250.26,
       "display_type": "number"
     },
     {
@@ -24,20 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Regular Shades"
     }
   ]
 }

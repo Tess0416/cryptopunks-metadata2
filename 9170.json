@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 433,
+      "value": 1439,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 338.98,
+      "value": 242.3,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Shadow Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Pilot Helmet"
     }
   ]
 }

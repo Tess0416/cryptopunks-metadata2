@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5740,
+      "value": 2938,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 120.03,
+      "value": 163.09,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Half Shaved"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Bandana"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Wild Blonde"
     }
   ]
 }

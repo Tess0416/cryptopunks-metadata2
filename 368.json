@@ -10,34 +10,42 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5000,
+      "value": 98,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 134.71,
+      "value": 452.67,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Legendary"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Green Eye Shadow"
     },
     {
       "trait_type": "Accessory",
       "value": "Top Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Medical Mask"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Small Shades"
     }
   ]
 }

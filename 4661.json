@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5198,
+      "value": 3071,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 131.37,
+      "value": 159.18,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Horned Rim Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Wild Blonde"
     }
   ]
 }

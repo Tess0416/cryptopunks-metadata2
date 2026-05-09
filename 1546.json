@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2051,
+      "value": 4713,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 219.95,
+      "value": 122.66,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Silver Chain"
     }
   ]
 }

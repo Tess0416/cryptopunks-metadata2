@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4335,
+      "value": 1656,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 147.2,
+      "value": 228.28,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Bandana"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Pilot Helmet"
     }
   ]
 }

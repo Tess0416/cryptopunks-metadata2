@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5068,
+      "value": 9958,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 133.43,
+      "value": 33.89,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Cigarette"
     }
   ]
 }

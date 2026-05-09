@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9814,
+      "value": 1727,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 45.32,
+      "value": 224.58,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Normal Beard Black"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Pilot Helmet"
     }
   ]
 }

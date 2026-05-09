@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8393,
+      "value": 6539,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 77.46,
+      "value": 95.67,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Vape"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Peak Spike"
     }
   ]
 }

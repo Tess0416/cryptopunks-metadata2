@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7011,
+      "value": 5715,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 100.64,
+      "value": 107.5,
       "display_type": "number"
     },
     {
@@ -24,20 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Normal Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Cigarette"
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "Goat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Classic Shades"
     }
   ]
 }

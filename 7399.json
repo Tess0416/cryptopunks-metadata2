@@ -10,34 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 813,
+      "value": 7782,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 293.17,
+      "value": 78.37,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
       "value": "Hoodie"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Choker"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9419,
+      "value": 8332,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 57.38,
+      "value": 70.22,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mole"
     }
   ]
 }

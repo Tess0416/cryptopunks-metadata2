@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2717,
+      "value": 4129,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 190.87,
+      "value": 133.27,
       "display_type": "number"
     },
     {
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Normal Beard Black"
     }
   ]
 }

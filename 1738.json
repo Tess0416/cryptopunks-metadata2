@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 306,
+      "value": 748,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 364.16,
+      "value": 288.73,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Pilot Helmet"
     }
   ]
 }

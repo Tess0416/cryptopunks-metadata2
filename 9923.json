@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7526,
+      "value": 6752,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 93.98,
+      "value": 93.19,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Front Beard"
     }
   ]
 }

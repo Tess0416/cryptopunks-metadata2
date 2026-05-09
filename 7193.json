@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3380,
+      "value": 3163,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 171.82,
+      "value": 156.5,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Big Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Front Beard"
     }
   ]
 }

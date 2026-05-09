@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9789,
+      "value": 8193,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 46.16,
+      "value": 72.96,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Silver Chain"
     }
   ]
 }

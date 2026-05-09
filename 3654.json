@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9709,
+      "value": 7470,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 49.53,
+      "value": 83.51,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Pipe"
     }
   ]
 }

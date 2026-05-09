@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1531,
+      "value": 5278,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 248.67,
+      "value": 112.71,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Blonde Bob"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Wild Hair"
     }
   ]
 }

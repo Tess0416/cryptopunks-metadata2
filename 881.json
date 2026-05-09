@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Zombie"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1003,
+      "value": 696,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 281.34,
+      "value": 293.61,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Pigtails"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Normal Beard Black"
     }
   ]
 }

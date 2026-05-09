@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8397,
+      "value": 9775,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 77.35,
+      "value": 42.5,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Shadow Beard"
     }
   ]
 }

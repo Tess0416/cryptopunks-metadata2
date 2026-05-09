@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9054,
+      "value": 7960,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 64.39,
+      "value": 76.28,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Mustache"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3976,
+      "value": 9929,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 155.85,
+      "value": 36.29,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Buck Teeth"
     }
   ]
 }

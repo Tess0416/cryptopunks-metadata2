@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2900,
+      "value": 5030,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 185.18,
+      "value": 117,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Goat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigarette"
     },
     {
       "trait_type": "Accessory",
       "value": "Big Beard"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Blonde Short"
     }
   ]
 }

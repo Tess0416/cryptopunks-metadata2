@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5262,
+      "value": 6547,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 129.95,
+      "value": 95.59,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Front Beard Dark"
     }
   ]
 }

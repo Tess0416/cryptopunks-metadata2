@@ -10,26 +10,22 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4203,
+      "value": 8310,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 150.42,
+      "value": 70.5,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
@@ -37,11 +33,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Nerd Glasses"
     }
   ]
 }

@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7265,
+      "value": 421,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 97.37,
+      "value": 323.52,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Top Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
       "value": "Clown Nose"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Cigarette"
     }
   ]
 }

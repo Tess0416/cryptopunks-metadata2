@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6345,
+      "value": 7434,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 110.18,
+      "value": 84.01,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Stringy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Frumpy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "3D Glasses"
     }
   ]
 }

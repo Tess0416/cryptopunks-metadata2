@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5511,
+      "value": 505,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 124.83,
+      "value": 313.13,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Pigtails"
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Orange Side"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Classic Shades"
     }
   ]
 }

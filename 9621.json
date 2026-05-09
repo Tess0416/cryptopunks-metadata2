@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8790,
+      "value": 7695,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 68.87,
+      "value": 79.94,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Frumpy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Wild Hair"
     }
   ]
 }

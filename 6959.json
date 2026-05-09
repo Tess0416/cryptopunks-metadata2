@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8434,
+      "value": 8402,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 76.88,
+      "value": 69.27,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Handlebars"
     }
   ]
 }

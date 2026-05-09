@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8499,
+      "value": 8744,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 75.3,
+      "value": 63.38,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Knitted Cap"
     }
   ]
 }

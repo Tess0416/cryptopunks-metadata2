@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3539,
+      "value": 2801,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 167.33,
+      "value": 168.16,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Medical Mask"
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Half Shaved"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Purple Eye Shadow"
     }
   ]
 }

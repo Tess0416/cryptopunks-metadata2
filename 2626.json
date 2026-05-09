@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6328,
+      "value": 8207,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 110.41,
+      "value": 72.76,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
+      "value": "Luxurious Beard"
     }
   ]
 }

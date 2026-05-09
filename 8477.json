@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9205,
+      "value": 7622,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 61.55,
+      "value": 81.06,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Frumpy Hair"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Normal Beard"
     }
   ]
 }

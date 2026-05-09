@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3912,
+      "value": 4913,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 157.68,
+      "value": 119.09,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Purple Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Green Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Black Lipstick"
     }
   ]
 }

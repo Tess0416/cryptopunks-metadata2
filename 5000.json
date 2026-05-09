@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6744,
+      "value": 6018,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 105.1,
+      "value": 103.33,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Normal Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Pipe"
     }
   ]
 }

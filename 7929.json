@@ -10,22 +10,26 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5431,
+      "value": 1199,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 126.66,
+      "value": 257.06,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Blonde Bob"
     },
     {
       "trait_type": "Accessory",
@@ -33,11 +37,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Blonde Short"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Purple Eye Shadow"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 816,
+      "value": 924,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 293,
+      "value": 275.9,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Clown Hair Green"
     }
   ]
 }

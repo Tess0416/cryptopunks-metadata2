@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5160,
+      "value": 5947,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 131.99,
+      "value": 104.31,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Hoodie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Muttonchops"
     }
   ]
 }

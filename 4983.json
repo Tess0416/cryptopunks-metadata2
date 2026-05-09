@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 464,
+      "value": 2082,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 335.12,
+      "value": 204.01,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
@@ -41,7 +41,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Pipe"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3022,
+      "value": 2522,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 180.6,
+      "value": 179.82,
       "display_type": "number"
     },
     {
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Big Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Normal Beard"
     }
   ]
 }

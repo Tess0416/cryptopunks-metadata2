@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2336,
+      "value": 5288,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 208.45,
+      "value": 112.61,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Classic Shades"
     }
   ]
 }

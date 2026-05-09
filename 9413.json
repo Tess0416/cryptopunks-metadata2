@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9144,
+      "value": 9773,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 62.63,
+      "value": 42.63,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Eye Patch"
     }
   ]
 }

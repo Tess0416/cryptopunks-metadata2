@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7246,
+      "value": 4692,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 97.55,
+      "value": 123.06,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Silver Chain"
     }
   ]
 }

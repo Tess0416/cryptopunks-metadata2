@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6598,
+      "value": 7364,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 107.18,
+      "value": 85.27,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Front Beard Dark"
     }
   ]
 }

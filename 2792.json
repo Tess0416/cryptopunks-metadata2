@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7945,
+      "value": 6646,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 85.92,
+      "value": 94.57,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Green Eye Shadow"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mole"
     }
   ]
 }

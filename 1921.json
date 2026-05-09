@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2810,
+      "value": 4982,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 187.93,
+      "value": 117.85,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Blonde Bob"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Wild Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Frumpy Hair"
     }
   ]
 }

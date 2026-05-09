@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4800,
+      "value": 9009,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 138.59,
+      "value": 58.95,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Horned Rim Glasses"
     }
   ]
 }

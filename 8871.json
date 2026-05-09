@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9167,
+      "value": 7646,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 62.13,
+      "value": 80.57,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Tassle Hat"
     }
   ]
 }

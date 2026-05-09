@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5643,
+      "value": 9082,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 121.91,
+      "value": 57.91,
       "display_type": "number"
     },
     {
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
@@ -33,11 +33,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Cap"
     }
   ]
 }

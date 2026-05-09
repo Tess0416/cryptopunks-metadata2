@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8450,
+      "value": 6985,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 76.52,
+      "value": 90.61,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Straight Hair"
     }
   ]
 }

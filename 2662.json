@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4079,
+      "value": 4721,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 153.47,
+      "value": 122.49,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Top Hat"
     }
   ]
 }

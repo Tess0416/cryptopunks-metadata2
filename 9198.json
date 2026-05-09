@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8656,
+      "value": 3308,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 71.67,
+      "value": 152.25,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Crazy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Gold Chain"
     }
   ]
 }

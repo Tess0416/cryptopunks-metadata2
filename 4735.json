@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2567,
+      "value": 1088,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 197.98,
+      "value": 264.37,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Blonde Short"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Orange Side"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "3D Glasses"
     }
   ]
 }

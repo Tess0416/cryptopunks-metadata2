@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4558,
+      "value": 8846,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 142.81,
+      "value": 61.99,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Knitted Cap"
     }
   ]
 }

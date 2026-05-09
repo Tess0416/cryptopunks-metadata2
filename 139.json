@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1188,
+      "value": 2591,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 268.42,
+      "value": 177.43,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Black Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Wild Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Top Hat"
     }
   ]
 }

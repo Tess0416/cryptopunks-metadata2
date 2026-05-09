@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9943,
+      "value": 6668,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 36.57,
+      "value": 94.23,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Cowboy Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Shadow Beard"
     }
   ]
 }

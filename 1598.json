@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6630,
+      "value": 7169,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 106.94,
+      "value": 88.1,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Pipe"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Shadow Beard"
     }
   ]
 }

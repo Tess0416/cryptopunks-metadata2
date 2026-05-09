@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3405,
+      "value": 2844,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 171.16,
+      "value": 166.76,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Wild Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Rosy Cheeks"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Hot Lipstick"
     }
   ]
 }

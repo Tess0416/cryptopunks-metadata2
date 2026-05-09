@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7024,
+      "value": 3354,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 100.49,
+      "value": 151.19,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Wild Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Crazy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Hot Lipstick"
     }
   ]
 }

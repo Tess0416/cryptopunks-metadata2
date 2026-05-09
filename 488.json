@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 592,
+      "value": 1348,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 318.88,
+      "value": 248.99,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Orange Side"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Rosy Cheeks"
     }
   ]
 }

@@ -6,42 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 417,
+      "value": 5144,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 341.49,
+      "value": 114.78,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Straight Hair Blonde"
     },
     {
       "trait_type": "Accessory",
       "value": "Stringy Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Choker"
     }
   ]
 }

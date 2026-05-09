@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3747,
+      "value": 1631,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 162.2,
+      "value": 229.82,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Rosy Cheeks"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Straight Hair"
     }
   ]
 }

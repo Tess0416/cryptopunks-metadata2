@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3054,
+      "value": 2299,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 179.45,
+      "value": 190.63,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Blue Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Straight Hair Blonde"
     },
     {
       "trait_type": "Accessory",
       "value": "Spots"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Bandana"
     }
   ]
 }

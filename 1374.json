@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7154,
+      "value": 9857,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 98.73,
+      "value": 40.57,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Bandana"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Hot Lipstick"
     }
   ]
 }

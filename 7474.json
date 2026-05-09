@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 862,
+      "value": 5691,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 290.6,
+      "value": 107.72,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Cap"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3530,
+      "value": 3699,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 167.58,
+      "value": 142.05,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "VR"
     }
   ]
 }

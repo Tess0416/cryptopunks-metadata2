@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5531,
+      "value": 8352,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 124.49,
+      "value": 70.04,
       "display_type": "number"
     },
     {
@@ -24,16 +24,12 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Handlebars"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8273,
+      "value": 8493,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 79.45,
+      "value": 67.49,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Clown Nose"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 252,
+      "value": 2720,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 379.97,
+      "value": 171.38,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Purple Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Tassle Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Crazy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Bandana"
     }
   ]
 }

@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3207,
+      "value": 5426,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 176.18,
+      "value": 110.78,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Hoodie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "3D Glasses"
     }
   ]
 }

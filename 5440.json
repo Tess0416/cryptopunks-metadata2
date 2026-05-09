@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Zombie"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2191,
+      "value": 2303,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 213.98,
+      "value": 190.59,
       "display_type": "number"
     },
     {
@@ -24,20 +24,28 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "VR"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Small Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
       "value": "Muttonchops"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Front Beard"
     }
   ]
 }

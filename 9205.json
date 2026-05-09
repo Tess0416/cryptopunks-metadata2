@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8973,
+      "value": 6118,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 65.5,
+      "value": 101.9,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "Silver Chain"
     }
   ]
 }

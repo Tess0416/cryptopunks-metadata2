@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2088,
+      "value": 2794,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 218.4,
+      "value": 168.46,
       "display_type": "number"
     },
     {
@@ -24,12 +24,8 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Blonde Bob"
     },
     {
       "trait_type": "Accessory",
@@ -37,7 +33,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Purple Eye Shadow"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Crazy Hair"
     }
   ]
 }

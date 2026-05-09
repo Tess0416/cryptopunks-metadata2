@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 169,
+      "value": 979,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 415.09,
+      "value": 271.13,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Luxurious Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Pipe"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Cigarette"
     }
   ]
 }

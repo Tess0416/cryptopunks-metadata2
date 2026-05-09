@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 231,
+      "value": 3040,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 385.35,
+      "value": 160.17,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Mole"
     }
   ]
 }

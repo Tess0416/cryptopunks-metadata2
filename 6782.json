@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3986,
+      "value": 246,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 155.53,
+      "value": 359.18,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Clown Hair Green"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Tiara"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Frumpy Hair"
     },
     {
       "trait_type": "Accessory",

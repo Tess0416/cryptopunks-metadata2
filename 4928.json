@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8285,
+      "value": 8134,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 79.13,
+      "value": 73.76,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Normal Beard"
     }
   ]
 }

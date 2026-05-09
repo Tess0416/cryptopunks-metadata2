@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6265,
+      "value": 9922,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 111.13,
+      "value": 36.61,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Buck Teeth"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Shadow Beard"
     }
   ]
 }

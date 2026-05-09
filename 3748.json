@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4837,
+      "value": 1297,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 137.73,
+      "value": 251.61,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Orange Side"
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Stringy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Rosy Cheeks"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2959,
+      "value": 2592,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 183.04,
+      "value": 177.41,
       "display_type": "number"
     },
     {
@@ -24,20 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "Hoodie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mustache"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2376,
+      "value": 3282,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 206.77,
+      "value": 152.94,
       "display_type": "number"
     },
     {
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Cowboy Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Mohawk"
     }
   ]
 }

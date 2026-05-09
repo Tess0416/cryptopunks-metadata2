@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9377,
+      "value": 9964,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 58.21,
+      "value": 32.68,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Cigarette"
     }
   ]
 }

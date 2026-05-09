@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2851,
+      "value": 4471,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 186.65,
+      "value": 127.49,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Blonde Short"
     }
   ]
 }

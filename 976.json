@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8824,
+      "value": 7852,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 67.89,
+      "value": 77.54,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Handlebars"
     }
   ]
 }

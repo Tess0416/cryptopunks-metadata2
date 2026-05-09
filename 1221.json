@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2613,
+      "value": 8810,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 195.92,
+      "value": 62.34,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Smile"
     }
   ]
 }

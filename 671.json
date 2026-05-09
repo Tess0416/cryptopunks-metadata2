@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9246,
+      "value": 8779,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 60.96,
+      "value": 62.79,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Pipe"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Small Shades"
     }
   ]
 }

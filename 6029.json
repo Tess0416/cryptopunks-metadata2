@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8442,
+      "value": 9905,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 76.71,
+      "value": 38.47,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Hot Lipstick"
     }
   ]
 }

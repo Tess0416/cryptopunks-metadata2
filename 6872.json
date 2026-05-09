@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5828,
+      "value": 8444,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 118.26,
+      "value": 68.43,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Front Beard Dark"
     }
   ]
 }

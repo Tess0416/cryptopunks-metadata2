@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 121,
+      "value": 3328,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 453.29,
+      "value": 151.69,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Medical Mask"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Blonde Bob"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Eye Patch"
     }
   ]
 }

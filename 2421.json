@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3692,
+      "value": 588,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 163.57,
+      "value": 302.42,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Clown Hair Green"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Choker"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Eye Patch"
     }
   ]
 }

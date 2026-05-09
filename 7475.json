@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1451,
+      "value": 1972,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 253.23,
+      "value": 210.12,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Bandana"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Pigtails"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Rosy Cheeks"
     }
   ]
 }

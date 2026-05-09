@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4573,
+      "value": 3232,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 142.33,
+      "value": 154.12,
       "display_type": "number"
     },
     {
@@ -24,20 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Front Beard Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Muttonchops"
     }
   ]
 }

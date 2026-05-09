@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6092,
+      "value": 5102,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 113.7,
+      "value": 115.66,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Front Beard Dark"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6046,
+      "value": 4569,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 114.35,
+      "value": 125.59,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Normal Beard Black"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Silver Chain"
     }
   ]
 }

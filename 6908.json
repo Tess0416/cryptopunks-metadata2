@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3009,
+      "value": 211,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 180.97,
+      "value": 368.87,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
@@ -37,11 +37,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Smile"
     }
   ]
 }

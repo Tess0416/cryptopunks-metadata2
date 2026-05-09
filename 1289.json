@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7254,
+      "value": 9947,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 97.45,
+      "value": 34.21,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Cigarette"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Shadow Beard"
     }
   ]
 }

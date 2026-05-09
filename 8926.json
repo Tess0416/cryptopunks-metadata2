@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7692,
+      "value": 7131,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 90.9,
+      "value": 88.79,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Black Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Dark Hair"
     }
   ]
 }

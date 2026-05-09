@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7229,
+      "value": 7440,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 97.7,
+      "value": 83.91,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Classic Shades"
     }
   ]
 }

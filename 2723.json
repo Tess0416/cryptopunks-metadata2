@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3313,
+      "value": 2032,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 173.62,
+      "value": 207.75,
       "display_type": "number"
     },
     {
@@ -24,20 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Pigtails"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Headband"
     }
   ]
 }

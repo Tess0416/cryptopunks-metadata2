@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2557,
+      "value": 754,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 198.46,
+      "value": 288.63,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Eye Patch"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6977,
+      "value": 4063,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 101.07,
+      "value": 134.81,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Rosy Cheeks"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Messy Hair"
     }
   ]
 }

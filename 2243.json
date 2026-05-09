@@ -6,34 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Ape"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7364,
+      "value": 36,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 96.06,
+      "value": 601.94,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Legendary"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frumpy Hair"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mustache"
     }
   ]
 }

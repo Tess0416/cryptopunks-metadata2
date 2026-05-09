@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8481,
+      "value": 7766,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 75.81,
+      "value": 78.58,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "Mohawk"
     }
   ]
 }

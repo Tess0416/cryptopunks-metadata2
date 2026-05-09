@@ -10,38 +10,22 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3299,
+      "value": 15,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 174,
+      "value": 1251.98,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Legendary"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 0,
       "display_type": "number"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Normal Beard"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Front Beard Dark"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Straight Hair"
     }
   ]
 }

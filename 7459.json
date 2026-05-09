@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3301,
+      "value": 3054,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 173.93,
+      "value": 159.76,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
+      "value": "Black Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Rosy Cheeks"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Purple Hair"
     }
   ]
 }

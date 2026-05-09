@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5255,
+      "value": 2154,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 130.05,
+      "value": 199.16,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Pigtails"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Blonde Bob"
     }
   ]
 }

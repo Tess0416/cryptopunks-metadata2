@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1598,
+      "value": 2014,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 245.63,
+      "value": 208.57,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Vape"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 235,
+      "value": 2759,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 384.67,
+      "value": 169.82,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Straight Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Crazy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Frumpy Hair"
     }
   ]
 }

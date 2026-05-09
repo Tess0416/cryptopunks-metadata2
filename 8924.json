@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Zombie"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1023,
+      "value": 1410,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 280.41,
+      "value": 244.66,
       "display_type": "number"
     },
     {
@@ -24,20 +24,28 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Hoodie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Fedora"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Normal Beard Black"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Big Shades"
     }
   ]
 }

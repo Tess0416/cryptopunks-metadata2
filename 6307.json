@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2469,
+      "value": 1764,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 201.72,
+      "value": 221.92,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Orange Side"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Wild Blonde"
     }
   ]
 }

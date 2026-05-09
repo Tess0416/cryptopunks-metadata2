@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 347,
+      "value": 7620,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 354.99,
+      "value": 81.13,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Frown"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Classic Shades"
     }
   ]
 }

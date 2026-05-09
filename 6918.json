@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3937,
+      "value": 3891,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 156.95,
+      "value": 138.42,
       "display_type": "number"
     },
     {
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "3D Glasses"
     }
   ]
 }

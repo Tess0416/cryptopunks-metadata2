@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 104,
+      "value": 8990,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 477.89,
+      "value": 59.44,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Cap"
     }
   ]
 }

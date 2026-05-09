@@ -6,50 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9,
+      "value": 7272,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 1297.22,
+      "value": 86.74,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Legendary"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 6,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Pipe"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
       "value": "Chinstrap"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Cap"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Luxurious Beard"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
     }
   ]
 }

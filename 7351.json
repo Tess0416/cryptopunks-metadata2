@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5410,
+      "value": 4115,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 127.2,
+      "value": 133.49,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Pigtails"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Eye Patch"
     }
   ]
 }

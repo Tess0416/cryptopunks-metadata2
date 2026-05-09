@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6541,
+      "value": 8129,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 107.74,
+      "value": 73.92,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigarette"
     },
     {
       "trait_type": "Accessory",
       "value": "Front Beard"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Muttonchops"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5227,
+      "value": 4700,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 130.64,
+      "value": 122.89,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Blonde Bob"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Classic Shades"
     }
   ]
 }

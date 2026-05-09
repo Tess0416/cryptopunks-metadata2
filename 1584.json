@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 259,
+      "value": 7464,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 378.05,
+      "value": 83.57,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Shadow Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Small Shades"
     }
   ]
 }

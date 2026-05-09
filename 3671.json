@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4703,
+      "value": 2418,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 140.66,
+      "value": 184.62,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Blonde Short"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Purple Eye Shadow"
     }
   ]
 }

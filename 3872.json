@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4082,
+      "value": 3439,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 153.36,
+      "value": 148.92,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Straight Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Tassle Hat"
     }
   ]
 }

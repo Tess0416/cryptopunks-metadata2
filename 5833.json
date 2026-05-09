@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6522,
+      "value": 9869,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 107.89,
+      "value": 39.83,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "Cigarette"
     }
   ]
 }

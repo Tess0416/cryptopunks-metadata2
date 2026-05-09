@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7322,
+      "value": 2219,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 96.55,
+      "value": 195.14,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Pigtails"
     }
   ]
 }

@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1855,
+      "value": 6445,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 229.98,
+      "value": 97.07,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Chinstrap"
     }
   ]
 }

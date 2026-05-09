@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4094,
+      "value": 3386,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 152.9,
+      "value": 150.16,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Mohawk"
     }
   ]
 }

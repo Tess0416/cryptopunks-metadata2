@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6367,
+      "value": 6692,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 109.94,
+      "value": 93.91,
       "display_type": "number"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Big Shades"
     }
   ]
 }

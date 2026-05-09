@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2560,
+      "value": 3572,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 198.31,
+      "value": 145.32,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Big Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Normal Beard Black"
     }
   ]
 }

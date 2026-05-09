@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2970,
+      "value": 1140,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 182.49,
+      "value": 259.63,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Orange Side"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Bandana"
     },
     {
       "trait_type": "Accessory",

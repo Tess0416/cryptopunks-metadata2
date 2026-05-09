@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3977,
+      "value": 7887,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 155.85,
+      "value": 77.21,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Clown Nose"
     }
   ]
 }

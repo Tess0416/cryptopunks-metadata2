@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3030,
+      "value": 3296,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 180.33,
+      "value": 152.62,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "Frumpy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Half Shaved"
     },
     {
       "trait_type": "Accessory",
       "value": "Medical Mask"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Clown Hair Green"
     }
   ]
 }

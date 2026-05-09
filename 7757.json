@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2430,
+      "value": 5190,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 203.87,
+      "value": 114.04,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -33,15 +33,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Smile"
     }
   ]
 }

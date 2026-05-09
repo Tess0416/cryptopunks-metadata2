@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7255,
+      "value": 9533,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 97.45,
+      "value": 49.14,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Buck Teeth"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Pipe"
     }
   ]
 }

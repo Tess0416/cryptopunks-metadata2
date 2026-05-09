@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5923,
+      "value": 5973,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 116.44,
+      "value": 103.86,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "3D Glasses"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9524,
+      "value": 5021,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 54.57,
+      "value": 117.23,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Cowboy Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Smile"
     }
   ]
 }

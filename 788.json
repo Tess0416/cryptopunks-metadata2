@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7433,
+      "value": 5942,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 95.19,
+      "value": 104.33,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Tassle Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "Headband"
     }
   ]
 }

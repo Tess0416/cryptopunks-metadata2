@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2769,
+      "value": 2549,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 189.15,
+      "value": 178.81,
       "display_type": "number"
     },
     {
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Front Beard Dark"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Top Hat"
     }
   ]
 }

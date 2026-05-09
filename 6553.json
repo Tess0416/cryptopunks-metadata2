@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1307,
+      "value": 6358,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 260.3,
+      "value": 98.24,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Buck Teeth"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Spots"
     }
   ]
 }

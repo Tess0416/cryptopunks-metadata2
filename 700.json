@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9015,
+      "value": 9621,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 65,
+      "value": 46.93,
       "display_type": "number"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Classic Shades"
     }
   ]
 }

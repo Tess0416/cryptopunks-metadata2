@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7885,
+      "value": 5990,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 87.04,
+      "value": 103.72,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Blonde Short"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Bandana"
     }
   ]
 }

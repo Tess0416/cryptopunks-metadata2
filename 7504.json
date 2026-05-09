@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Alien"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 28,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 1178.8,
+      "value": 10335.51,
       "display_type": "number"
     },
     {
@@ -24,16 +24,36 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 7,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Big Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pilot Helmet"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Normal Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Goat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Front Beard Dark"
     }
   ]
 }

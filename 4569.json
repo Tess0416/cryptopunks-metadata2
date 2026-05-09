@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2375,
+      "value": 3915,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 206.83,
+      "value": 137.76,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Shadow Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Goat"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9838,
+      "value": 5376,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 44.05,
+      "value": 111.31,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Big Beard"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8947,
+      "value": 9833,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 65.9,
+      "value": 41.46,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Messy Hair"
+      "value": "Buck Teeth"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Knitted Cap"
     }
   ]
 }

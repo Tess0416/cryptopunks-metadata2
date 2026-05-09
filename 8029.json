@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6817,
+      "value": 8298,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 103.86,
+      "value": 70.65,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Clown Nose"
     }
   ]
 }

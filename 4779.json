@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2386,
+      "value": 4529,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 206.21,
+      "value": 126.33,
       "display_type": "number"
     },
     {
@@ -24,12 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Straight Hair Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",

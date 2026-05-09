@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5280,
+      "value": 5650,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 129.65,
+      "value": 108.23,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Earring"
     }
   ]
 }

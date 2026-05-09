@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5746,
+      "value": 6244,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 119.99,
+      "value": 99.75,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Rosy Cheeks"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Black Lipstick"
     }
   ]
 }

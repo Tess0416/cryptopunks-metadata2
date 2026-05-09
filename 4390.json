@@ -6,30 +6,34 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7583,
+      "value": 4537,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 92.93,
+      "value": 126.1,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Normal Beard Black"
     },
     {
       "trait_type": "Accessory",
@@ -37,7 +41,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "3D Glasses"
     }
   ]
 }

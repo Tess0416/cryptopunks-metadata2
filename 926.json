@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3982,
+      "value": 1285,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 155.65,
+      "value": 252.26,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Pigtails"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Medical Mask"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Classic Shades"
     }
   ]
 }

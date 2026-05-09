@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4237,
+      "value": 4209,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 149.85,
+      "value": 131.63,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Accessory",
       "value": "Big Shades"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Eye Patch"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Pink With Hat"
     }
   ]
 }

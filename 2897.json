@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1138,
+      "value": 2490,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 271.02,
+      "value": 181.08,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Pipe"
     }
   ]
 }

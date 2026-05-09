@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5648,
+      "value": 5908,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 121.8,
+      "value": 104.94,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Muttonchops"
     }
   ]
 }

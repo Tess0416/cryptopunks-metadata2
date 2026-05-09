@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2631,
+      "value": 2896,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 195.33,
+      "value": 164.59,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Straight Hair Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Straight Hair Dark"
     }
   ]
 }

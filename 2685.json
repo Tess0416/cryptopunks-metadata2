@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3828,
+      "value": 1316,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 160.27,
+      "value": 250.93,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Mole"
     }
   ]
 }

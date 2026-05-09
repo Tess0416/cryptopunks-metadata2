@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 642,
+      "value": 4599,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 312.08,
+      "value": 124.88,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Silver Chain"
     }
   ]
 }

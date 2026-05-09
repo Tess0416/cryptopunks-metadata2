@@ -10,38 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4630,
+      "value": 9604,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 141.48,
+      "value": 47.47,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
       "value": "Hoodie"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Tassle Hat"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8667,
+      "value": 5748,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 71.44,
+      "value": 107.13,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "Eye Patch"
     }
   ]
 }

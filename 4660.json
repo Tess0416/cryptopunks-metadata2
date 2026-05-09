@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7960,
+      "value": 6384,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 85.62,
+      "value": 97.89,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Goat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Small Shades"
     }
   ]
 }

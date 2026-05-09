@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5092,
+      "value": 1600,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 133.02,
+      "value": 231.19,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Headband"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6863,
+      "value": 6739,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 103.09,
+      "value": 93.28,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "Fedora"
     }
   ]
 }

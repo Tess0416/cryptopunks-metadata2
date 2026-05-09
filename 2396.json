@@ -10,26 +10,22 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8100,
+      "value": 1094,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 82.71,
+      "value": 263.97,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Bandana"
     },
     {
       "trait_type": "Accessory",
@@ -37,7 +33,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Orange Side"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Silver Chain"
     }
   ]
 }

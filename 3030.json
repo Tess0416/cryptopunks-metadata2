@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3595,
+      "value": 5844,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 166.05,
+      "value": 105.76,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Frown"
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Hoodie"
     }
   ]
 }

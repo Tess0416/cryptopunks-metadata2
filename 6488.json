@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4893,
+      "value": 8227,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 136.67,
+      "value": 72.17,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "VR"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Eye Patch"
     }
   ]
 }

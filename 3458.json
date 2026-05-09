@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7685,
+      "value": 8697,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 91.05,
+      "value": 64.25,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Small Shades"
     }
   ]
 }

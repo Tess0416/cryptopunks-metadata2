@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7712,
+      "value": 2454,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 90.22,
+      "value": 182.43,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Frumpy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Half Shaved"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Top Hat"
     }
   ]
 }

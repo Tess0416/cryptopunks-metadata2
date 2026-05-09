@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6662,
+      "value": 6287,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 106.49,
+      "value": 99.02,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Silver Chain"
     }
   ]
 }

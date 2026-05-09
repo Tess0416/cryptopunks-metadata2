@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1129,
+      "value": 2235,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 271.86,
+      "value": 194.48,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Top Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
       "value": "Mohawk"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Gold Chain"
     }
   ]
 }

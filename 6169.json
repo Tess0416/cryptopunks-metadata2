@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2181,
+      "value": 2703,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 214.2,
+      "value": 172.4,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Wild Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Spots"
     }
   ]
 }

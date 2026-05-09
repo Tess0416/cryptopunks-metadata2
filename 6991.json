@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7917,
+      "value": 9408,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 86.4,
+      "value": 51.61,
       "display_type": "number"
     },
     {
@@ -24,20 +24,12 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 1,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
-    },
-    {
-      "trait_type": "Accessory",
       "value": "Regular Shades"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Small Shades"
     }
   ]
 }

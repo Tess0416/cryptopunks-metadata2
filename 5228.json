@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4202,
+      "value": 2630,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 150.45,
+      "value": 175.49,
       "display_type": "number"
     },
     {
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Shadow Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Front Beard"
     }
   ]
 }

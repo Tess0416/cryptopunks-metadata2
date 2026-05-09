@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2000,
+      "value": 7935,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 222.47,
+      "value": 76.66,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Normal Beard"
     }
   ]
 }

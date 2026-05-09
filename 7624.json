@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3237,
+      "value": 3072,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 175.2,
+      "value": 159.18,
       "display_type": "number"
     },
     {
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Silver Chain"
     }
   ]
 }

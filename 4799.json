@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9867,
+      "value": 8946,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 42.46,
+      "value": 60.25,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Horned Rim Glasses"
     }
   ]
 }

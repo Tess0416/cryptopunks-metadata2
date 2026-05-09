@@ -6,38 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5452,
+      "value": 2333,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 126.11,
+      "value": 189.17,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Top Hat"
     }
   ]
 }

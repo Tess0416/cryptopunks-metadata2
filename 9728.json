@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5713,
+      "value": 8487,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 120.53,
+      "value": 67.57,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Pipe"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Shadow Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Buck Teeth"
     }
   ]
 }

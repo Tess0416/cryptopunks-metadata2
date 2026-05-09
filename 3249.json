@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7607,
+      "value": 329,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 92.46,
+      "value": 337.99,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "Big Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Handlebars"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6730,
+      "value": 6298,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 105.36,
+      "value": 98.93,
       "display_type": "number"
     },
     {
@@ -24,16 +24,12 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 2,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",

@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2242,
+      "value": 6136,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 211.76,
+      "value": 101.64,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Pipe"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Knitted Cap"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8222,
+      "value": 6309,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 80.19,
+      "value": 98.83,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Hoodie"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Mohawk"
     }
   ]
 }

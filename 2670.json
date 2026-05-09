@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5540,
+      "value": 3806,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 124.28,
+      "value": 139.96,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Frown"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cowboy Hat"
+      "value": "Do-rag"
     }
   ]
 }

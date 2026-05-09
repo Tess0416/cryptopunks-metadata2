@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2415,
+      "value": 2067,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 204.73,
+      "value": 205.43,
       "display_type": "number"
     },
     {
@@ -24,28 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 5,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
+      "value": "Pigtails"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
       "value": "VR"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Nerd Glasses"
     }
   ]
 }

@@ -10,34 +10,22 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6077,
+      "value": 12,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 113.89,
+      "value": 1251.98,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Legendary"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 0,
       "display_type": "number"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Classic Shades"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Messy Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Half Shaved"
     }
   ]
 }

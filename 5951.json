@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9999,
+      "value": 9558,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 23.23,
+      "value": 48.4,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Regular Shades"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1389,
+      "value": 8638,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 256.03,
+      "value": 65.11,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Cigarette"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "3D Glasses"
     }
   ]
 }

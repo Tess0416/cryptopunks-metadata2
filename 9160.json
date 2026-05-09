@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6697,
+      "value": 416,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 105.96,
+      "value": 324.12,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Wild Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Half Shaved"
     }
   ]
 }

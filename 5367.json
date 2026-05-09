@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3746,
+      "value": 1919,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 162.29,
+      "value": 212.77,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "Pilot Helmet"
     }
   ]
 }

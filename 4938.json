@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5823,
+      "value": 1814,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 118.4,
+      "value": 219.69,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Blonde Short"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Medical Mask"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Black Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Gold Chain"
     }
   ]
 }

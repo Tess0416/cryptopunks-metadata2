@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6813,
+      "value": 7544,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 103.9,
+      "value": 82.36,
       "display_type": "number"
     },
     {
@@ -24,16 +24,12 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
@@ -41,7 +37,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Peak Spike"
     }
   ]
 }

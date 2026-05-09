@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1490,
+      "value": 1543,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 251.07,
+      "value": 235.42,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
+      "value": "Blonde Bob"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Tassle Hat"
+    },
+    {
+      "trait_type": "Accessory",
       "value": "Pigtails"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Pink With Hat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Normal Beard Black"
     }
   ]
 }

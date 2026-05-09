@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9161,
+      "value": 7274,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 62.21,
+      "value": 86.69,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Clown Nose"
     }
   ]
 }

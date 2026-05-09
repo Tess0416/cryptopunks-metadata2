@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3292,
+      "value": 2533,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 174.11,
+      "value": 179.39,
       "display_type": "number"
     },
     {
@@ -24,20 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Blonde Bob"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Goat"
+      "value": "Frumpy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Classic Shades"
     }
   ]
 }

@@ -10,38 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 336,
+      "value": 6897,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 357.86,
+      "value": 91.65,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Messy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "VR"
     }
   ]
 }

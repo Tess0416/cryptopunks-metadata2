@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4761,
+      "value": 2481,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 139.51,
+      "value": 181.24,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Pigtails"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Wild Blonde"
     }
   ]
 }

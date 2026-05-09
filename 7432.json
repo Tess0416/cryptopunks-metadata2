@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7168,
+      "value": 6389,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 98.57,
+      "value": 97.7,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Headband"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Luxurious Beard"
     }
   ]
 }

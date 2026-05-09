@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3238,
+      "value": 1947,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 175.19,
+      "value": 211.41,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Hot Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Frumpy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Purple Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Wild White Hair"
     }
   ]
 }

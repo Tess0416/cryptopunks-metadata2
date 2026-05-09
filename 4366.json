@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4461,
+      "value": 4049,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 144.68,
+      "value": 135.1,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Medical Mask"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Purple Eye Shadow"
     }
   ]
 }

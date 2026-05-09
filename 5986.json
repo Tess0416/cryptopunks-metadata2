@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 219,
+      "value": 4957,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 390.45,
+      "value": 118.34,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Hoodie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Shadow Beard"
     }
   ]
 }

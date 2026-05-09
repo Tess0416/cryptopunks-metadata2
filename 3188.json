@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5815,
+      "value": 8505,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 118.53,
+      "value": 67.25,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "Bandana"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Crazy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Nerd Glasses"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5795,
+      "value": 6830,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 119.02,
+      "value": 92.19,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Shadow Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Normal Beard"
     }
   ]
 }

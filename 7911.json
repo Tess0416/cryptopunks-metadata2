@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7700,
+      "value": 5181,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 90.49,
+      "value": 114.13,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Hoodie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Frown"
     }
   ]
 }

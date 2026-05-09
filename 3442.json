@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3177,
+      "value": 3409,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 176.81,
+      "value": 149.73,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Normal Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Clown Nose"
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Silver Chain"
     }
   ]
 }

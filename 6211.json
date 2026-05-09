@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4990,
+      "value": 6059,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 134.84,
+      "value": 102.61,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Classic Shades"
     }
   ]
 }

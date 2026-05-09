@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8123,
+      "value": 7361,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 82.27,
+      "value": 85.31,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "Buck Teeth"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Do-rag"
     }
   ]
 }

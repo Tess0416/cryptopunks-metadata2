@@ -6,38 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 861,
+      "value": 5370,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 290.64,
+      "value": 111.38,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mole"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2518,
+      "value": 2339,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 200.08,
+      "value": 188.82,
       "display_type": "number"
     },
     {
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Normal Beard Black"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Pipe"
     }
   ]
 }

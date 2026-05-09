@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 707,
+      "value": 6814,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 303.8,
+      "value": 92.39,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Buck Teeth"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
+      "value": "Hoodie"
     }
   ]
 }

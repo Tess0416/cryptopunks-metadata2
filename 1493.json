@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6290,
+      "value": 6710,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 110.93,
+      "value": 93.69,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
-    },
-    {
-      "trait_type": "Accessory",
       "value": "Normal Beard Black"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "3D Glasses"
     }
   ]
 }

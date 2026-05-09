@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6912,
+      "value": 6983,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 102.25,
+      "value": 90.62,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Normal Beard Black"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "VR"
     }
   ]
 }

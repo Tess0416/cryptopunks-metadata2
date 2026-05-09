@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1508,
+      "value": 2795,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 250.06,
+      "value": 168.42,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frumpy Hair"
+      "value": "Mole"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Wild White Hair"
     },
     {
       "trait_type": "Accessory",
       "value": "Stringy Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Tiara"
     }
   ]
 }

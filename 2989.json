@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6910,
+      "value": 5651,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 102.28,
+      "value": 108.22,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Cowboy Hat"
     }
   ]
 }

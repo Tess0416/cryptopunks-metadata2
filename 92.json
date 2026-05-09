@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6219,
+      "value": 7469,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 111.73,
+      "value": 83.51,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Pipe"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Clown Nose"
     }
   ]
 }

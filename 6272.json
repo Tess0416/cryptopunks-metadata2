@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8014,
+      "value": 7031,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 84.45,
+      "value": 90.15,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frumpy Hair"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Chinstrap"
     }
   ]
 }

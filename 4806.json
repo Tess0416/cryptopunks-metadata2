@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6627,
+      "value": 3826,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 106.95,
+      "value": 139.67,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Straight Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Half Shaved"
     }
   ]
 }

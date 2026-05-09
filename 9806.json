@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2854,
+      "value": 4339,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 186.48,
+      "value": 129.62,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Tassle Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Half Shaved"
     }
   ]
 }

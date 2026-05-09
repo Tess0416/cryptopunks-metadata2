@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2565,
+      "value": 2498,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 198.01,
+      "value": 180.6,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Bandana"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Half Shaved"
     }
   ]
 }

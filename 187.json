@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1813,
+      "value": 6316,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 232.5,
+      "value": 98.69,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Gold Chain"
     }
   ]
 }

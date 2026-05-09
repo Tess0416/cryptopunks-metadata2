@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7593,
+      "value": 8845,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 92.74,
+      "value": 61.99,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Do-rag"
     }
   ]
 }

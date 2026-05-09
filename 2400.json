@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8018,
+      "value": 4677,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 84.42,
+      "value": 123.3,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Silver Chain"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Pipe"
     }
   ]
 }

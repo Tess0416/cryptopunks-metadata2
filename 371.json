@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3028,
+      "value": 2682,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 180.47,
+      "value": 173.34,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
-    },
-    {
-      "trait_type": "Accessory",
       "value": "Wild Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Silver Chain"
     }
   ]
 }

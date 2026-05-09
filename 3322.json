@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5725,
+      "value": 6382,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 120.34,
+      "value": 97.91,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Hot Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Rosy Cheeks"
     }
   ]
 }

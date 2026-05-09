@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3374,
+      "value": 882,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 171.97,
+      "value": 279.32,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pipe"
+      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Small Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Hair Green"
+      "value": "Straight Hair"
     }
   ]
 }

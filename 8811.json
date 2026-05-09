@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2001,
+      "value": 1456,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 222.47,
+      "value": 241.13,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Pigtails"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Dark Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Red Mohawk"
+      "value": "Straight Hair"
     }
   ]
 }

@@ -10,34 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7663,
+      "value": 674,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 91.52,
+      "value": 295.41,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Pigtails"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Dark Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Blonde Short"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Eye Shadow"
     }
   ]
 }

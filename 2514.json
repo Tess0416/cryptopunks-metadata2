@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6610,
+      "value": 9661,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 107.08,
+      "value": 46.08,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Dark"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Eye Patch"
     }
   ]
 }

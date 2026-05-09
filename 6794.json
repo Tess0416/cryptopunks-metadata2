@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Alien"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 23,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 1209.38,
+      "value": 1299.32,
       "display_type": "number"
     },
     {
@@ -24,8 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 6,
       "display_type": "number"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Normal Beard Black"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
@@ -33,11 +41,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frumpy Hair"
+      "value": "Luxurious Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nerd Glasses"
     }
   ]
 }

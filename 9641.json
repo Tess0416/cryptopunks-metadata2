@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7138,
+      "value": 6511,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 99,
+      "value": 96.14,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Purple Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "VR"
     }
   ]
 }

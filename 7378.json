@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 746,
+      "value": 1724,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 300.09,
+      "value": 224.7,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Pilot Helmet"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9244,
+      "value": 5937,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 61.04,
+      "value": 104.45,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Shadow Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Spots"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5680,
+      "value": 7630,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 121.11,
+      "value": 80.95,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Goat"
     }
   ]
 }

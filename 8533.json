@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 155,
+      "value": 3548,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 424.81,
+      "value": 146.12,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pink With Hat"
+      "value": "Wild White Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Stringy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Mole"
     }
   ]
 }

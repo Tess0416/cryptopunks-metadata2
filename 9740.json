@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4231,
+      "value": 655,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 149.93,
+      "value": 297.09,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Pigtails"
     }
   ]
 }

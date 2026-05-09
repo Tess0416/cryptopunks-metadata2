@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5800,
+      "value": 5223,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 118.86,
+      "value": 113.53,
       "display_type": "number"
     },
     {
@@ -24,16 +24,8 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 2,
       "display_type": "number"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Front Beard Dark"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Hot Lipstick"
     },
     {
       "trait_type": "Accessory",
@@ -41,7 +33,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Cowboy Hat"
     }
   ]
 }

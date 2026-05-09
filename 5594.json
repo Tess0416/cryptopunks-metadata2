@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8941,
+      "value": 5024,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 65.94,
+      "value": 117.23,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Cowboy Hat"
     }
   ]
 }

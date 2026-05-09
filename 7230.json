@@ -10,42 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2361,
+      "value": 5116,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 207.49,
+      "value": 115.38,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 5,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Bandana"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Messy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Front Beard Dark"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Blonde Bob"
     }
   ]
 }

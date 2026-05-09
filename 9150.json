@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5945,
+      "value": 8250,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 116.03,
+      "value": 71.71,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Mole"
     }
   ]
 }

@@ -6,26 +6,30 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3928,
+      "value": 1262,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 157.18,
+      "value": 253.78,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
@@ -33,11 +37,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Earring"
     }
   ]
 }

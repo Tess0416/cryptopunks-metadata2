@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1955,
+      "value": 8271,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 224.21,
+      "value": 71.3,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
+      "value": "Pipe"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Luxurious Beard"
     }
   ]
 }

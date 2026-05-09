@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7704,
+      "value": 5445,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 90.42,
+      "value": 110.73,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Gold Chain"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Regular Shades"
     }
   ]
 }

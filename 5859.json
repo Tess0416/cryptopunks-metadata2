@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1600,
+      "value": 1484,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 245.51,
+      "value": 239.09,
       "display_type": "number"
     },
     {
@@ -24,24 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frumpy Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Cap"
+      "value": "Tiara"
     }
   ]
 }

@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8627,
+      "value": 5340,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 72.35,
+      "value": 111.7,
       "display_type": "number"
     },
     {
@@ -24,20 +24,24 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Regular Shades"
     }
   ]
 }

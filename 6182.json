@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4276,
+      "value": 6322,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 148.68,
+      "value": 98.67,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Fedora"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild White Hair"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Shadow Beard"
     }
   ]
 }

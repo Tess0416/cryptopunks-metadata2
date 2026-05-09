@@ -10,42 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 467,
+      "value": 2555,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 334.68,
+      "value": 178.66,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 5,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Purple Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Bob"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Straight Hair"
     },
     {
       "trait_type": "Accessory",
       "value": "Wild Blonde"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Shaved Head"
     }
   ]
 }

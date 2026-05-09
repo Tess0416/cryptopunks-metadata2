@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5241,
+      "value": 9927,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 130.42,
+      "value": 36.57,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Buck Teeth"
     }
   ]
 }

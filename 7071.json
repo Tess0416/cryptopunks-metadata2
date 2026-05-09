@@ -10,22 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6944,
+      "value": 2209,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 101.62,
+      "value": 196.18,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Rosy Cheeks"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
@@ -33,7 +41,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Blonde Bob"
     }
   ]
 }

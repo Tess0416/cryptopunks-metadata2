@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 196,
+      "value": 392,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 400.85,
+      "value": 327.12,
       "display_type": "number"
     },
     {
@@ -24,8 +24,12 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
@@ -33,11 +37,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Half Shaved"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Messy Hair"
     }
   ]
 }

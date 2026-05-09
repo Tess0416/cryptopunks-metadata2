@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9150,
+      "value": 743,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 62.56,
+      "value": 289.4,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Tiara"
     },
     {
       "trait_type": "Accessory",
-      "value": "Regular Shades"
+      "value": "Headband"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Rosy Cheeks"
     }
   ]
 }

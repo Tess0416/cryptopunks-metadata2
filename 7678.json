@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7708,
+      "value": 8719,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 90.31,
+      "value": 63.78,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Messy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Green"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Eye Patch"
     }
   ]
 }

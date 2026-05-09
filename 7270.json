@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1870,
+      "value": 374,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 229.1,
+      "value": 330.55,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Luxurious Beard"
     }
   ]
 }

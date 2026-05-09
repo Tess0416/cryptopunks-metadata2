@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6934,
+      "value": 7167,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 101.86,
+      "value": 88.11,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blue Eye Shadow"
+      "value": "Pipe"
     }
   ]
 }

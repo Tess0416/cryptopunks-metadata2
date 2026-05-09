@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5705,
+      "value": 3643,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 120.63,
+      "value": 143.54,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Purple Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Blonde Short"
     }
   ]
 }

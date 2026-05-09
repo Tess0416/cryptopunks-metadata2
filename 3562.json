@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7133,
+      "value": 3629,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 99.02,
+      "value": 143.99,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Cowboy Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "Goat"
     }
   ]
 }

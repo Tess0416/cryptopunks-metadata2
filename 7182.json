@@ -6,34 +6,38 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Ape"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7406,
+      "value": 42,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 95.56,
+      "value": 556.2,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Legendary"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Normal Beard Black"
     },
     {
       "trait_type": "Accessory",
       "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Hoodie"
     }
   ]
 }

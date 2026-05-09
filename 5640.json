@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9700,
+      "value": 7571,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 49.94,
+      "value": 81.78,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "3D Glasses"
     }
   ]
 }

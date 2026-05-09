@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2334,
+      "value": 6350,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 208.45,
+      "value": 98.29,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "Messy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Vape"
     }
   ]
 }

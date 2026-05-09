@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7318,
+      "value": 6536,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 96.58,
+      "value": 95.75,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Hoodie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard Black"
+      "value": "Normal Beard"
     }
   ]
 }

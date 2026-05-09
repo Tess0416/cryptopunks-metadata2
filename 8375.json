@@ -6,38 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1769,
+      "value": 4608,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 235.77,
+      "value": 124.77,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Muttonchops"
     }
   ]
 }

@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7131,
+      "value": 3363,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 99.03,
+      "value": 151.07,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Cowboy Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Fedora"
     }
   ]
 }

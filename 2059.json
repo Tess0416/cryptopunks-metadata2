@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8377,
+      "value": 1755,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 77.53,
+      "value": 222.98,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Mask"
+      "value": "Peak Spike"
     }
   ]
 }

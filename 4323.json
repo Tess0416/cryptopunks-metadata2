@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 735,
+      "value": 1704,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 300.96,
+      "value": 226.07,
       "display_type": "number"
     },
     {
@@ -24,28 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 5,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "VR"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Wild White Hair"
     },
     {
       "trait_type": "Accessory",
       "value": "Top Hat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Crazy Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Blonde Bob"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "3D Glasses"
     }
   ]
 }

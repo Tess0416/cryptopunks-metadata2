@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4378,
+      "value": 8708,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 146.44,
+      "value": 64.1,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Mohawk"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Mole"
     }
   ]
 }

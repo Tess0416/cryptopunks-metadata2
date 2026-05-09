@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5711,
+      "value": 5842,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 120.55,
+      "value": 105.81,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Clown Nose"
     }
   ]
 }

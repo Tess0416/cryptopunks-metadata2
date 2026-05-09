@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 319,
+      "value": 4269,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 361.83,
+      "value": 130.42,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Green Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Wild Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Horned Rim Glasses"
     }
   ]
 }

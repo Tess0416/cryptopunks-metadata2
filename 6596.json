@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2213,
+      "value": 912,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 213.16,
+      "value": 276.65,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Pigtails"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Tassle Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Nerd Glasses"
     }
   ]
 }

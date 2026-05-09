@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4034,
+      "value": 5380,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 154.37,
+      "value": 111.2,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Mustache"
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Handlebars"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Normal Beard"
     }
   ]
 }

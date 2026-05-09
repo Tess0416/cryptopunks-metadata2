@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1438,
+      "value": 163,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 253.65,
+      "value": 392.97,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair Blonde"
+      "value": "Purple Eye Shadow"
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Tassle Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Choker"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Spots"
     }
   ]
 }

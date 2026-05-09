@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 587,
+      "value": 2658,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 319.45,
+      "value": 174.2,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Wild Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "VR"
+      "value": "Purple Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Regular Shades"
     }
   ]
 }

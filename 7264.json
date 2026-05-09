@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1220,
+      "value": 1454,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 266.64,
+      "value": 241.2,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Pilot Helmet"
     }
   ]
 }

@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2060,
+      "value": 1763,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 219.61,
+      "value": 221.92,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Orange Side"
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Wild Blonde"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1559,
+      "value": 9714,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 247.59,
+      "value": 44.32,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Chinstrap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Beanie"
+      "value": "Earring"
     }
   ]
 }

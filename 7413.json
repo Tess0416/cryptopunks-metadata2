@@ -6,38 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8157,
+      "value": 1833,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 81.71,
+      "value": 218.17,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Clown Nose"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Peak Spike"
     }
   ]
 }

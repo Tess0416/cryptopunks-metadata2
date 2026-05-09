@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5611,
+      "value": 1091,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 122.84,
+      "value": 264.09,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Eye Shadow"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Pilot Helmet"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Gold Chain"
     }
   ]
 }

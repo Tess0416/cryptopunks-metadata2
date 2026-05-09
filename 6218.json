@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5315,
+      "value": 6959,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 128.89,
+      "value": 90.87,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Big Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Muttonchops"
     }
   ]
 }

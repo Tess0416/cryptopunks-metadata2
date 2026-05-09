@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2652,
+      "value": 1203,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 194.23,
+      "value": 256.9,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Rosy Cheeks"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Pigtails"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Straight Hair Dark"
     }
   ]
 }

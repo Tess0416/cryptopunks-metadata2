@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2198,
+      "value": 8428,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 213.8,
+      "value": 68.77,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pigtails"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Front Beard"
     }
   ]
 }

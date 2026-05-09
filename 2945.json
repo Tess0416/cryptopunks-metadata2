@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 776,
+      "value": 2653,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 297.07,
+      "value": 174.36,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Eye Patch"
+      "value": "Luxurious Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Orange Side"
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Cigarette"
     }
   ]
 }

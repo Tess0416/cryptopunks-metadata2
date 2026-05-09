@@ -10,30 +10,34 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8448,
+      "value": 3633,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 76.59,
+      "value": 143.92,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard Dark"
+      "value": "Mole"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Fedora"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cowboy Hat"
     }
   ]
 }

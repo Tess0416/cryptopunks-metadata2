@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7813,
+      "value": 5689,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 88.12,
+      "value": 107.74,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Dark Hair"
+      "value": "Goat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Front Beard"
     }
   ]
 }

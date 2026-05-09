@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 872,
+      "value": 1324,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 290.21,
+      "value": 250.61,
       "display_type": "number"
     },
     {
@@ -33,11 +33,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Wild White Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Silver Chain"
     }
   ]
 }

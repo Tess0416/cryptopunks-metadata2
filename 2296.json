@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3194,
+      "value": 2971,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 176.48,
+      "value": 162.29,
       "display_type": "number"
     },
     {
@@ -24,12 +24,12 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Shadow Beard"
     },
     {
       "trait_type": "Accessory",
@@ -37,7 +37,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Luxurious Beard"
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Vape"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8922,
+      "value": 7119,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 66.24,
+      "value": 88.84,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
-    },
-    {
-      "trait_type": "Accessory",
       "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Earring"
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Eye Patch"
     }
   ]
 }

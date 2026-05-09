@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8178,
+      "value": 6647,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 81.29,
+      "value": 94.55,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Muttonchops"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Frown"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Horned Rim Glasses"
     }
   ]
 }

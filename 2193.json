@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7587,
+      "value": 5368,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 92.8,
+      "value": 111.43,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Black Lipstick"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "Wild Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mustache"
+      "value": "Blonde Bob"
     }
   ]
 }

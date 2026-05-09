@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1519,
+      "value": 6264,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 249.45,
+      "value": 99.5,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Headband"
     },
     {
       "trait_type": "Accessory",
-      "value": "Smile"
+      "value": "Vape"
     }
   ]
 }

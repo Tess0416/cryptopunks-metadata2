@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2384,
+      "value": 2581,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 206.24,
+      "value": 177.69,
       "display_type": "number"
     },
     {
@@ -24,16 +24,20 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shadow Beard"
+      "value": "Messy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tiara"
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Orange Side"
     }
   ]
 }

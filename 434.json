@@ -10,30 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7939,
+      "value": 4729,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 86.01,
+      "value": 122.28,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "Bandana"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Vape"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Blue Eye Shadow"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nerd Glasses"
     }
   ]
 }

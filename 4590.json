@@ -10,22 +10,30 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 17,
+      "value": 7873,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 1251.98,
+      "value": 77.35,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Legendary"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 0,
+      "value": 2,
       "display_type": "number"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Normal Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Frown"
     }
   ]
 }

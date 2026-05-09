@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1560,
+      "value": 7442,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 247.37,
+      "value": 83.89,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Classic Shades"
     }
   ]
 }

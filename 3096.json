@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7779,
+      "value": 9022,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 88.81,
+      "value": 58.77,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Classic Shades"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Mole"
     }
   ]
 }

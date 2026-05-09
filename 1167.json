@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5584,
+      "value": 5617,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 123.46,
+      "value": 108.76,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Tassle Hat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Clown Nose"
     }
   ]
 }

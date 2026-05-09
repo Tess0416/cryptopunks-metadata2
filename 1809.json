@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1535,
+      "value": 5206,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 248.55,
+      "value": 113.88,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Vampire Hair"
+      "value": "Hoodie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Blonde"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Knitted Cap"
     },
     {
       "trait_type": "Accessory",
-      "value": "Spots"
+      "value": "Frown"
     }
   ]
 }

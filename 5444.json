@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3429,
+      "value": 2512,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 170.49,
+      "value": 180.14,
       "display_type": "number"
     },
     {
@@ -24,12 +24,16 @@
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 3,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Rosy Cheeks"
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Straight Hair Dark"
     },
     {
       "trait_type": "Accessory",

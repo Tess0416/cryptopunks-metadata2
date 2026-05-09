@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7684,
+      "value": 4807,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 91.1,
+      "value": 120.63,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Do-rag"
+      "value": "Bandana"
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Shades"
+      "value": "Hot Lipstick"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9929,
+      "value": 2137,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 37.88,
+      "value": 200.38,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Cigarette"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Pilot Helmet"
     }
   ]
 }

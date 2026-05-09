@@ -6,38 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5537,
+      "value": 2452,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 124.44,
+      "value": 182.5,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Medical Mask"
+      "value": "Spots"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Smile"
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Do-rag"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6686,
+      "value": 3489,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 106.09,
+      "value": 147.55,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Clown Hair Green"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Tassle Hat"
     }
   ]
 }

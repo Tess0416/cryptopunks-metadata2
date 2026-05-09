@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9715,
+      "value": 5638,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 49.45,
+      "value": 108.41,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Half Shaved"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "3D Glasses"
     }
   ]
 }

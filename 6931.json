@@ -10,38 +10,42 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1789,
+      "value": 110,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 234.13,
+      "value": 434.86,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 5,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hoodie"
+      "value": "Pigtails"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Classic Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Purple Hair"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Choker"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Big Shades"
     }
   ]
 }

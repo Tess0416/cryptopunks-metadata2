@@ -10,38 +10,22 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 185,
+      "value": 11,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 406,
+      "value": 1251.98,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Epic"
+      "value": "Legendary"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 4,
+      "value": 0,
       "display_type": "number"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Straight Hair"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Choker"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Top Hat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Chinstrap"
     }
   ]
 }

@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7803,
+      "value": 6976,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 88.37,
+      "value": 90.7,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Frumpy Hair"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Crazy Hair"
+      "value": "Bandana"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "VR"
     }
   ]
 }

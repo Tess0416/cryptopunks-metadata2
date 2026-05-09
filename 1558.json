@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5026,
+      "value": 3076,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 134.28,
+      "value": 159.11,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Blonde Bob"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tassle Hat"
+      "value": "Straight Hair Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Horned Rim Glasses"
     }
   ]
 }

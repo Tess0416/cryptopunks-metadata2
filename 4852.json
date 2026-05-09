@@ -10,12 +10,12 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 9216,
+      "value": 9800,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 61.41,
+      "value": 42.19,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Wild Hair"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Normal Beard"
+      "value": "Do-rag"
     }
   ]
 }

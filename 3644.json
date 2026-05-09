@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1186,
+      "value": 3020,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 268.44,
+      "value": 160.81,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Pilot Helmet"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Horned Rim Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cigarette"
+      "value": "Rosy Cheeks"
     }
   ]
 }

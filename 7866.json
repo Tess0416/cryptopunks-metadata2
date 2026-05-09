@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3175,
+      "value": 3433,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 176.83,
+      "value": 149.32,
       "display_type": "number"
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Big Beard"
     },
     {
       "trait_type": "Accessory",
-      "value": "Small Shades"
+      "value": "Normal Beard Black"
     },
     {
       "trait_type": "Accessory",
-      "value": "Half Shaved"
+      "value": "Smile"
     }
   ]
 }

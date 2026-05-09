@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6636,
+      "value": 744,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 106.85,
+      "value": 289.36,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Orange Side"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Wild Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "Blonde Bob"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 2945,
+      "value": 1514,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 183.63,
+      "value": 237.42,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Crazy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "Blonde Bob"
     },
     {
       "trait_type": "Accessory",
-      "value": "Top Hat"
+      "value": "Straight Hair Blonde"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Eyes Blue"
+      "value": "Red Mohawk"
     }
   ]
 }

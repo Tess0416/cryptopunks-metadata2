@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 5425,
+      "value": 4778,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 126.8,
+      "value": 121.13,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
@@ -33,15 +33,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "3D Glasses"
+      "value": "Normal Beard Black"
     },
     {
       "trait_type": "Accessory",
-      "value": "Bandana"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Vape"
+      "value": "Goat"
     }
   ]
 }

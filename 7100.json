@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 4205,
+      "value": 7300,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 150.38,
+      "value": 86.31,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Big Beard"
+      "value": "Regular Shades"
     },
     {
       "trait_type": "Accessory",
-      "value": "Frown"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Cap Forward"
+      "value": "Peak Spike"
     }
   ]
 }

@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 6880,
+      "value": 1449,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 102.81,
+      "value": 241.65,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Nerd Glasses"
+      "value": "Messy Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Shaved Head"
+      "value": "Blonde Bob"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Orange Side"
     }
   ]
 }

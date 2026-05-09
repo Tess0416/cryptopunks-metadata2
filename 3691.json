@@ -10,30 +10,38 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 8817,
+      "value": 741,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 68.11,
+      "value": 289.55,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Rare"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 2,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Earring"
     },
     {
       "trait_type": "Accessory",
-      "value": "Mole"
+      "value": "Tiara"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Straight Hair Blonde"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Small Shades"
     }
   ]
 }

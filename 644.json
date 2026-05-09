@@ -6,38 +6,42 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7914,
+      "value": 3029,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 86.52,
+      "value": 160.42,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Attribute Count",
-      "value": 3,
+      "value": 4,
       "display_type": "number"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chinstrap"
+      "value": "Vape"
     },
     {
       "trait_type": "Accessory",
-      "value": "Headband"
+      "value": "Do-rag"
     },
     {
       "trait_type": "Accessory",
-      "value": "Stringy Hair"
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Buck Teeth"
     }
   ]
 }

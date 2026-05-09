@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7623,
+      "value": 187,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 92.14,
+      "value": 380.96,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Common"
+      "value": "Epic"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,19 +29,19 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Beanie"
     },
     {
       "trait_type": "Accessory",
-      "value": "Horned Rim Glasses"
+      "value": "VR"
     },
     {
       "trait_type": "Accessory",
-      "value": "Buck Teeth"
+      "value": "Goat"
     },
     {
       "trait_type": "Accessory",
-      "value": "Hot Lipstick"
+      "value": "Spots"
     }
   ]
 }

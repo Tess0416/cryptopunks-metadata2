@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 1767,
+      "value": 7180,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 235.8,
+      "value": 87.91,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk Thin"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory",
-      "value": "Choker"
+      "value": "Shadow Beard"
     }
   ]
 }

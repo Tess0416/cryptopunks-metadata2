@@ -6,16 +6,16 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7539,
+      "value": 8098,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 93.69,
+      "value": 74.27,
       "display_type": "number"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Mohawk"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Accessory",
-      "value": "Straight Hair"
+      "value": "Clown Nose"
     }
   ]
 }

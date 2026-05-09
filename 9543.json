@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3964,
+      "value": 6933,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 156.38,
+      "value": 91.19,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,15 +29,15 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Handlebars"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Accessory",
-      "value": "Blonde Short"
+      "value": "Muttonchops"
     },
     {
       "trait_type": "Accessory",
-      "value": "Front Beard"
+      "value": "Shadow Beard"
     }
   ]
 }

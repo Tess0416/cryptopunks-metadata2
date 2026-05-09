@@ -6,21 +6,21 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 3505,
+      "value": 5882,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Score",
-      "value": 168.24,
+      "value": 105.3,
       "display_type": "number"
     },
     {
       "trait_type": "Rarity Tier",
-      "value": "Uncommon"
+      "value": "Common"
     },
     {
       "trait_type": "Attribute Count",
@@ -29,11 +29,11 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Clown Nose"
+      "value": "Wild Hair"
     },
     {
       "trait_type": "Accessory",
-      "value": "Welding Goggles"
+      "value": "Blonde Short"
     }
   ]
 }
