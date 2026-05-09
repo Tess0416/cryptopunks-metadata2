@@ -1,0 +1,47 @@
+{
+  "name": "CryptoPunk #9571",
+  "description": "CryptoPunks launched as a fixed set of 10,000 items in mid-2017 and became one of the inspirations for the ERC-721 standard. They have been featured in places like The New York Times, Christie's of London, Art|Basel Miami, and The PBS NewsHour.",
+  "image": "https://tess0416.github.io/cryptopunks-images/9571.png",
+  "external_url": "https://cryptopunks.app/cryptopunks/details/9571",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "value": 1816,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Rarity Score",
+      "value": 232.45,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Attribute Count",
+      "value": 4,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Chinstrap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Straight Hair Dark"
+    }
+  ]
+}

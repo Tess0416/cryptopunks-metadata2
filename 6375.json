@@ -1,0 +1,47 @@
+{
+  "name": "CryptoPunk #6375",
+  "description": "CryptoPunks launched as a fixed set of 10,000 items in mid-2017 and became one of the inspirations for the ERC-721 standard. They have been featured in places like The New York Times, Christie's of London, Art|Basel Miami, and The PBS NewsHour.",
+  "image": "https://tess0416.github.io/cryptopunks-images/6375.png",
+  "external_url": "https://cryptopunks.app/cryptopunks/details/6375",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "value": 255,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Rarity Score",
+      "value": 379.38,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Attribute Count",
+      "value": 4,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Choker"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Goat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pigtails"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Messy Hair"
+    }
+  ]
+}

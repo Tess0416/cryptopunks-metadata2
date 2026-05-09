@@ -1,0 +1,47 @@
+{
+  "name": "CryptoPunk #8282",
+  "description": "CryptoPunks launched as a fixed set of 10,000 items in mid-2017 and became one of the inspirations for the ERC-721 standard. They have been featured in places like The New York Times, Christie's of London, Art|Basel Miami, and The PBS NewsHour.",
+  "image": "https://tess0416.github.io/cryptopunks-images/8282.png",
+  "external_url": "https://cryptopunks.app/cryptopunks/details/8282",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "value": 991,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Rarity Score",
+      "value": 282.51,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Attribute Count",
+      "value": 4,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Normal Beard Black"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pilot Helmet"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mustache"
+    }
+  ]
+}
